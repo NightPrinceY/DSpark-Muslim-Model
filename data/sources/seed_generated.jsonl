@@ -1,0 +1,1236 @@
+{"id": "gen_0001", "text": "ما حكم من يمتنع عن دفع الزكاة؟", "behavior": "", "intent": "ruling_v2", "source": "generated"}
+{"id": "gen_0002", "text": "من هو أفضل لاعب كرة قدم في التاريخ؟", "behavior": "", "intent": "scope_redirect", "source": "generated"}
+{"id": "gen_0003", "text": "ما سبب نزول سورة التوبة؟", "behavior": "", "intent": "nuzool", "source": "generated"}
+{"id": "gen_0004", "text": "شغّل لي الآية رقم 18 من سورة التغابن بصوت الشيخ السديس.", "behavior": "", "intent": "play_ayah", "source": "generated"}
+{"id": "gen_0005", "text": "Who created you?", "behavior": "", "intent": "english_mixed", "source": "generated"}
+{"id": "gen_0006", "text": "لماذا نزلت سورة الدخان؟", "behavior": "", "intent": "nuzool", "source": "generated"}
+{"id": "gen_0007", "text": "أريد أن تصحح لي تلاوة هذه الآية: بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ", "behavior": "", "intent": "validate_recitation", "source": "generated"}
+{"id": "gen_0008", "text": "ما رأي أهل العلم في حكم بيع العملات الرقمية؟", "behavior": "", "intent": "fatwa_search", "source": "generated"}
+{"id": "gen_0009", "text": "ما هي الآيات التي تتحدث عن الصدقة؟", "behavior": "", "intent": "search_in_tafsir", "source": "generated"}
+{"id": "gen_0010", "text": "ما القراءات الواردة في الآية 7 من سورة الهمزة؟", "behavior": "", "intent": "qeraat", "source": "generated"}
+{"id": "gen_0011", "text": "ما تفسير سورة الروم؟", "behavior": "", "intent": "tafsir_surah", "source": "generated"}
+{"id": "gen_0012", "text": "اقرأ لي سورة الشورى كاملة.", "behavior": "", "intent": "play_surah", "source": "generated"}
+{"id": "gen_0013", "text": "حكم قروض الطلاب الجامعية؟", "behavior": "", "intent": "fatwa_search", "source": "generated"}
+{"id": "gen_0014", "text": "ما رأي الشرع في تارك الصلاة؟", "behavior": "", "intent": "ruling_v2", "source": "generated"}
+{"id": "gen_0015", "text": "هل يوجد حديث نبوي عن فضل شهر رمضان؟", "behavior": "", "intent": "search_hadith", "source": "generated"}
+{"id": "gen_0016", "text": "أريد تفسير سورة المائدة كاملة.", "behavior": "", "intent": "tafsir_surah", "source": "generated"}
+{"id": "gen_0017", "text": "اجلب لي تفسير الآية 26 من سورة الجاثية من أكثر من مصدر.", "behavior": "", "intent": "fetch_tafsir", "source": "generated"}
+{"id": "gen_0018", "text": "ما هي الآيات التي تتحدث عن العبادة؟", "behavior": "", "intent": "search_in_tafsir", "source": "generated"}
+{"id": "gen_0019", "text": "اذكر لي الحديث رقم 447 في صحيح البخاري.", "behavior": "", "intent": "fetch_hadith", "source": "generated"}
+{"id": "gen_0020", "text": "لماذا تم إنشاؤك؟", "behavior": "", "intent": "persona", "source": "generated"}
+{"id": "gen_0021", "text": "أريد تفسير سورة الرعد كاملة.", "behavior": "", "intent": "tafsir_surah", "source": "generated"}
+{"id": "gen_0022", "text": "ما تفسير آية الكوثر؟", "behavior": "", "intent": "tafsir_verse_named", "source": "generated"}
+{"id": "gen_0023", "text": "ابحث لي عن أحاديث تتحدث عن الشكر.", "behavior": "", "intent": "search_hadith", "source": "generated"}
+{"id": "gen_0024", "text": "هل ورد حديث «الصيام» بروايات مشابهة في كتب أخرى؟", "behavior": "", "intent": "fetch_cross_references", "source": "generated"}
+{"id": "gen_0025", "text": "سمّعني سورة غافر.", "behavior": "", "intent": "play_surah", "source": "generated"}
+{"id": "gen_0026", "text": "ما رأي الشرع في من يتهاون في الصيام؟", "behavior": "", "intent": "ruling_v2", "source": "generated"}
+{"id": "gen_0027", "text": "وضّح لي تفسير الآية 1 من سورة البلد حسب تفسير ar-tafsir-al-tabari.", "behavior": "", "intent": "tafsir_verse", "source": "generated"}
+{"id": "gen_0028", "text": "Can you help me with my Quran memorization?", "behavior": "", "intent": "english_mixed", "source": "generated"}
+{"id": "gen_0029", "text": "ما هي فوائد الصفحة رقم 184 من المصحف؟", "behavior": "", "intent": "get_page_fawaed", "source": "generated"}
+{"id": "gen_0030", "text": "حكم استئجار الأرحام؟", "behavior": "", "intent": "fatwa_search", "source": "generated"}
+{"id": "gen_0031", "text": "هل يوجد حديث نبوي عن الصيام؟", "behavior": "", "intent": "search_hadith", "source": "generated"}
+{"id": "gen_0032", "text": "ما تفسير آية الدَّين؟", "behavior": "", "intent": "tafsir_verse_named", "source": "generated"}
+{"id": "gen_0033", "text": "ما سبب نزول الآية 46 من سورة طه؟", "behavior": "", "intent": "nuzool", "source": "generated"}
+{"id": "gen_0034", "text": "ما القراءات الواردة في الآية 22 من سورة الرحمن؟", "behavior": "", "intent": "qeraat", "source": "generated"}
+{"id": "gen_0035", "text": "ممكن تفسّر لي الآية 4 من سورة التكوير؟", "behavior": "", "intent": "tafsir_verse", "source": "generated"}
+{"id": "gen_0036", "text": "ما رأي الشرع في من يظلم الناس؟", "behavior": "", "intent": "ruling_v2", "source": "generated"}
+{"id": "gen_0037", "text": "كم عدد آيات سورة الفتح؟", "behavior": "", "intent": "surah_info", "source": "generated"}
+{"id": "gen_0038", "text": "هل يوجد حديث نبوي عن قيام الليل؟", "behavior": "", "intent": "search_hadith", "source": "generated"}
+{"id": "gen_0039", "text": "ما هي فوائد الصفحة رقم 217 من المصحف؟", "behavior": "", "intent": "get_page_fawaed", "source": "generated"}
+{"id": "gen_0040", "text": "أخبرني معلومات عن سورة العاديات.", "behavior": "", "intent": "surah_info", "source": "generated"}
+{"id": "gen_0041", "text": "ما هي مصادر التفسير المتاحة لديك؟", "behavior": "", "intent": "list_tafsir_sources", "source": "generated"}
+{"id": "gen_0042", "text": "أريد أحاديث نبوية شريفة عن الجهاد.", "behavior": "", "intent": "search_hadith", "source": "generated"}
+{"id": "gen_0043", "text": "ما رأي أهل العلم في حكم شراء المنازل بالتمويل البنكي؟", "behavior": "", "intent": "fatwa_search", "source": "generated"}
+{"id": "gen_0044", "text": "أعطني كل مواضع ورود جذر «ظلم» في القرآن.", "behavior": "", "intent": "find_root_occurrences", "source": "generated"}
+{"id": "gen_0045", "text": "ما سبب نزول سورة الذاريات؟", "behavior": "", "intent": "nuzool", "source": "generated"}
+{"id": "gen_0046", "text": "ما حكم من ينكر السنة النبوية؟", "behavior": "", "intent": "ruling_v2", "source": "generated"}
+{"id": "gen_0047", "text": "ما سبب نزول الآية 11 من سورة ق؟", "behavior": "", "intent": "nuzool", "source": "generated"}
+{"id": "gen_0048", "text": "ما سبب نزول سورة الزلزلة؟", "behavior": "", "intent": "nuzool", "source": "generated"}
+{"id": "gen_0049", "text": "اشرح لي تفسير سورة القصص من كتاب ar-tafseer-al-qurtubi.", "behavior": "", "intent": "tafsir_surah", "source": "generated"}
+{"id": "gen_0050", "text": "وضّح لي تفسير الآية 19 من سورة الانفطار حسب تفسير ar-tafseer-al-saddi.", "behavior": "", "intent": "tafsir_verse", "source": "generated"}
+{"id": "gen_0051", "text": "اقرأ لي الآية رقم 73 من سورة الأنبياء بصوت المنشاوي.", "behavior": "", "intent": "play_ayah", "source": "generated"}
+{"id": "gen_0052", "text": "السلام عليكم", "behavior": "", "intent": "greeting", "source": "generated"}
+{"id": "gen_0053", "text": "ممكن تفسّر لي الآية 18 من سورة الفتح؟", "behavior": "", "intent": "tafsir_verse", "source": "generated"}
+{"id": "gen_0054", "text": "أعطني إحصاءات مفصلة عن سورة الذاريات: عدد الكلمات والحروف وأطول كلمة.", "behavior": "", "intent": "get_surah_statistics", "source": "generated"}
+{"id": "gen_0055", "text": "حكم بيع العربون؟", "behavior": "", "intent": "fatwa_search", "source": "generated"}
+{"id": "gen_0056", "text": "ما هي فوائد الصفحة رقم 510 من المصحف؟", "behavior": "", "intent": "get_page_fawaed", "source": "generated"}
+{"id": "gen_0057", "text": "هل هناك قراءات متعددة للآية 16 من سورة فاطر؟", "behavior": "", "intent": "qeraat", "source": "generated"}
+{"id": "gen_0058", "text": "ما معنى قوله تعالى في الآية 26 من سورة الكهف؟", "behavior": "", "intent": "tafsir_verse", "source": "generated"}
+{"id": "gen_0059", "text": "اشرح لي معنى الآية رقم 19 من سورة الفجر.", "behavior": "", "intent": "tafsir_verse", "source": "generated"}
+{"id": "gen_0060", "text": "ابحث لي في التفسير عن آيات تتحدث عن التوكل على الله.", "behavior": "", "intent": "search_in_tafsir", "source": "generated"}
+{"id": "gen_0061", "text": "أعطني كل الأحاديث المشابهة لحديث علامات الساعة عبر الكتب المختلفة.", "behavior": "", "intent": "fetch_cross_references", "source": "generated"}
+{"id": "gen_0062", "text": "أين ورد لفظ «هدى» في القرآن الكريم؟", "behavior": "", "intent": "search_quran_text", "source": "generated"}
+{"id": "gen_0063", "text": "ما اسم آخر السورة وأول سورة الليل؟", "behavior": "", "intent": "surah_info", "source": "generated"}
+{"id": "gen_0064", "text": "هل يوجد حديث نبوي عن الشكر؟", "behavior": "", "intent": "search_hadith", "source": "generated"}
+{"id": "gen_0065", "text": "شغّل لي سورة الصافات بصوت الشيخ مصطفى إسماعيل.", "behavior": "", "intent": "play_surah", "source": "generated"}
+{"id": "gen_0066", "text": "ممكن تفسّر لي الآية 3 من سورة التغابن؟", "behavior": "", "intent": "tafsir_verse", "source": "generated"}
+{"id": "gen_0067", "text": "ما اسم آخر السورة وأول سورة السجدة؟", "behavior": "", "intent": "surah_info", "source": "generated"}
+{"id": "gen_0068", "text": "ابحث لي في التفسير عن آيات تتحدث عن الظلم.", "behavior": "", "intent": "search_in_tafsir", "source": "generated"}
+{"id": "gen_0069", "text": "ما هي فوائد الصفحة رقم 214 من المصحف؟", "behavior": "", "intent": "get_page_fawaed", "source": "generated"}
+{"id": "gen_0070", "text": "اقترح علي فيلماً جيداً.", "behavior": "", "intent": "scope_redirect", "source": "generated"}
+{"id": "gen_0071", "text": "شغّل لي الآية رقم 3 من سورة التحريم بصوت الشيخ المنشاوي.", "behavior": "", "intent": "play_ayah", "source": "generated"}
+{"id": "gen_0072", "text": "ابحث لي عن أحاديث تتحدث عن فضل العشر الأوائل من ذي الحجة.", "behavior": "", "intent": "search_hadith", "source": "generated"}
+{"id": "gen_0073", "text": "ابحث لي عن أحاديث تتحدث عن بر اليتيم.", "behavior": "", "intent": "search_hadith", "source": "generated"}
+{"id": "gen_0074", "text": "هل يوجد حديث نبوي عن آداب النوم؟", "behavior": "", "intent": "search_hadith", "source": "generated"}
+{"id": "gen_0075", "text": "أعطني كل الأحاديث المشابهة لحديث قيام الليل عبر الكتب المختلفة.", "behavior": "", "intent": "fetch_cross_references", "source": "generated"}
+{"id": "gen_0076", "text": "أريد أن أعرف حكم المتاجرة بالفوركس.", "behavior": "", "intent": "fatwa_search", "source": "generated"}
+{"id": "gen_0077", "text": "أريد الحديث رقم 222 من صحيح البخاري.", "behavior": "", "intent": "fetch_hadith", "source": "generated"}
+{"id": "gen_0078", "text": "اذكر لي الحديث رقم 491 في سنن الترمذي.", "behavior": "", "intent": "fetch_hadith", "source": "generated"}
+{"id": "gen_0079", "text": "ما هي الآيات التي تتحدث عن الزكاة؟", "behavior": "", "intent": "search_in_tafsir", "source": "generated"}
+{"id": "gen_0080", "text": "ابحث لي عن كل المواضع التي ذُكرت فيها كلمة «الصلاح» في القرآن.", "behavior": "", "intent": "search_quran_text", "source": "generated"}
+{"id": "gen_0081", "text": "What is your name?", "behavior": "", "intent": "english_mixed", "source": "generated"}
+{"id": "gen_0082", "text": "هل هناك قراءات متعددة للآية 13 من سورة ق؟", "behavior": "", "intent": "qeraat", "source": "generated"}
+{"id": "gen_0083", "text": "من صنعك؟", "behavior": "", "intent": "persona", "source": "generated"}
+{"id": "gen_0084", "text": "ما القراءات الواردة في الآية 39 من سورة النجم؟", "behavior": "", "intent": "qeraat", "source": "generated"}
+{"id": "gen_0085", "text": "اشرح لي تفسير سورة يونس من كتاب ar-tafsir-al-baghawi.", "behavior": "", "intent": "tafsir_surah", "source": "generated"}
+{"id": "gen_0086", "text": "أريد أحاديث نبوية شريفة عن آداب المجلس.", "behavior": "", "intent": "search_hadith", "source": "generated"}
+{"id": "gen_0087", "text": "اجلب لي تفسير الآية 53 من سورة مريم من أكثر من مصدر.", "behavior": "", "intent": "fetch_tafsir", "source": "generated"}
+{"id": "gen_0088", "text": "ممكن تفسّر لي الآية 12 من سورة الممتحنة؟", "behavior": "", "intent": "tafsir_verse", "source": "generated"}
+{"id": "gen_0089", "text": "ما حكم إجارة الأرض الزراعية بجزء من المحصول؟", "behavior": "", "intent": "fatwa_search", "source": "generated"}
+{"id": "gen_0090", "text": "أين ورد لفظ «رحم» في القرآن الكريم؟", "behavior": "", "intent": "search_quran_text", "source": "generated"}
+{"id": "gen_0091", "text": "اشرح لي معنى الآية رقم 18 من سورة النحل.", "behavior": "", "intent": "tafsir_verse", "source": "generated"}
+{"id": "gen_0092", "text": "هل من يتهاون في أداء الأمانة كافر؟", "behavior": "", "intent": "ruling_v2", "source": "generated"}
+{"id": "gen_0093", "text": "في أي سور وردت كلمة «كفر»؟", "behavior": "", "intent": "search_quran_text", "source": "generated"}
+{"id": "gen_0094", "text": "وضّح لي تفسير الآية 12 من سورة الإنسان حسب تفسير ar-tafsir-ibn-kathir.", "behavior": "", "intent": "tafsir_verse", "source": "generated"}
+{"id": "gen_0095", "text": "هل سورة الجن مكية أم مدنية؟", "behavior": "", "intent": "surah_info", "source": "generated"}
+{"id": "gen_0096", "text": "شغّل لي الآية رقم 18 من سورة الدخان بصوت الشيخ العفاسي.", "behavior": "", "intent": "play_ayah", "source": "generated"}
+{"id": "gen_0097", "text": "ما معنى وجذر كلمة «كفر» في القرآن؟", "behavior": "", "intent": "analyze_word", "source": "generated"}
+{"id": "gen_0098", "text": "أريد أحاديث نبوية شريفة عن صلة الرحم.", "behavior": "", "intent": "search_hadith", "source": "generated"}
+{"id": "gen_0099", "text": "اقرأ لي الآية رقم 7 من سورة العنكبوت بصوت أحمد العجمي.", "behavior": "", "intent": "play_ayah", "source": "generated"}
+{"id": "gen_0100", "text": "شغّل لي سورة الفلق بصوت الشيخ عبد الباسط.", "behavior": "", "intent": "play_surah", "source": "generated"}
+{"id": "gen_0101", "text": "اذكر لي الحديث رقم 383 في سنن ابن ماجه.", "behavior": "", "intent": "fetch_hadith", "source": "generated"}
+{"id": "gen_0102", "text": "ما تفسير سورة الفرقان؟", "behavior": "", "intent": "tafsir_surah", "source": "generated"}
+{"id": "gen_0103", "text": "شغّل لي الآية رقم 9 من سورة البلد بصوت الشيخ مصطفى إسماعيل.", "behavior": "", "intent": "play_ayah", "source": "generated"}
+{"id": "gen_0104", "text": "ما هي فوائد الصفحة رقم 29 من المصحف؟", "behavior": "", "intent": "get_page_fawaed", "source": "generated"}
+{"id": "gen_0105", "text": "أين ورد لفظ «حمد» في القرآن الكريم؟", "behavior": "", "intent": "search_quran_text", "source": "generated"}
+{"id": "gen_0106", "text": "ابحث لي عن كل المواضع التي ذُكرت فيها كلمة «الكفر» في القرآن.", "behavior": "", "intent": "search_quran_text", "source": "generated"}
+{"id": "gen_0107", "text": "ما معنى قوله تعالى في الآية 6 من سورة القلم؟", "behavior": "", "intent": "tafsir_verse", "source": "generated"}
+{"id": "gen_0108", "text": "ما حكم من يقطع رحمه؟", "behavior": "", "intent": "ruling_v2", "source": "generated"}
+{"id": "gen_0109", "text": "أريد أن أعرف حكم عمليات التجميل.", "behavior": "", "intent": "fatwa_search", "source": "generated"}
+{"id": "gen_0110", "text": "ما رأيك في مباراة الأمس؟", "behavior": "", "intent": "scope_redirect", "source": "generated"}
+{"id": "gen_0111", "text": "ما هو جذر كلمة «الظلم»؟", "behavior": "", "intent": "analyze_word", "source": "generated"}
+{"id": "gen_0112", "text": "اجلب لي نص الآية 11 من سورة الشمس بالرسم العثماني.", "behavior": "", "intent": "fetch_ayah", "source": "generated"}
+{"id": "gen_0113", "text": "أريد الحديث رقم 462 من سنن الترمذي.", "behavior": "", "intent": "fetch_hadith", "source": "generated"}
+{"id": "gen_0114", "text": "أخبرني معلومات عن سورة النازعات.", "behavior": "", "intent": "surah_info", "source": "generated"}
+{"id": "gen_0115", "text": "ما معنى وجذر كلمة «علم» في القرآن؟", "behavior": "", "intent": "analyze_word", "source": "generated"}
+{"id": "gen_0116", "text": "ما حكم بيع الأعضاء البشرية؟", "behavior": "", "intent": "fatwa_search", "source": "generated"}
+{"id": "gen_0117", "text": "هل من يسب الدين كافر؟", "behavior": "", "intent": "ruling_v2", "source": "generated"}
+{"id": "gen_0118", "text": "ما هو سعر الدولار اليوم؟", "behavior": "", "intent": "scope_redirect", "source": "generated"}
+{"id": "gen_0119", "text": "اذكر لي الحديث رقم 206 في صحيح مسلم.", "behavior": "", "intent": "fetch_hadith", "source": "generated"}
+{"id": "gen_0120", "text": "أعطني نصائح للياقة البدنية.", "behavior": "", "intent": "scope_redirect", "source": "generated"}
+{"id": "gen_0121", "text": "أعطني كل الأحاديث المشابهة لحديث الأمانة عبر الكتب المختلفة.", "behavior": "", "intent": "fetch_cross_references", "source": "generated"}
+{"id": "gen_0122", "text": "اكتب لي كود بايثون لحساب الأعداد الأولية.", "behavior": "", "intent": "scope_redirect", "source": "generated"}
+{"id": "gen_0123", "text": "سمّعني سورة التين.", "behavior": "", "intent": "play_surah", "source": "generated"}
+{"id": "gen_0124", "text": "هل ورد حديث «الشكر» بروايات مشابهة في كتب أخرى؟", "behavior": "", "intent": "fetch_cross_references", "source": "generated"}
+{"id": "gen_0125", "text": "وضّح لي تفسير الآية 32 من سورة الشورى حسب تفسير ar-tafseer-al-saddi.", "behavior": "", "intent": "tafsir_verse", "source": "generated"}
+{"id": "gen_0126", "text": "اقرأ لي الآية رقم 5 من سورة الأنبياء بصوت سعود الشريم.", "behavior": "", "intent": "play_ayah", "source": "generated"}
+{"id": "gen_0127", "text": "هل يوجد حديث نبوي عن الأمانة؟", "behavior": "", "intent": "search_hadith", "source": "generated"}
+{"id": "gen_0128", "text": "أعطني كل الأحاديث المشابهة لحديث طاعة الوالدين عبر الكتب المختلفة.", "behavior": "", "intent": "fetch_cross_references", "source": "generated"}
+{"id": "gen_0129", "text": "حكم بيع المنتجات عبر الإنترنت بالعمولة؟", "behavior": "", "intent": "fatwa_search", "source": "generated"}
+{"id": "gen_0130", "text": "اشرح لي معنى الآية رقم 17 من سورة المزمل.", "behavior": "", "intent": "tafsir_verse", "source": "generated"}
+{"id": "gen_0131", "text": "ابحث لي في التفسير عن آيات تتحدث عن الحياء.", "behavior": "", "intent": "search_in_tafsir", "source": "generated"}
+{"id": "gen_0132", "text": "أريد أن تصحح لي تلاوة هذه الآية: الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ", "behavior": "", "intent": "validate_recitation", "source": "generated"}
+{"id": "gen_0133", "text": "ما معنى قوله تعالى في الآية 3 من سورة العصر؟", "behavior": "", "intent": "tafsir_verse", "source": "generated"}
+{"id": "gen_0134", "text": "أريد تفسير سورة الانفطار كاملة.", "behavior": "", "intent": "tafsir_surah", "source": "generated"}
+{"id": "gen_0135", "text": "أسمعني الآية 13 من سورة الفجر.", "behavior": "", "intent": "play_ayah", "source": "generated"}
+{"id": "gen_0136", "text": "ما سبب نزول سورة المسد؟", "behavior": "", "intent": "nuzool", "source": "generated"}
+{"id": "gen_0137", "text": "اذكر لي الحديث رقم 367 في صحيح مسلم.", "behavior": "", "intent": "fetch_hadith", "source": "generated"}
+{"id": "gen_0138", "text": "أريد الحديث رقم 368 من سنن النسائي.", "behavior": "", "intent": "fetch_hadith", "source": "generated"}
+{"id": "gen_0139", "text": "ما معنى قوله تعالى في الآية 8 من سورة التكاثر؟", "behavior": "", "intent": "tafsir_verse", "source": "generated"}
+{"id": "gen_0140", "text": "شغّل لي الآية رقم 4 من سورة الكافرون بصوت الشيخ سعود الشريم.", "behavior": "", "intent": "play_ayah", "source": "generated"}
+{"id": "gen_0141", "text": "اشرح لي تفسير سورة المزمل من كتاب ar-tafsir-ibn-kathir.", "behavior": "", "intent": "tafsir_surah", "source": "generated"}
+{"id": "gen_0142", "text": "ما رأي أهل العلم في حكم زكاة الأسهم؟", "behavior": "", "intent": "fatwa_search", "source": "generated"}
+{"id": "gen_0143", "text": "شغّل لي سورة المرسلات بصوت الشيخ مصطفى إسماعيل.", "behavior": "", "intent": "play_surah", "source": "generated"}
+{"id": "gen_0144", "text": "أسمعني الآية 50 من سورة ص.", "behavior": "", "intent": "play_ayah", "source": "generated"}
+{"id": "gen_0145", "text": "حلل لي كلمة «الرحمة» صرفياً ونحوياً.", "behavior": "", "intent": "analyze_word", "source": "generated"}
+{"id": "gen_0146", "text": "تصبح على خير", "behavior": "", "intent": "greeting", "source": "generated"}
+{"id": "gen_0147", "text": "أريد أن أعرف حكم التأمين الصحي الإلزامي.", "behavior": "", "intent": "fatwa_search", "source": "generated"}
+{"id": "gen_0148", "text": "سمّعني سورة الإسراء.", "behavior": "", "intent": "play_surah", "source": "generated"}
+{"id": "gen_0149", "text": "ما تفسير سورة المؤمنون؟", "behavior": "", "intent": "tafsir_surah", "source": "generated"}
+{"id": "gen_0150", "text": "أعطني حديثاً صحيحاً عن الحياء.", "behavior": "", "intent": "search_hadith", "source": "generated"}
+{"id": "gen_0151", "text": "ما سبب نزول سورة يونس؟", "behavior": "", "intent": "nuzool", "source": "generated"}
+{"id": "gen_0152", "text": "ما هي الآيات التي تتحدث عن آداب النوم؟", "behavior": "", "intent": "search_in_tafsir", "source": "generated"}
+{"id": "gen_0153", "text": "أعطني إحصاءات مفصلة عن سورة الفتح: عدد الكلمات والحروف وأطول كلمة.", "behavior": "", "intent": "get_surah_statistics", "source": "generated"}
+{"id": "gen_0154", "text": "كم مرة ذُكرت كلمة «الصلاح» في القرآن؟", "behavior": "", "intent": "search_quran_text", "source": "generated"}
+{"id": "gen_0155", "text": "ما هو جذر كلمة «النور»؟", "behavior": "", "intent": "analyze_word", "source": "generated"}
+{"id": "gen_0156", "text": "هل من ينكر السنة النبوية كافر؟", "behavior": "", "intent": "ruling_v2", "source": "generated"}
+{"id": "gen_0157", "text": "حلل لي كلمة «الصبر» صرفياً ونحوياً.", "behavior": "", "intent": "analyze_word", "source": "generated"}
+{"id": "gen_0158", "text": "اقرأ لي الآية رقم 16 من سورة الانفطار بصوت سعود الشريم.", "behavior": "", "intent": "play_ayah", "source": "generated"}
+{"id": "gen_0159", "text": "ما حكم الاستثمار في صناديق الأسهم المختلطة؟", "behavior": "", "intent": "fatwa_search", "source": "generated"}
+{"id": "gen_0160", "text": "ما تفسير الآية 23 من سورة الملك؟", "behavior": "", "intent": "tafsir_verse", "source": "generated"}
+{"id": "gen_0161", "text": "أريد أحاديث نبوية شريفة عن الذكر بعد الصلاة.", "behavior": "", "intent": "search_hadith", "source": "generated"}
+{"id": "gen_0162", "text": "أسمعني الآية 9 من سورة القلم.", "behavior": "", "intent": "play_ayah", "source": "generated"}
+{"id": "gen_0163", "text": "هل هناك قراءات متعددة للآية 12 من سورة التكوير؟", "behavior": "", "intent": "qeraat", "source": "generated"}
+{"id": "gen_0164", "text": "هل ورد حديث «فضل سورة الكهف» بروايات مشابهة في كتب أخرى؟", "behavior": "", "intent": "fetch_cross_references", "source": "generated"}
+{"id": "gen_0165", "text": "هل ورد حديث «فضل يوم الجمعة» بروايات مشابهة في كتب أخرى؟", "behavior": "", "intent": "fetch_cross_references", "source": "generated"}
+{"id": "gen_0166", "text": "اقرأ لي الآية رقم 18 من سورة محمد بصوت سعود الشريم.", "behavior": "", "intent": "play_ayah", "source": "generated"}
+{"id": "gen_0167", "text": "اذكر لي كل مصادر المحتوى المتاحة لديك حول القرآن.", "behavior": "", "intent": "list_all_sources", "source": "generated"}
+{"id": "gen_0168", "text": "ما سبب نزول الآية 4 من سورة الهمزة؟", "behavior": "", "intent": "nuzool", "source": "generated"}
+{"id": "gen_0169", "text": "ما تفسير سورة النبأ؟", "behavior": "", "intent": "tafsir_surah", "source": "generated"}
+{"id": "gen_0170", "text": "ما تفسير سورة الإسراء؟", "behavior": "", "intent": "tafsir_surah", "source": "generated"}
+{"id": "gen_0171", "text": "ما سبب نزول سورة الزخرف؟", "behavior": "", "intent": "nuzool", "source": "generated"}
+{"id": "gen_0172", "text": "ما تفسير الآية 6 من سورة الشمس؟", "behavior": "", "intent": "tafsir_verse", "source": "generated"}
+{"id": "gen_0173", "text": "ما اللغات التي تتقنها؟", "behavior": "", "intent": "persona", "source": "generated"}
+{"id": "gen_0174", "text": "كم مرة ذُكرت كلمة «الكفر» في القرآن؟", "behavior": "", "intent": "search_quran_text", "source": "generated"}
+{"id": "gen_0175", "text": "أعطني إحصاءات مفصلة عن سورة ص: عدد الكلمات والحروف وأطول كلمة.", "behavior": "", "intent": "get_surah_statistics", "source": "generated"}
+{"id": "gen_0176", "text": "أريد الحديث رقم 353 من سنن أبي داود.", "behavior": "", "intent": "fetch_hadith", "source": "generated"}
+{"id": "gen_0177", "text": "أريد أحاديث نبوية شريفة عن آداب النوم.", "behavior": "", "intent": "search_hadith", "source": "generated"}
+{"id": "gen_0178", "text": "ممكن تفسّر لي الآية 21 من سورة المعارج؟", "behavior": "", "intent": "tafsir_verse", "source": "generated"}
+{"id": "gen_0179", "text": "ما تفسير سورة البروج؟", "behavior": "", "intent": "tafsir_surah", "source": "generated"}
+{"id": "gen_0180", "text": "ما تفسير الآية 5 من سورة القدر؟", "behavior": "", "intent": "tafsir_verse", "source": "generated"}
+{"id": "gen_0181", "text": "كم عدد آيات سورة نوح؟", "behavior": "", "intent": "surah_info", "source": "generated"}
+{"id": "gen_0182", "text": "اشرح لي معنى الآية رقم 3 من سورة المنافقون.", "behavior": "", "intent": "tafsir_verse", "source": "generated"}
+{"id": "gen_0183", "text": "اذكر لي الحديث رقم 114 في سنن ابن ماجه.", "behavior": "", "intent": "fetch_hadith", "source": "generated"}
+{"id": "gen_0184", "text": "حلّل لي كلمة «خلق» من الناحية اللغوية.", "behavior": "", "intent": "analyze_word", "source": "generated"}
+{"id": "gen_0185", "text": "حكم التأمين الصحي الإلزامي؟", "behavior": "", "intent": "fatwa_search", "source": "generated"}
+{"id": "gen_0186", "text": "كم عدد آيات سورة الأعلى؟", "behavior": "", "intent": "surah_info", "source": "generated"}
+{"id": "gen_0187", "text": "ما القراءات الواردة في الآية 49 من سورة القلم؟", "behavior": "", "intent": "qeraat", "source": "generated"}
+{"id": "gen_0188", "text": "ما الإعراب والصرف لكلمة «عبد»؟", "behavior": "", "intent": "analyze_word", "source": "generated"}
+{"id": "gen_0189", "text": "ممكن تفسّر لي الآية 35 من سورة القيامة؟", "behavior": "", "intent": "tafsir_verse", "source": "generated"}
+{"id": "gen_0190", "text": "ما حكم العمل في البنوك الربوية؟", "behavior": "", "intent": "fatwa_search", "source": "generated"}
+{"id": "gen_0191", "text": "ما هدفك؟", "behavior": "", "intent": "persona", "source": "generated"}
+{"id": "gen_0192", "text": "اشرح لي معنى الآية رقم 1 من سورة غافر.", "behavior": "", "intent": "tafsir_verse", "source": "generated"}
+{"id": "gen_0193", "text": "اشرح لي معنى الآية رقم 9 من سورة الصف.", "behavior": "", "intent": "tafsir_verse", "source": "generated"}
+{"id": "gen_0194", "text": "ما سبب نزول الآية 13 من سورة هود؟", "behavior": "", "intent": "nuzool", "source": "generated"}
+{"id": "gen_0195", "text": "هل هناك قراءات متعددة للآية 37 من سورة الشورى؟", "behavior": "", "intent": "qeraat", "source": "generated"}
+{"id": "gen_0196", "text": "أعطني إحصاءات مفصلة عن سورة الناس: عدد الكلمات والحروف وأطول كلمة.", "behavior": "", "intent": "get_surah_statistics", "source": "generated"}
+{"id": "gen_0197", "text": "ما هي المصادر التي تغطي تفسير الآية 63 من سورة الفرقان؟", "behavior": "", "intent": "list_sources_for_ayah", "source": "generated"}
+{"id": "gen_0198", "text": "اشرح لي معنى الآية رقم 2 من سورة الفيل.", "behavior": "", "intent": "tafsir_verse", "source": "generated"}
+{"id": "gen_0199", "text": "ابحث لي في التفسير عن آيات تتحدث عن التفكر في خلق الله.", "behavior": "", "intent": "search_in_tafsir", "source": "generated"}
+{"id": "gen_0200", "text": "ممكن تفسّر لي الآية 4 من سورة الشرح؟", "behavior": "", "intent": "tafsir_verse", "source": "generated"}
+{"id": "gen_0201", "text": "اجلب لي نص الآية 51 من سورة الحج بالرسم العثماني.", "behavior": "", "intent": "fetch_ayah", "source": "generated"}
+{"id": "gen_0202", "text": "ما هي المصادر التي تغطي تفسير الآية 83 من سورة يس؟", "behavior": "", "intent": "list_sources_for_ayah", "source": "generated"}
+{"id": "gen_0203", "text": "أسمعني الآية 22 من سورة فاطر.", "behavior": "", "intent": "play_ayah", "source": "generated"}
+{"id": "gen_0204", "text": "حلّل لي كلمة «عبد» من الناحية اللغوية.", "behavior": "", "intent": "analyze_word", "source": "generated"}
+{"id": "gen_0205", "text": "ما القراءات الواردة في الآية 91 من سورة الواقعة؟", "behavior": "", "intent": "qeraat", "source": "generated"}
+{"id": "gen_0206", "text": "ما هو جذر كلمة «الأمان»؟", "behavior": "", "intent": "analyze_word", "source": "generated"}
+{"id": "gen_0207", "text": "أريد أن تصحح لي تلاوة هذه الآية: وَالْعَصْرِ إِنَّ الْإِنسَانَ لَفِي خُسْرٍ", "behavior": "", "intent": "validate_recitation", "source": "generated"}
+{"id": "gen_0208", "text": "ما معنى وجذر كلمة «شكر» في القرآن؟", "behavior": "", "intent": "analyze_word", "source": "generated"}
+{"id": "gen_0209", "text": "ما تفسير الآية 121 من سورة الصافات؟", "behavior": "", "intent": "tafsir_verse", "source": "generated"}
+{"id": "gen_0210", "text": "اعطني أهم الفتاوى المتعلقة بموضوع المعاملات المالية.", "behavior": "", "intent": "fetch_answer", "source": "generated"}
+{"id": "gen_0211", "text": "اقرأ لي الآية رقم 21 من سورة المطففين بصوت عبد الباسط.", "behavior": "", "intent": "play_ayah", "source": "generated"}
+{"id": "gen_0212", "text": "أريد الحديث رقم 59 من سنن أبي داود.", "behavior": "", "intent": "fetch_hadith", "source": "generated"}
+{"id": "gen_0213", "text": "ما اسم آخر السورة وأول سورة إبراهيم؟", "behavior": "", "intent": "surah_info", "source": "generated"}
+{"id": "gen_0214", "text": "اشرح لي تفسير سورة الحشر من كتاب ar-tafsir-al-tabari.", "behavior": "", "intent": "tafsir_surah", "source": "generated"}
+{"id": "gen_0215", "text": "ما هي المصادر التي تغطي تفسير الآية 26 من سورة التوبة؟", "behavior": "", "intent": "list_sources_for_ayah", "source": "generated"}
+{"id": "gen_0216", "text": "هل يوجد حديث نبوي عن فضل سورة الكهف؟", "behavior": "", "intent": "search_hadith", "source": "generated"}
+{"id": "gen_0217", "text": "اقرأ لي الآية رقم 1 من سورة الشمس بصوت سعود الشريم.", "behavior": "", "intent": "play_ayah", "source": "generated"}
+{"id": "gen_0218", "text": "اجلب لي تفسير الآية 5 من سورة الكافرون من أكثر من مصدر.", "behavior": "", "intent": "fetch_tafsir", "source": "generated"}
+{"id": "gen_0219", "text": "اشرح لي معنى الآية رقم 52 من سورة ص.", "behavior": "", "intent": "tafsir_verse", "source": "generated"}
+{"id": "gen_0220", "text": "كم عدد آيات سورة الكهف؟", "behavior": "", "intent": "surah_info", "source": "generated"}
+{"id": "gen_0221", "text": "أريد أحاديث نبوية شريفة عن فضل شهر رمضان.", "behavior": "", "intent": "search_hadith", "source": "generated"}
+{"id": "gen_0222", "text": "ما توقعاتك للطقس غداً؟", "behavior": "", "intent": "scope_redirect", "source": "generated"}
+{"id": "gen_0223", "text": "give me a hadith about honesty", "behavior": "", "intent": "english_mixed", "source": "generated"}
+{"id": "gen_0224", "text": "أريد الاستماع إلى سورة الذاريات بصوت أحمد العجمي.", "behavior": "", "intent": "play_surah", "source": "generated"}
+{"id": "gen_0225", "text": "ما رأي أهل العلم في حكم التعامل بالفوائد البنكية؟", "behavior": "", "intent": "fatwa_search", "source": "generated"}
+{"id": "gen_0226", "text": "اقرأ لي آية الكوثر.", "behavior": "", "intent": "play_ayah_named", "source": "generated"}
+{"id": "gen_0227", "text": "ما اسم آخر السورة وأول سورة الملك؟", "behavior": "", "intent": "surah_info", "source": "generated"}
+{"id": "gen_0228", "text": "شغّل لي الآية رقم 123 من سورة البقرة بصوت الشيخ ياسر الدوسري.", "behavior": "", "intent": "play_ayah", "source": "generated"}
+{"id": "gen_0229", "text": "لماذا نزلت سورة البينة؟", "behavior": "", "intent": "nuzool", "source": "generated"}
+{"id": "gen_0230", "text": "كم عدد آيات سورة الضحى؟", "behavior": "", "intent": "surah_info", "source": "generated"}
+{"id": "gen_0231", "text": "ما حكم شراء المنازل بالتمويل البنكي؟", "behavior": "", "intent": "fatwa_search", "source": "generated"}
+{"id": "gen_0232", "text": "أسمعني الآية 82 من سورة يوسف.", "behavior": "", "intent": "play_ayah", "source": "generated"}
+{"id": "gen_0233", "text": "ممكن تفسير كامل لسورة يونس؟", "behavior": "", "intent": "tafsir_surah", "source": "generated"}
+{"id": "gen_0234", "text": "اذكر لي الحديث رقم 197 في سنن النسائي.", "behavior": "", "intent": "fetch_hadith", "source": "generated"}
+{"id": "gen_0235", "text": "وضّح لي تفسير الآية 2 من سورة العصر حسب تفسير ar-tafsir-al-wasit.", "behavior": "", "intent": "tafsir_verse", "source": "generated"}
+{"id": "gen_0236", "text": "ما حكم عقد التورق؟", "behavior": "", "intent": "fatwa_search", "source": "generated"}
+{"id": "gen_0237", "text": "أريد تفسير سورة الأحقاف كاملة.", "behavior": "", "intent": "tafsir_surah", "source": "generated"}
+{"id": "gen_0238", "text": "أريد الحديث رقم 270 من سنن النسائي.", "behavior": "", "intent": "fetch_hadith", "source": "generated"}
+{"id": "gen_0239", "text": "ما معنى وجذر كلمة «سلم» في القرآن؟", "behavior": "", "intent": "analyze_word", "source": "generated"}
+{"id": "gen_0240", "text": "أسمعني الآية 18 من سورة الشورى.", "behavior": "", "intent": "play_ayah", "source": "generated"}
+{"id": "gen_0241", "text": "ما رأي أهل العلم في حكم دفع الديات في حوادث السيارات؟", "behavior": "", "intent": "fatwa_search", "source": "generated"}
+{"id": "gen_0242", "text": "ما تفسير الآية 57 من سورة الذاريات؟", "behavior": "", "intent": "tafsir_verse", "source": "generated"}
+{"id": "gen_0243", "text": "اذكر لي الحديث رقم 227 في سنن ابن ماجه.", "behavior": "", "intent": "fetch_hadith", "source": "generated"}
+{"id": "gen_0244", "text": "ابحث عن عبارة «الهداية» في نص القرآن.", "behavior": "", "intent": "search_quran_text", "source": "generated"}
+{"id": "gen_0245", "text": "سمّعني سورة الأنبياء.", "behavior": "", "intent": "play_surah", "source": "generated"}
+{"id": "gen_0246", "text": "أريد الحديث رقم 15 من صحيح مسلم.", "behavior": "", "intent": "fetch_hadith", "source": "generated"}
+{"id": "gen_0247", "text": "ما اسم آخر السورة وأول سورة قريش؟", "behavior": "", "intent": "surah_info", "source": "generated"}
+{"id": "gen_0248", "text": "هل سورة البقرة مكية أم مدنية؟", "behavior": "", "intent": "surah_info", "source": "generated"}
+{"id": "gen_0249", "text": "كم مرة ذُكرت كلمة «السجود» في القرآن؟", "behavior": "", "intent": "search_quran_text", "source": "generated"}
+{"id": "gen_0250", "text": "أسمعني الآية 76 من سورة النمل.", "behavior": "", "intent": "play_ayah", "source": "generated"}
+{"id": "gen_0251", "text": "ممكن تفسّر لي الآية 14 من سورة الشعراء؟", "behavior": "", "intent": "tafsir_verse", "source": "generated"}
+{"id": "gen_0252", "text": "ما القراءات الواردة في الآية 1 من سورة الجمعة؟", "behavior": "", "intent": "qeraat", "source": "generated"}
+{"id": "gen_0253", "text": "ابحث لي عن أحاديث تتحدث عن فضل طلب العلم.", "behavior": "", "intent": "search_hadith", "source": "generated"}
+{"id": "gen_0254", "text": "هل يمكنك التحدث بلغات أخرى؟", "behavior": "", "intent": "persona", "source": "generated"}
+{"id": "gen_0255", "text": "ما تفسير الآية 1 من سورة الكافرون؟", "behavior": "", "intent": "tafsir_verse", "source": "generated"}
+{"id": "gen_0256", "text": "ما سبب نزول سورة الممتحنة؟", "behavior": "", "intent": "nuzool", "source": "generated"}
+{"id": "gen_0257", "text": "ما تفسير الآية 14 من سورة يوسف؟", "behavior": "", "intent": "tafsir_verse", "source": "generated"}
+{"id": "gen_0258", "text": "ما معنى قوله تعالى في الآية 12 من سورة الأعلى؟", "behavior": "", "intent": "tafsir_verse", "source": "generated"}
+{"id": "gen_0259", "text": "ممكن تفسير كامل لسورة الكهف؟", "behavior": "", "intent": "tafsir_surah", "source": "generated"}
+{"id": "gen_0260", "text": "ما هي إحصاءات جذر «كفر» في القرآن؟ كم مرة ورد وفي أي سور؟", "behavior": "", "intent": "get_root_stats", "source": "generated"}
+{"id": "gen_0261", "text": "ما رأي الشرع في من يمارس الشعوذة؟", "behavior": "", "intent": "ruling_v2", "source": "generated"}
+{"id": "gen_0262", "text": "ممكن تفسّر لي الآية 43 من سورة الواقعة؟", "behavior": "", "intent": "tafsir_verse", "source": "generated"}
+{"id": "gen_0263", "text": "أخبرني معلومات عن سورة الأعلى.", "behavior": "", "intent": "surah_info", "source": "generated"}
+{"id": "gen_0264", "text": "ما القراءات الواردة في الآية 11 من سورة طه؟", "behavior": "", "intent": "qeraat", "source": "generated"}
+{"id": "gen_0265", "text": "حلل لي كلمة «النور» صرفياً ونحوياً.", "behavior": "", "intent": "analyze_word", "source": "generated"}
+{"id": "gen_0266", "text": "أريد أن أعرف حكم صناديق التقاعد الاستثمارية.", "behavior": "", "intent": "fatwa_search", "source": "generated"}
+{"id": "gen_0267", "text": "اشرح لي تفسير سورة النبأ من كتاب ar-tafsir-muyassar.", "behavior": "", "intent": "tafsir_surah", "source": "generated"}
+{"id": "gen_0268", "text": "كم عدد آيات سورة الماعون؟", "behavior": "", "intent": "surah_info", "source": "generated"}
+{"id": "gen_0269", "text": "ما القراءات الواردة في الآية 20 من سورة القيامة؟", "behavior": "", "intent": "qeraat", "source": "generated"}
+{"id": "gen_0270", "text": "اشرح لي معنى الآية رقم 4 من سورة القدر.", "behavior": "", "intent": "tafsir_verse", "source": "generated"}
+{"id": "gen_0271", "text": "اجلب لي نص الآية 5 من سورة التحريم بالرسم العثماني.", "behavior": "", "intent": "fetch_ayah", "source": "generated"}
+{"id": "gen_0272", "text": "أعطني إحصاءات مفصلة عن سورة الكافرون: عدد الكلمات والحروف وأطول كلمة.", "behavior": "", "intent": "get_surah_statistics", "source": "generated"}
+{"id": "gen_0273", "text": "حكم دفع الزكاة لغير المسلمين؟", "behavior": "", "intent": "fatwa_search", "source": "generated"}
+{"id": "gen_0274", "text": "ما رأي أهل العلم في حكم صناديق التقاعد الاستثمارية؟", "behavior": "", "intent": "fatwa_search", "source": "generated"}
+{"id": "gen_0275", "text": "ما هي فوائد الصفحة رقم 233 من المصحف؟", "behavior": "", "intent": "get_page_fawaed", "source": "generated"}
+{"id": "gen_0276", "text": "هل من يتهاون في الصيام كافر؟", "behavior": "", "intent": "ruling_v2", "source": "generated"}
+{"id": "gen_0277", "text": "ما حكم دفع الديات في حوادث السيارات؟", "behavior": "", "intent": "fatwa_search", "source": "generated"}
+{"id": "gen_0278", "text": "سمّعني سورة الأحقاف.", "behavior": "", "intent": "play_surah", "source": "generated"}
+{"id": "gen_0279", "text": "أريد الحديث رقم 214 من رياض الصالحين.", "behavior": "", "intent": "fetch_hadith", "source": "generated"}
+{"id": "gen_0280", "text": "ما هي الآيات التي تتحدث عن التوبة؟", "behavior": "", "intent": "search_in_tafsir", "source": "generated"}
+{"id": "gen_0281", "text": "ابحث عن عبارة «العبادة» في نص القرآن.", "behavior": "", "intent": "search_quran_text", "source": "generated"}
+{"id": "gen_0282", "text": "مرحباً", "behavior": "", "intent": "greeting", "source": "generated"}
+{"id": "gen_0283", "text": "ممكن تفسّر لي الآية 4 من سورة ص؟", "behavior": "", "intent": "tafsir_verse", "source": "generated"}
+{"id": "gen_0284", "text": "وضّح لي تفسير الآية 7 من سورة الطور حسب تفسير ar-tafsir-al-tabari.", "behavior": "", "intent": "tafsir_verse", "source": "generated"}
+{"id": "gen_0285", "text": "شغّل لي سورة السجدة بصوت الشيخ السديس.", "behavior": "", "intent": "play_surah", "source": "generated"}
+{"id": "gen_0286", "text": "هل هناك قراءات متعددة للآية 5 من سورة الفاتحة؟", "behavior": "", "intent": "qeraat", "source": "generated"}
+{"id": "gen_0287", "text": "وضّح لي تفسير الآية 71 من سورة الرحمن حسب تفسير ar-tafseer-al-qurtubi.", "behavior": "", "intent": "tafsir_verse", "source": "generated"}
+{"id": "gen_0288", "text": "ما الإعراب والصرف لكلمة «سلم»؟", "behavior": "", "intent": "analyze_word", "source": "generated"}
+{"id": "gen_0289", "text": "أعطني كل الأحاديث المشابهة لحديث الصبر عبر الكتب المختلفة.", "behavior": "", "intent": "fetch_cross_references", "source": "generated"}
+{"id": "gen_0290", "text": "هل سورة الشرح مكية أم مدنية؟", "behavior": "", "intent": "surah_info", "source": "generated"}
+{"id": "gen_0291", "text": "صحح لي تلاوتي لهذه الآية: إِنَّا أَعْطَيْنَاكَ الْكَوْثَرَ", "behavior": "", "intent": "validate_recitation", "source": "generated"}
+{"id": "gen_0292", "text": "هل هذا الحديث عن فضل طلب العلم متفق عليه بين البخاري ومسلم؟", "behavior": "", "intent": "fetch_cross_references", "source": "generated"}
+{"id": "gen_0293", "text": "ابحث لي في التفسير عن آيات تتحدث عن قيام الليل.", "behavior": "", "intent": "search_in_tafsir", "source": "generated"}
+{"id": "gen_0294", "text": "أريد أحاديث نبوية شريفة عن طاعة الوالدين.", "behavior": "", "intent": "search_hadith", "source": "generated"}
+{"id": "gen_0295", "text": "اذكر لي الحديث رقم 42 في صحيح البخاري.", "behavior": "", "intent": "fetch_hadith", "source": "generated"}
+{"id": "gen_0296", "text": "اشرح لي معنى الآية رقم 30 من سورة الدخان.", "behavior": "", "intent": "tafsir_verse", "source": "generated"}
+{"id": "gen_0297", "text": "حكم صيام يوم الشك؟", "behavior": "", "intent": "fatwa_search", "source": "generated"}
+{"id": "gen_0298", "text": "ما هي الآيات التي تتحدث عن الظلم؟", "behavior": "", "intent": "search_in_tafsir", "source": "generated"}
+{"id": "gen_0299", "text": "أعطني حديثاً صحيحاً عن فضل طلب العلم.", "behavior": "", "intent": "search_hadith", "source": "generated"}
+{"id": "gen_0300", "text": "من سيفوز بكأس العالم القادم؟", "behavior": "", "intent": "scope_redirect", "source": "generated"}
+{"id": "gen_0301", "text": "بمن تفتخر من صانعيك؟", "behavior": "", "intent": "persona", "source": "generated"}
+{"id": "gen_0302", "text": "أسمعني الآية 43 من سورة العنكبوت.", "behavior": "", "intent": "play_ayah", "source": "generated"}
+{"id": "gen_0303", "text": "ما حكم استخدام مستحضرات التجميل التي تحتوي كحولاً؟", "behavior": "", "intent": "fatwa_search", "source": "generated"}
+{"id": "gen_0304", "text": "اشرح لي تفسير سورة الذاريات من كتاب ar-tafsir-al-tabari.", "behavior": "", "intent": "tafsir_surah", "source": "generated"}
+{"id": "gen_0305", "text": "ما تفسير سورة البقرة؟", "behavior": "", "intent": "tafsir_surah", "source": "generated"}
+{"id": "gen_0306", "text": "ما حكم التأمين على الحياة؟", "behavior": "", "intent": "fatwa_search", "source": "generated"}
+{"id": "gen_0307", "text": "ما هو أفضل هاتف في السوق حالياً؟", "behavior": "", "intent": "scope_redirect", "source": "generated"}
+{"id": "gen_0308", "text": "أعطني حديثاً صحيحاً عن الأمانة.", "behavior": "", "intent": "search_hadith", "source": "generated"}
+{"id": "gen_0309", "text": "ما تفسير الآية 4 من سورة البينة؟", "behavior": "", "intent": "tafsir_verse", "source": "generated"}
+{"id": "gen_0310", "text": "ما هي المصادر التي تغطي تفسير الآية 73 من سورة الكهف؟", "behavior": "", "intent": "list_sources_for_ayah", "source": "generated"}
+{"id": "gen_0311", "text": "هل من يترك صيام رمضان بلا عذر كافر؟", "behavior": "", "intent": "ruling_v2", "source": "generated"}
+{"id": "gen_0312", "text": "اجلب لي نص الآية 27 من سورة القمر بالرسم العثماني.", "behavior": "", "intent": "fetch_ayah", "source": "generated"}
+{"id": "gen_0313", "text": "كم عدد آيات سورة الأحزاب؟", "behavior": "", "intent": "surah_info", "source": "generated"}
+{"id": "gen_0314", "text": "هل من يوالي أعداء الدين كافر؟", "behavior": "", "intent": "ruling_v2", "source": "generated"}
+{"id": "gen_0315", "text": "ما هي فوائد الصفحة رقم 341 من المصحف؟", "behavior": "", "intent": "get_page_fawaed", "source": "generated"}
+{"id": "gen_0316", "text": "أعطني إحصاءات مفصلة عن سورة العنكبوت: عدد الكلمات والحروف وأطول كلمة.", "behavior": "", "intent": "get_surah_statistics", "source": "generated"}
+{"id": "gen_0317", "text": "شغّل لي الآية رقم 1 من سورة الشرح بصوت الشيخ المنشاوي.", "behavior": "", "intent": "play_ayah", "source": "generated"}
+{"id": "gen_0318", "text": "هل هذا الحديث عن التوكل على الله متفق عليه بين البخاري ومسلم؟", "behavior": "", "intent": "fetch_cross_references", "source": "generated"}
+{"id": "gen_0319", "text": "ابحث لي في التفسير عن آيات تتحدث عن حقوق الزوجة.", "behavior": "", "intent": "search_in_tafsir", "source": "generated"}
+{"id": "gen_0320", "text": "في أي سور وردت كلمة «صلح»؟", "behavior": "", "intent": "search_quran_text", "source": "generated"}
+{"id": "gen_0321", "text": "أريد الاستماع إلى سورة التوبة بصوت عبد الباسط.", "behavior": "", "intent": "play_surah", "source": "generated"}
+{"id": "gen_0322", "text": "شغّل لي سنام القرآن.", "behavior": "", "intent": "play_surah_named", "source": "generated"}
+{"id": "gen_0323", "text": "ما هي الآيات التي تتحدث عن الصلاة على وقتها؟", "behavior": "", "intent": "search_in_tafsir", "source": "generated"}
+{"id": "gen_0324", "text": "وضّح لي تفسير الآية 21 من سورة المجادلة حسب تفسير ar-tafseer-tanwir-al-miqbas.", "behavior": "", "intent": "tafsir_verse", "source": "generated"}
+{"id": "gen_0325", "text": "شغّل لي الآية رقم 4 من سورة الحجرات بصوت الشيخ الشريم.", "behavior": "", "intent": "play_ayah", "source": "generated"}
+{"id": "gen_0326", "text": "في أي سور وردت كلمة «أمن»؟", "behavior": "", "intent": "search_quran_text", "source": "generated"}
+{"id": "gen_0327", "text": "كم عدد كلمات القرآن الكريم وحروفه؟", "behavior": "", "intent": "get_quran_overview", "source": "generated"}
+{"id": "gen_0328", "text": "ابحث لي عن كل المواضع التي ذُكرت فيها كلمة «الصبر» في القرآن.", "behavior": "", "intent": "search_quran_text", "source": "generated"}
+{"id": "gen_0329", "text": "ما رأي الشرع في من يمارس السحر؟", "behavior": "", "intent": "ruling_v2", "source": "generated"}
+{"id": "gen_0330", "text": "أخبرني معلومات عن سورة الأنفال.", "behavior": "", "intent": "surah_info", "source": "generated"}
+{"id": "gen_0331", "text": "كم مرة ذُكرت كلمة «النور» في القرآن؟", "behavior": "", "intent": "search_quran_text", "source": "generated"}
+{"id": "gen_0332", "text": "هل لديك مشاعر؟", "behavior": "", "intent": "persona", "source": "generated"}
+{"id": "gen_0333", "text": "أريد أحاديث نبوية شريفة عن الكذب.", "behavior": "", "intent": "search_hadith", "source": "generated"}
+{"id": "gen_0334", "text": "أريد تفسير سورة هود كاملة.", "behavior": "", "intent": "tafsir_surah", "source": "generated"}
+{"id": "gen_0335", "text": "هل هناك قراءات متعددة للآية 8 من سورة الهمزة؟", "behavior": "", "intent": "qeraat", "source": "generated"}
+{"id": "gen_0336", "text": "ما تفسير الآية 8 من سورة محمد؟", "behavior": "", "intent": "tafsir_verse", "source": "generated"}
+{"id": "gen_0337", "text": "أريد الاستماع إلى سورة الأعراف بصوت السديس.", "behavior": "", "intent": "play_surah", "source": "generated"}
+{"id": "gen_0338", "text": "ابحث لي عن أحاديث تتحدث عن علامات الساعة.", "behavior": "", "intent": "search_hadith", "source": "generated"}
+{"id": "gen_0339", "text": "أريد الحديث رقم 327 من سنن الترمذي.", "behavior": "", "intent": "fetch_hadith", "source": "generated"}
+{"id": "gen_0340", "text": "أريد تفسير سورة المعارج كاملة.", "behavior": "", "intent": "tafsir_surah", "source": "generated"}
+{"id": "gen_0341", "text": "أريد تفسير سورة الشمس كاملة.", "behavior": "", "intent": "tafsir_surah", "source": "generated"}
+{"id": "gen_0342", "text": "ما القراءات الواردة في الآية 112 من سورة النحل؟", "behavior": "", "intent": "qeraat", "source": "generated"}
+{"id": "gen_0343", "text": "اذكر لي الحديث رقم 80 في سنن أبي داود.", "behavior": "", "intent": "fetch_hadith", "source": "generated"}
+{"id": "gen_0344", "text": "اشرح لي تفسير سورة الفرقان من كتاب ar-tafseer-al-saddi.", "behavior": "", "intent": "tafsir_surah", "source": "generated"}
+{"id": "gen_0345", "text": "شغّل لي الآية رقم 33 من سورة القيامة بصوت الشيخ ماهر المعيقلي.", "behavior": "", "intent": "play_ayah", "source": "generated"}
+{"id": "gen_0346", "text": "ما سبب نزول سورة البلد؟", "behavior": "", "intent": "nuzool", "source": "generated"}
+{"id": "gen_0347", "text": "اشرح لي معنى الآية رقم 32 من سورة الطور.", "behavior": "", "intent": "tafsir_verse", "source": "generated"}
+{"id": "gen_0348", "text": "ما القراءات الواردة في الآية 3 من سورة التكاثر؟", "behavior": "", "intent": "qeraat", "source": "generated"}
+{"id": "gen_0349", "text": "أريد الحديث رقم 296 من سنن الترمذي.", "behavior": "", "intent": "fetch_hadith", "source": "generated"}
+{"id": "gen_0350", "text": "شغّل لي الآية رقم 21 من سورة العنكبوت بصوت الشيخ ناصر القطامي.", "behavior": "", "intent": "play_ayah", "source": "generated"}
+{"id": "gen_0351", "text": "اشرح لي معنى الآية رقم 32 من سورة الأحقاف.", "behavior": "", "intent": "tafsir_verse", "source": "generated"}
+{"id": "gen_0352", "text": "هل يوجد حديث نبوي عن الظلم؟", "behavior": "", "intent": "search_hadith", "source": "generated"}
+{"id": "gen_0353", "text": "أريد الحديث رقم 437 من سنن ابن ماجه.", "behavior": "", "intent": "fetch_hadith", "source": "generated"}
+{"id": "gen_0354", "text": "حلّل لي كلمة «نور» من الناحية اللغوية.", "behavior": "", "intent": "analyze_word", "source": "generated"}
+{"id": "gen_0355", "text": "كيف تعمل؟", "behavior": "", "intent": "persona", "source": "generated"}
+{"id": "gen_0356", "text": "أريد أن تصحح لي تلاوة هذه الآية: قُلْ هُوَ اللَّهُ أَحَدٌ", "behavior": "", "intent": "validate_recitation", "source": "generated"}
+{"id": "gen_0357", "text": "هل هناك قراءات متعددة للآية 16 من سورة الواقعة؟", "behavior": "", "intent": "qeraat", "source": "generated"}
+{"id": "gen_0358", "text": "شغّل لي سورة الذاريات بصوت الشيخ سعود الشريم.", "behavior": "", "intent": "play_surah", "source": "generated"}
+{"id": "gen_0359", "text": "ما رأي الشرع في من يحلف بغير الله؟", "behavior": "", "intent": "ruling_v2", "source": "generated"}
+{"id": "gen_0360", "text": "كم مرة ذُكرت كلمة «الرحمة» في القرآن؟", "behavior": "", "intent": "search_quran_text", "source": "generated"}
+{"id": "gen_0361", "text": "ما معنى قوله تعالى في الآية 129 من سورة النساء؟", "behavior": "", "intent": "tafsir_verse", "source": "generated"}
+{"id": "gen_0362", "text": "أسمعني الآية 9 من سورة الهمزة.", "behavior": "", "intent": "play_ayah", "source": "generated"}
+{"id": "gen_0363", "text": "كم عدد آيات سورة النحل؟", "behavior": "", "intent": "surah_info", "source": "generated"}
+{"id": "gen_0364", "text": "لماذا نزلت سورة هود؟", "behavior": "", "intent": "nuzool", "source": "generated"}
+{"id": "gen_0365", "text": "Can you tell me about the five pillars of Islam?", "behavior": "", "intent": "english_mixed", "source": "generated"}
+{"id": "gen_0366", "text": "شغّل لي سورة نوح بصوت الشيخ الشريم.", "behavior": "", "intent": "play_surah", "source": "generated"}
+{"id": "gen_0367", "text": "ما تفسير آية النور؟", "behavior": "", "intent": "tafsir_verse_named", "source": "generated"}
+{"id": "gen_0368", "text": "ما سبب نزول سورة التكوير؟", "behavior": "", "intent": "nuzool", "source": "generated"}
+{"id": "gen_0369", "text": "وضّح لي تفسير الآية 34 من سورة البقرة حسب تفسير ar-tafseer-tanwir-al-miqbas.", "behavior": "", "intent": "tafsir_verse", "source": "generated"}
+{"id": "gen_0370", "text": "ما حكم من يتهاون في أداء الأمانة؟", "behavior": "", "intent": "ruling_v2", "source": "generated"}
+{"id": "gen_0371", "text": "سمّعني سورة المجادلة.", "behavior": "", "intent": "play_surah", "source": "generated"}
+{"id": "gen_0372", "text": "أخبرني معلومات عن سورة النور.", "behavior": "", "intent": "surah_info", "source": "generated"}
+{"id": "gen_0373", "text": "أعطني حديثاً صحيحاً عن الشكر.", "behavior": "", "intent": "search_hadith", "source": "generated"}
+{"id": "gen_0374", "text": "اقرأ لي سورة النازعات كاملة.", "behavior": "", "intent": "play_surah", "source": "generated"}
+{"id": "gen_0375", "text": "ابحث لي في التفسير عن آيات تتحدث عن الصيام.", "behavior": "", "intent": "search_in_tafsir", "source": "generated"}
+{"id": "gen_0376", "text": "ما هي إحصاءات جذر «علم» في القرآن؟ كم مرة ورد وفي أي سور؟", "behavior": "", "intent": "get_root_stats", "source": "generated"}
+{"id": "gen_0377", "text": "أسمعني الآية 10 من سورة الجاثية.", "behavior": "", "intent": "play_ayah", "source": "generated"}
+{"id": "gen_0378", "text": "ما رأي أهل العلم في حكم التأمين على الحياة؟", "behavior": "", "intent": "fatwa_search", "source": "generated"}
+{"id": "gen_0379", "text": "وضّح لي تفسير الآية 7 من سورة التين حسب تفسير ar-tafsir-al-baghawi.", "behavior": "", "intent": "tafsir_verse", "source": "generated"}
+{"id": "gen_0380", "text": "ما تفسير سورة الهمزة؟", "behavior": "", "intent": "tafsir_surah", "source": "generated"}
+{"id": "gen_0381", "text": "أريد أحاديث نبوية شريفة عن فضل يوم الجمعة.", "behavior": "", "intent": "search_hadith", "source": "generated"}
+{"id": "gen_0382", "text": "أسمعني الآية 16 من سورة العلق.", "behavior": "", "intent": "play_ayah", "source": "generated"}
+{"id": "gen_0383", "text": "ما القراءات الواردة في الآية 48 من سورة الأنفال؟", "behavior": "", "intent": "qeraat", "source": "generated"}
+{"id": "gen_0384", "text": "ما تفسير الآية 5 من سورة الطلاق؟", "behavior": "", "intent": "tafsir_verse", "source": "generated"}
+{"id": "gen_0385", "text": "ما اسم آخر السورة وأول سورة لقمان؟", "behavior": "", "intent": "surah_info", "source": "generated"}
+{"id": "gen_0386", "text": "ما تفسير آية الكرسي؟", "behavior": "", "intent": "tafsir_verse_named", "source": "generated"}
+{"id": "gen_0387", "text": "أسمعني الآية 1 من سورة النصر.", "behavior": "", "intent": "play_ayah", "source": "generated"}
+{"id": "gen_0388", "text": "أريد الاستماع إلى سورة ص بصوت محمد الطبلاوي.", "behavior": "", "intent": "play_surah", "source": "generated"}
+{"id": "gen_0389", "text": "اشرح لي معنى الآية رقم 1 من سورة الزلزلة.", "behavior": "", "intent": "tafsir_verse", "source": "generated"}
+{"id": "gen_0390", "text": "ما الإعراب والصرف لكلمة «خلق»؟", "behavior": "", "intent": "analyze_word", "source": "generated"}
+{"id": "gen_0391", "text": "ما تفسير سورة التكوير؟", "behavior": "", "intent": "tafsir_surah", "source": "generated"}
+{"id": "gen_0392", "text": "في أي سور وردت كلمة «عبد»؟", "behavior": "", "intent": "search_quran_text", "source": "generated"}
+{"id": "gen_0393", "text": "لماذا نزلت سورة يوسف؟", "behavior": "", "intent": "nuzool", "source": "generated"}
+{"id": "gen_0394", "text": "هل هذا الحديث عن فضل يوم الجمعة متفق عليه بين البخاري ومسلم؟", "behavior": "", "intent": "fetch_cross_references", "source": "generated"}
+{"id": "gen_0395", "text": "وضّح لي تفسير الآية 7 من سورة المزمل حسب تفسير ar-tafseer-tanwir-al-miqbas.", "behavior": "", "intent": "tafsir_verse", "source": "generated"}
+{"id": "gen_0396", "text": "ممكن تفسير كامل لسورة الأحقاف؟", "behavior": "", "intent": "tafsir_surah", "source": "generated"}
+{"id": "gen_0397", "text": "ممكن تفسير كامل لسورة التغابن؟", "behavior": "", "intent": "tafsir_surah", "source": "generated"}
+{"id": "gen_0398", "text": "ما رأي الشرع في من يستهزئ بالصحابة؟", "behavior": "", "intent": "ruling_v2", "source": "generated"}
+{"id": "gen_0399", "text": "أعطني حديثاً صحيحاً عن طاعة الوالدين.", "behavior": "", "intent": "search_hadith", "source": "generated"}
+{"id": "gen_0400", "text": "حكم إجارة الأرض الزراعية بجزء من المحصول؟", "behavior": "", "intent": "fatwa_search", "source": "generated"}
+{"id": "gen_0401", "text": "أعطني كل الأحاديث المشابهة لحديث حقوق الجار عبر الكتب المختلفة.", "behavior": "", "intent": "fetch_cross_references", "source": "generated"}
+{"id": "gen_0402", "text": "أسمعني الآية 63 من سورة النمل.", "behavior": "", "intent": "play_ayah", "source": "generated"}
+{"id": "gen_0403", "text": "هل سورة الرحمن مكية أم مدنية؟", "behavior": "", "intent": "surah_info", "source": "generated"}
+{"id": "gen_0404", "text": "ما حكم تارك الصلاة؟", "behavior": "", "intent": "ruling_v2", "source": "generated"}
+{"id": "gen_0405", "text": "ما معنى قوله تعالى في الآية 27 من سورة القيامة؟", "behavior": "", "intent": "tafsir_verse", "source": "generated"}
+{"id": "gen_0406", "text": "لماذا نزلت سورة التغابن؟", "behavior": "", "intent": "nuzool", "source": "generated"}
+{"id": "gen_0407", "text": "ما رأي الشرع في من يعامل والديه بقسوة؟", "behavior": "", "intent": "ruling_v2", "source": "generated"}
+{"id": "gen_0408", "text": "أريد أن أعرف حكم حضانة الأطفال بعد الطلاق.", "behavior": "", "intent": "fatwa_search", "source": "generated"}
+{"id": "gen_0409", "text": "ما سبب نزول الآية 4 من سورة القدر؟", "behavior": "", "intent": "nuzool", "source": "generated"}
+{"id": "gen_0410", "text": "ما رأي الشرع في من ينكر السنة النبوية؟", "behavior": "", "intent": "ruling_v2", "source": "generated"}
+{"id": "gen_0411", "text": "ما معنى وجذر كلمة «حسن» في القرآن؟", "behavior": "", "intent": "analyze_word", "source": "generated"}
+{"id": "gen_0412", "text": "هل من يمارس السحر كافر؟", "behavior": "", "intent": "ruling_v2", "source": "generated"}
+{"id": "gen_0413", "text": "أريد أحاديث نبوية شريفة عن فضل الوضوء.", "behavior": "", "intent": "search_hadith", "source": "generated"}
+{"id": "gen_0414", "text": "هل ورد حديث «طاعة الوالدين» بروايات مشابهة في كتب أخرى؟", "behavior": "", "intent": "fetch_cross_references", "source": "generated"}
+{"id": "gen_0415", "text": "اجلب لي تفسير الآية 43 من سورة الذاريات من أكثر من مصدر.", "behavior": "", "intent": "fetch_tafsir", "source": "generated"}
+{"id": "gen_0416", "text": "ما رأي أهل العلم في حكم قضاء الصلاة الفائتة عمداً؟", "behavior": "", "intent": "fatwa_search", "source": "generated"}
+{"id": "gen_0417", "text": "ما نوع الذكاء الذي تستخدمه؟", "behavior": "", "intent": "persona", "source": "generated"}
+{"id": "gen_0418", "text": "أين تعيش؟", "behavior": "", "intent": "persona", "source": "generated"}
+{"id": "gen_0419", "text": "اقرأ لي الآية رقم 22 من سورة الجن بصوت الشريم.", "behavior": "", "intent": "play_ayah", "source": "generated"}
+{"id": "gen_0420", "text": "شغّل لي سورة المزمل بصوت الشيخ الشريم.", "behavior": "", "intent": "play_surah", "source": "generated"}
+{"id": "gen_0421", "text": "أسمعني الآية 2 من سورة الناس.", "behavior": "", "intent": "play_ayah", "source": "generated"}
+{"id": "gen_0422", "text": "هل يوجد حديث نبوي عن الجهاد؟", "behavior": "", "intent": "search_hadith", "source": "generated"}
+{"id": "gen_0423", "text": "أريد الاستماع إلى سورة الفرقان بصوت الحصري.", "behavior": "", "intent": "play_surah", "source": "generated"}
+{"id": "gen_0424", "text": "حكم الجمع بين الصلاتين للمسافر؟", "behavior": "", "intent": "fatwa_search", "source": "generated"}
+{"id": "gen_0425", "text": "اذكر لي الحديث رقم 4 في سنن النسائي.", "behavior": "", "intent": "fetch_hadith", "source": "generated"}
+{"id": "gen_0426", "text": "أعطني كل مواضع ورود جذر «خلق» في القرآن.", "behavior": "", "intent": "find_root_occurrences", "source": "generated"}
+{"id": "gen_0427", "text": "شغّل لي سورة البقرة بصوت الشيخ مصطفى إسماعيل.", "behavior": "", "intent": "play_surah", "source": "generated"}
+{"id": "gen_0428", "text": "وضّح لي تفسير الآية 2 من سورة إبراهيم حسب تفسير ar-tafseer-al-saddi.", "behavior": "", "intent": "tafsir_verse", "source": "generated"}
+{"id": "gen_0429", "text": "أريد أحاديث نبوية شريفة عن الوفاء بالعهد.", "behavior": "", "intent": "search_hadith", "source": "generated"}
+{"id": "gen_0430", "text": "أعطني حديثاً صحيحاً عن الكذب.", "behavior": "", "intent": "search_hadith", "source": "generated"}
+{"id": "gen_0431", "text": "اشرح لي معنى الآية رقم 5 من سورة لقمان.", "behavior": "", "intent": "tafsir_verse", "source": "generated"}
+{"id": "gen_0432", "text": "أريد الحديث رقم 202 من سنن ابن ماجه.", "behavior": "", "intent": "fetch_hadith", "source": "generated"}
+{"id": "gen_0433", "text": "أسمعني الآية 17 من سورة الأحقاف.", "behavior": "", "intent": "play_ayah", "source": "generated"}
+{"id": "gen_0434", "text": "ما حكم صيام يوم الشك؟", "behavior": "", "intent": "fatwa_search", "source": "generated"}
+{"id": "gen_0435", "text": "ما سبب نزول الآية 13 من سورة الأحقاف؟", "behavior": "", "intent": "nuzool", "source": "generated"}
+{"id": "gen_0436", "text": "لماذا نزلت سورة محمد؟", "behavior": "", "intent": "nuzool", "source": "generated"}
+{"id": "gen_0437", "text": "اجلب لي تفسير الآية 8 من سورة القارعة من أكثر من مصدر.", "behavior": "", "intent": "fetch_tafsir", "source": "generated"}
+{"id": "gen_0438", "text": "أعطني كل الأحاديث المشابهة لحديث الظلم عبر الكتب المختلفة.", "behavior": "", "intent": "fetch_cross_references", "source": "generated"}
+{"id": "gen_0439", "text": "ما سبب نزول الآية 4 من سورة هود؟", "behavior": "", "intent": "nuzool", "source": "generated"}
+{"id": "gen_0440", "text": "شغّل لي الآية رقم 24 من سورة محمد بصوت الشيخ ناصر القطامي.", "behavior": "", "intent": "play_ayah", "source": "generated"}
+{"id": "gen_0441", "text": "ممكن تفسّر لي الآية 11 من سورة الضحى؟", "behavior": "", "intent": "tafsir_verse", "source": "generated"}
+{"id": "gen_0442", "text": "ما معنى قوله تعالى في الآية 5 من سورة الزلزلة؟", "behavior": "", "intent": "tafsir_verse", "source": "generated"}
+{"id": "gen_0443", "text": "ما هي الآيات التي تتحدث عن فضل الوضوء؟", "behavior": "", "intent": "search_in_tafsir", "source": "generated"}
+{"id": "gen_0444", "text": "وضّح لي تفسير الآية 5 من سورة القدر حسب تفسير ar-tafsir-muyassar.", "behavior": "", "intent": "tafsir_verse", "source": "generated"}
+{"id": "gen_0445", "text": "وضّح لي تفسير الآية 2 من سورة الماعون حسب تفسير ar-tafseer-al-saddi.", "behavior": "", "intent": "tafsir_verse", "source": "generated"}
+{"id": "gen_0446", "text": "أريد الحديث رقم 184 من سنن أبي داود.", "behavior": "", "intent": "fetch_hadith", "source": "generated"}
+{"id": "gen_0447", "text": "هل يوجد حديث نبوي عن الجنة والنار؟", "behavior": "", "intent": "search_hadith", "source": "generated"}
+{"id": "gen_0448", "text": "ممكن تفسير كامل لسورة المعارج؟", "behavior": "", "intent": "tafsir_surah", "source": "generated"}
+{"id": "gen_0449", "text": "أريد أحاديث نبوية شريفة عن قيام الليل.", "behavior": "", "intent": "search_hadith", "source": "generated"}
+{"id": "gen_0450", "text": "ما معنى وجذر كلمة «عبد» في القرآن؟", "behavior": "", "intent": "analyze_word", "source": "generated"}
+{"id": "gen_0451", "text": "هل هناك قراءات متعددة للآية 17 من سورة العلق؟", "behavior": "", "intent": "qeraat", "source": "generated"}
+{"id": "gen_0452", "text": "سمّعني سورة الأعلى.", "behavior": "", "intent": "play_surah", "source": "generated"}
+{"id": "gen_0453", "text": "ما حكم حضانة الأطفال بعد الطلاق؟", "behavior": "", "intent": "fatwa_search", "source": "generated"}
+{"id": "gen_0454", "text": "اقرأ لي آية النور.", "behavior": "", "intent": "play_ayah_named", "source": "generated"}
+{"id": "gen_0455", "text": "ما رأي أهل العلم في حكم التلقيح الصناعي بين الزوجين؟", "behavior": "", "intent": "fatwa_search", "source": "generated"}
+{"id": "gen_0456", "text": "أين ورد لفظ «أمن» في القرآن الكريم؟", "behavior": "", "intent": "search_quran_text", "source": "generated"}
+{"id": "gen_0457", "text": "ما رأي أهل العلم في حكم صلاة الجماعة للمرأة في البيت؟", "behavior": "", "intent": "fatwa_search", "source": "generated"}
+{"id": "gen_0458", "text": "ما هي المصادر التي تغطي تفسير الآية 9 من سورة المنافقون؟", "behavior": "", "intent": "list_sources_for_ayah", "source": "generated"}
+{"id": "gen_0459", "text": "ممكن تفسّر لي الآية 14 من سورة البلد؟", "behavior": "", "intent": "tafsir_verse", "source": "generated"}
+{"id": "gen_0460", "text": "ساعدني في حل معادلة رياضية.", "behavior": "", "intent": "scope_redirect", "source": "generated"}
+{"id": "gen_0461", "text": "اذكر لي الحديث رقم 447 في سنن ابن ماجه.", "behavior": "", "intent": "fetch_hadith", "source": "generated"}
+{"id": "gen_0462", "text": "ما تفسير الآية 11 من سورة الطارق؟", "behavior": "", "intent": "tafsir_verse", "source": "generated"}
+{"id": "gen_0463", "text": "أسمعني الآية 5 من سورة الفاتحة.", "behavior": "", "intent": "play_ayah", "source": "generated"}
+{"id": "gen_0464", "text": "شغّل لي سورة الجمعة بصوت الشيخ أحمد العجمي.", "behavior": "", "intent": "play_surah", "source": "generated"}
+{"id": "gen_0465", "text": "هل من يمارس الغش في البيع والشراء كافر؟", "behavior": "", "intent": "ruling_v2", "source": "generated"}
+{"id": "gen_0466", "text": "حلل لي كلمة «العبادة» صرفياً ونحوياً.", "behavior": "", "intent": "analyze_word", "source": "generated"}
+{"id": "gen_0467", "text": "مساء الخير، كيف حالك؟", "behavior": "", "intent": "greeting", "source": "generated"}
+{"id": "gen_0468", "text": "أهلاً يا مسلم", "behavior": "", "intent": "greeting", "source": "generated"}
+{"id": "gen_0469", "text": "ما تفسير الآية 7 من سورة التكاثر؟", "behavior": "", "intent": "tafsir_verse", "source": "generated"}
+{"id": "gen_0470", "text": "شغّل لي سورة التوبة بصوت الشيخ ياسر الدوسري.", "behavior": "", "intent": "play_surah", "source": "generated"}
+{"id": "gen_0471", "text": "شغّل لي سورة فصلت بصوت الشيخ عبد الباسط.", "behavior": "", "intent": "play_surah", "source": "generated"}
+{"id": "gen_0472", "text": "ما رأي الشرع في من يوالي أعداء الدين؟", "behavior": "", "intent": "ruling_v2", "source": "generated"}
+{"id": "gen_0473", "text": "أريد أن أعرف حكم صيام يوم الشك.", "behavior": "", "intent": "fatwa_search", "source": "generated"}
+{"id": "gen_0474", "text": "أريد تفسير سورة مريم كاملة.", "behavior": "", "intent": "tafsir_surah", "source": "generated"}
+{"id": "gen_0475", "text": "ما حكم من ترك الصلاة كسلاً؟", "behavior": "", "intent": "fatwa_search", "source": "generated"}
+{"id": "gen_0476", "text": "أعطني كل مواضع ورود جذر «رحم» في القرآن.", "behavior": "", "intent": "find_root_occurrences", "source": "generated"}
+{"id": "gen_0477", "text": "من المسؤول عن تطويرك؟", "behavior": "", "intent": "persona", "source": "generated"}
+{"id": "gen_0478", "text": "هل ورد حديث «الرحمة» بروايات مشابهة في كتب أخرى؟", "behavior": "", "intent": "fetch_cross_references", "source": "generated"}
+{"id": "gen_0479", "text": "هل سورة الطارق مكية أم مدنية؟", "behavior": "", "intent": "surah_info", "source": "generated"}
+{"id": "gen_0480", "text": "هل يوجد حديث نبوي عن التواضع؟", "behavior": "", "intent": "search_hadith", "source": "generated"}
+{"id": "gen_0481", "text": "أريد أن أعرف حكم التعامل بالفوائد البنكية.", "behavior": "", "intent": "fatwa_search", "source": "generated"}
+{"id": "gen_0482", "text": "من هو صانعك؟", "behavior": "", "intent": "persona", "source": "generated"}
+{"id": "gen_0483", "text": "ما هي المصادر التي تغطي تفسير الآية 96 من سورة المؤمنون؟", "behavior": "", "intent": "list_sources_for_ayah", "source": "generated"}
+{"id": "gen_0484", "text": "وضّح لي تفسير الآية 63 من سورة العنكبوت حسب تفسير ar-tafsir-al-wasit.", "behavior": "", "intent": "tafsir_verse", "source": "generated"}
+{"id": "gen_0485", "text": "ما هي حدود قدراتك؟", "behavior": "", "intent": "persona", "source": "generated"}
+{"id": "gen_0486", "text": "ما هي أفضل وجهة سياحية للصيف؟", "behavior": "", "intent": "scope_redirect", "source": "generated"}
+{"id": "gen_0487", "text": "ما حكم التبرع بالدم للأجانب؟", "behavior": "", "intent": "fatwa_search", "source": "generated"}
+{"id": "gen_0488", "text": "أريد الاستماع إلى سورة الأحزاب بصوت محمد الطبلاوي.", "behavior": "", "intent": "play_surah", "source": "generated"}
+{"id": "gen_0489", "text": "احسب لي مساحة دائرة نصف قطرها خمسة.", "behavior": "", "intent": "scope_redirect", "source": "generated"}
+{"id": "gen_0490", "text": "قُلْ هُوَ اللَّهُ أَحَدٌ — هل قراءتي صحيحة؟", "behavior": "", "intent": "validate_recitation", "source": "generated"}
+{"id": "gen_0491", "text": "أريد تفسير سورة التحريم كاملة.", "behavior": "", "intent": "tafsir_surah", "source": "generated"}
+{"id": "gen_0492", "text": "هل هناك قراءات متعددة للآية 4 من سورة الحجرات؟", "behavior": "", "intent": "qeraat", "source": "generated"}
+{"id": "gen_0493", "text": "ابحث لي عن أحاديث تتحدث عن التواضع.", "behavior": "", "intent": "search_hadith", "source": "generated"}
+{"id": "gen_0494", "text": "ما حكم إخراج الزكاة قبل موعدها؟", "behavior": "", "intent": "fatwa_search", "source": "generated"}
+{"id": "gen_0495", "text": "ممكن تفسير كامل لسورة الإخلاص؟", "behavior": "", "intent": "tafsir_surah", "source": "generated"}
+{"id": "gen_0496", "text": "أريد الاستماع إلى سورة العلق بصوت العفاسي.", "behavior": "", "intent": "play_surah", "source": "generated"}
+{"id": "gen_0497", "text": "اشرح لي تفسير سورة الماعون من كتاب ar-tafsir-al-baghawi.", "behavior": "", "intent": "tafsir_surah", "source": "generated"}
+{"id": "gen_0498", "text": "ما حكم من يستهزئ بالصحابة؟", "behavior": "", "intent": "ruling_v2", "source": "generated"}
+{"id": "gen_0499", "text": "اذكر لي الحديث رقم 51 في سنن الترمذي.", "behavior": "", "intent": "fetch_hadith", "source": "generated"}
+{"id": "gen_0500", "text": "هل يوجد حديث نبوي عن قصص الأنبياء؟", "behavior": "", "intent": "search_hadith", "source": "generated"}
+{"id": "gen_0501", "text": "ما الإعراب والصرف لكلمة «صبر»؟", "behavior": "", "intent": "analyze_word", "source": "generated"}
+{"id": "gen_0502", "text": "أريد الحديث رقم 359 من سنن الترمذي.", "behavior": "", "intent": "fetch_hadith", "source": "generated"}
+{"id": "gen_0503", "text": "أخبرني معلومات عن سورة غافر.", "behavior": "", "intent": "surah_info", "source": "generated"}
+{"id": "gen_0504", "text": "ما هي فوائد الصفحة رقم 179 من المصحف؟", "behavior": "", "intent": "get_page_fawaed", "source": "generated"}
+{"id": "gen_0505", "text": "ما هي إحصاءات جذر «رحم» في القرآن؟ كم مرة ورد وفي أي سور؟", "behavior": "", "intent": "get_root_stats", "source": "generated"}
+{"id": "gen_0506", "text": "اشرح لي تفسير سورة هود من كتاب ar-tafseer-tanwir-al-miqbas.", "behavior": "", "intent": "tafsir_surah", "source": "generated"}
+{"id": "gen_0507", "text": "ابحث لي في التفسير عن آيات تتحدث عن فضل شهر رمضان.", "behavior": "", "intent": "search_in_tafsir", "source": "generated"}
+{"id": "gen_0508", "text": "حكم الشركة بين الأقارب؟", "behavior": "", "intent": "fatwa_search", "source": "generated"}
+{"id": "gen_0509", "text": "أعطني حديثاً صحيحاً عن الزكاة.", "behavior": "", "intent": "search_hadith", "source": "generated"}
+{"id": "gen_0510", "text": "ما رأي أهل العلم في حكم عمليات التجميل؟", "behavior": "", "intent": "fatwa_search", "source": "generated"}
+{"id": "gen_0511", "text": "أريد تفسير سورة التكوير كاملة.", "behavior": "", "intent": "tafsir_surah", "source": "generated"}
+{"id": "gen_0512", "text": "اجلب لي نص الآية 6 من سورة السجدة بالرسم العثماني.", "behavior": "", "intent": "fetch_ayah", "source": "generated"}
+{"id": "gen_0513", "text": "ما معنى وجذر كلمة «نور» في القرآن؟", "behavior": "", "intent": "analyze_word", "source": "generated"}
+{"id": "gen_0514", "text": "ما الإعراب والصرف لكلمة «أمن»؟", "behavior": "", "intent": "analyze_word", "source": "generated"}
+{"id": "gen_0515", "text": "أعطني حديثاً صحيحاً عن تربية الأبناء.", "behavior": "", "intent": "search_hadith", "source": "generated"}
+{"id": "gen_0516", "text": "هل هذا الحديث عن الصدق متفق عليه بين البخاري ومسلم؟", "behavior": "", "intent": "fetch_cross_references", "source": "generated"}
+{"id": "gen_0517", "text": "هل ورد حديث «الذكر بعد الصلاة» بروايات مشابهة في كتب أخرى؟", "behavior": "", "intent": "fetch_cross_references", "source": "generated"}
+{"id": "gen_0518", "text": "ما اسم آخر السورة وأول سورة القصص؟", "behavior": "", "intent": "surah_info", "source": "generated"}
+{"id": "gen_0519", "text": "ممكن تفسّر لي الآية 36 من سورة المائدة؟", "behavior": "", "intent": "tafsir_verse", "source": "generated"}
+{"id": "gen_0520", "text": "أريد تفسير سورة الكوثر كاملة.", "behavior": "", "intent": "tafsir_surah", "source": "generated"}
+{"id": "gen_0521", "text": "ما تفسير سورة الجاثية؟", "behavior": "", "intent": "tafsir_surah", "source": "generated"}
+{"id": "gen_0522", "text": "ما معنى وجذر كلمة «رحم» في القرآن؟", "behavior": "", "intent": "analyze_word", "source": "generated"}
+{"id": "gen_0523", "text": "وضّح لي تفسير الآية 4 من سورة الصف حسب تفسير ar-tafsir-al-wasit.", "behavior": "", "intent": "tafsir_verse", "source": "generated"}
+{"id": "gen_0524", "text": "أريد الحديث رقم 11 من رياض الصالحين.", "behavior": "", "intent": "fetch_hadith", "source": "generated"}
+{"id": "gen_0525", "text": "اقرأ لي الآية رقم 3 من سورة الإخلاص بصوت الغامدي.", "behavior": "", "intent": "play_ayah", "source": "generated"}
+{"id": "gen_0526", "text": "ما رأي الشرع في من يقطع رحمه؟", "behavior": "", "intent": "ruling_v2", "source": "generated"}
+{"id": "gen_0527", "text": "أريد الحديث رقم 382 من صحيح البخاري.", "behavior": "", "intent": "fetch_hadith", "source": "generated"}
+{"id": "gen_0528", "text": "ما تفسير الآية 10 من سورة الممتحنة؟", "behavior": "", "intent": "tafsir_verse", "source": "generated"}
+{"id": "gen_0529", "text": "ما معنى قوله تعالى في الآية 4 من سورة الفاتحة؟", "behavior": "", "intent": "tafsir_verse", "source": "generated"}
+{"id": "gen_0530", "text": "ممكن تفسّر لي الآية 7 من سورة الملك؟", "behavior": "", "intent": "tafsir_verse", "source": "generated"}
+{"id": "gen_0531", "text": "ما معنى قوله تعالى في الآية 11 من سورة الصف؟", "behavior": "", "intent": "tafsir_verse", "source": "generated"}
+{"id": "gen_0532", "text": "أعطني كل مواضع ورود جذر «صبر» في القرآن.", "behavior": "", "intent": "find_root_occurrences", "source": "generated"}
+{"id": "gen_0533", "text": "ما معنى قوله تعالى في الآية 6 من سورة النبأ؟", "behavior": "", "intent": "tafsir_verse", "source": "generated"}
+{"id": "gen_0534", "text": "أريد أحاديث نبوية شريفة عن الظلم.", "behavior": "", "intent": "search_hadith", "source": "generated"}
+{"id": "gen_0535", "text": "ما سبب نزول سورة المنافقون؟", "behavior": "", "intent": "nuzool", "source": "generated"}
+{"id": "gen_0536", "text": "اشرح لي تفسير سورة الجمعة من كتاب ar-tafseer-al-saddi.", "behavior": "", "intent": "tafsir_surah", "source": "generated"}
+{"id": "gen_0537", "text": "ما حكم من يتهاون في الصيام؟", "behavior": "", "intent": "ruling_v2", "source": "generated"}
+{"id": "gen_0538", "text": "ما القراءات الواردة في الآية 16 من سورة الحج؟", "behavior": "", "intent": "qeraat", "source": "generated"}
+{"id": "gen_0539", "text": "من هو منشئك؟", "behavior": "", "intent": "persona", "source": "generated"}
+{"id": "gen_0540", "text": "ممكن تفسّر لي الآية 19 من سورة الجاثية؟", "behavior": "", "intent": "tafsir_verse", "source": "generated"}
+{"id": "gen_0541", "text": "ما اسم آخر السورة وأول سورة المرسلات؟", "behavior": "", "intent": "surah_info", "source": "generated"}
+{"id": "gen_0542", "text": "ممكن تفسير كامل لسورة الذاريات؟", "behavior": "", "intent": "tafsir_surah", "source": "generated"}
+{"id": "gen_0543", "text": "اجلب لي تفسير الآية 71 من سورة الواقعة من أكثر من مصدر.", "behavior": "", "intent": "fetch_tafsir", "source": "generated"}
+{"id": "gen_0544", "text": "حلل لي كلمة «الإحسان» صرفياً ونحوياً.", "behavior": "", "intent": "analyze_word", "source": "generated"}
+{"id": "gen_0545", "text": "اشرح لي وظيفتك.", "behavior": "", "intent": "persona", "source": "generated"}
+{"id": "gen_0546", "text": "ما هي المصادر التي تغطي تفسير الآية 20 من سورة النبأ؟", "behavior": "", "intent": "list_sources_for_ayah", "source": "generated"}
+{"id": "gen_0547", "text": "ابحث لي في التفسير عن آيات تتحدث عن فضل سورة الكهف.", "behavior": "", "intent": "search_in_tafsir", "source": "generated"}
+{"id": "gen_0548", "text": "ما الإعراب والصرف لكلمة «رحم»؟", "behavior": "", "intent": "analyze_word", "source": "generated"}
+{"id": "gen_0549", "text": "أعطني حديثاً صحيحاً عن إكرام الضيف.", "behavior": "", "intent": "search_hadith", "source": "generated"}
+{"id": "gen_0550", "text": "هل سورة الرعد مكية أم مدنية؟", "behavior": "", "intent": "surah_info", "source": "generated"}
+{"id": "gen_0551", "text": "ما معنى قوله تعالى في الآية 49 من سورة القمر؟", "behavior": "", "intent": "tafsir_verse", "source": "generated"}
+{"id": "gen_0552", "text": "أعطني كل الأحاديث المشابهة لحديث الدعاء عبر الكتب المختلفة.", "behavior": "", "intent": "fetch_cross_references", "source": "generated"}
+{"id": "gen_0553", "text": "هل هذا الحديث عن الجهاد متفق عليه بين البخاري ومسلم؟", "behavior": "", "intent": "fetch_cross_references", "source": "generated"}
+{"id": "gen_0554", "text": "ما اسم آخر السورة وأول سورة المزمل؟", "behavior": "", "intent": "surah_info", "source": "generated"}
+{"id": "gen_0555", "text": "ما سبب نزول سورة الانفطار؟", "behavior": "", "intent": "nuzool", "source": "generated"}
+{"id": "gen_0556", "text": "ما رأي أهل العلم في حكم حضانة الأطفال بعد الطلاق؟", "behavior": "", "intent": "fatwa_search", "source": "generated"}
+{"id": "gen_0557", "text": "سمّعني سورة المنافقون.", "behavior": "", "intent": "play_surah", "source": "generated"}
+{"id": "gen_0558", "text": "ما تفسير سورة قريش؟", "behavior": "", "intent": "tafsir_surah", "source": "generated"}
+{"id": "gen_0559", "text": "اقرأ لي آية الدَّين.", "behavior": "", "intent": "play_ayah_named", "source": "generated"}
+{"id": "gen_0560", "text": "ما اسم آخر السورة وأول سورة الحاقة؟", "behavior": "", "intent": "surah_info", "source": "generated"}
+{"id": "gen_0561", "text": "ممكن تفسير كامل لسورة يس؟", "behavior": "", "intent": "tafsir_surah", "source": "generated"}
+{"id": "gen_0562", "text": "في أي سور وردت كلمة «هدى»؟", "behavior": "", "intent": "search_quran_text", "source": "generated"}
+{"id": "gen_0563", "text": "ما اسم آخر السورة وأول سورة الدخان؟", "behavior": "", "intent": "surah_info", "source": "generated"}
+{"id": "gen_0564", "text": "أعطني إحصاءات مفصلة عن سورة محمد: عدد الكلمات والحروف وأطول كلمة.", "behavior": "", "intent": "get_surah_statistics", "source": "generated"}
+{"id": "gen_0565", "text": "اشرح لي معنى الآية رقم 84 من سورة الإسراء.", "behavior": "", "intent": "tafsir_verse", "source": "generated"}
+{"id": "gen_0566", "text": "اقرأ لي الآية رقم 21 من سورة الشورى بصوت أحمد العجمي.", "behavior": "", "intent": "play_ayah", "source": "generated"}
+{"id": "gen_0567", "text": "ما معنى قوله تعالى في الآية 12 من سورة القمر؟", "behavior": "", "intent": "tafsir_verse", "source": "generated"}
+{"id": "gen_0568", "text": "هل ورد حديث «التفكر في خلق الله» بروايات مشابهة في كتب أخرى؟", "behavior": "", "intent": "fetch_cross_references", "source": "generated"}
+{"id": "gen_0569", "text": "ما رأي أهل العلم في حكم المتاجرة بالفوركس؟", "behavior": "", "intent": "fatwa_search", "source": "generated"}
+{"id": "gen_0570", "text": "أريد الاستماع إلى سورة يس بصوت محمد الطبلاوي.", "behavior": "", "intent": "play_surah", "source": "generated"}
+{"id": "gen_0571", "text": "وضّح لي تفسير الآية 1 من سورة التين حسب تفسير ar-tafsir-ibn-kathir.", "behavior": "", "intent": "tafsir_verse", "source": "generated"}
+{"id": "gen_0572", "text": "اقرأ لي الآية رقم 17 من سورة الروم بصوت مصطفى إسماعيل.", "behavior": "", "intent": "play_ayah", "source": "generated"}
+{"id": "gen_0573", "text": "أريد الحديث رقم 371 من سنن الترمذي.", "behavior": "", "intent": "fetch_hadith", "source": "generated"}
+{"id": "gen_0574", "text": "أعطني كل الأحاديث المشابهة لحديث الحج عبر الكتب المختلفة.", "behavior": "", "intent": "fetch_cross_references", "source": "generated"}
+{"id": "gen_0575", "text": "اشرح لي معنى الآية رقم 5 من سورة القدر.", "behavior": "", "intent": "tafsir_verse", "source": "generated"}
+{"id": "gen_0576", "text": "ما سبب نزول الآية 32 من سورة الذاريات؟", "behavior": "", "intent": "nuzool", "source": "generated"}
+{"id": "gen_0577", "text": "أسمعني الآية 21 من سورة الأنفال.", "behavior": "", "intent": "play_ayah", "source": "generated"}
+{"id": "gen_0578", "text": "ما هي فوائد الصفحة رقم 532 من المصحف؟", "behavior": "", "intent": "get_page_fawaed", "source": "generated"}
+{"id": "gen_0579", "text": "ما معنى قوله تعالى في الآية 6 من سورة الانشقاق؟", "behavior": "", "intent": "tafsir_verse", "source": "generated"}
+{"id": "gen_0580", "text": "أريد تفسير سورة النور كاملة.", "behavior": "", "intent": "tafsir_surah", "source": "generated"}
+{"id": "gen_0581", "text": "أريد الاستماع إلى سورة عبس بصوت الغامدي.", "behavior": "", "intent": "play_surah", "source": "generated"}
+{"id": "gen_0582", "text": "السلام عليكم ورحمة الله وبركاته", "behavior": "", "intent": "greeting", "source": "generated"}
+{"id": "gen_0583", "text": "ما سبب نزول الآية 1 من سورة الفلق؟", "behavior": "", "intent": "nuzool", "source": "generated"}
+{"id": "gen_0584", "text": "هل هناك قراءات متعددة للآية 32 من سورة سبأ؟", "behavior": "", "intent": "qeraat", "source": "generated"}
+{"id": "gen_0585", "text": "ما حكم صلاة الجماعة للمرأة في البيت؟", "behavior": "", "intent": "fatwa_search", "source": "generated"}
+{"id": "gen_0586", "text": "في أي سور وردت كلمة «رحم»؟", "behavior": "", "intent": "search_quran_text", "source": "generated"}
+{"id": "gen_0587", "text": "هل يوجد حديث نبوي عن التوكل على الله؟", "behavior": "", "intent": "search_hadith", "source": "generated"}
+{"id": "gen_0588", "text": "أسمعني الآية 56 من سورة النمل.", "behavior": "", "intent": "play_ayah", "source": "generated"}
+{"id": "gen_0589", "text": "هل هذا الحديث عن حسن الجوار متفق عليه بين البخاري ومسلم؟", "behavior": "", "intent": "fetch_cross_references", "source": "generated"}
+{"id": "gen_0590", "text": "أخبرني معلومات عن سورة يوسف.", "behavior": "", "intent": "surah_info", "source": "generated"}
+{"id": "gen_0591", "text": "ممكن تفسير كامل لسورة الفيل؟", "behavior": "", "intent": "tafsir_surah", "source": "generated"}
+{"id": "gen_0592", "text": "ما القراءات الواردة في الآية 1 من سورة الكوثر؟", "behavior": "", "intent": "qeraat", "source": "generated"}
+{"id": "gen_0593", "text": "هل هناك قراءات متعددة للآية 24 من سورة السجدة؟", "behavior": "", "intent": "qeraat", "source": "generated"}
+{"id": "gen_0594", "text": "ما هي الآيات التي تتحدث عن السلام؟", "behavior": "", "intent": "search_in_tafsir", "source": "generated"}
+{"id": "gen_0595", "text": "في أي سور وردت كلمة «شكر»؟", "behavior": "", "intent": "search_quran_text", "source": "generated"}
+{"id": "gen_0596", "text": "في أي سور وردت كلمة «سجد»؟", "behavior": "", "intent": "search_quran_text", "source": "generated"}
+{"id": "gen_0597", "text": "أعطني إحصاءات مفصلة عن سورة التغابن: عدد الكلمات والحروف وأطول كلمة.", "behavior": "", "intent": "get_surah_statistics", "source": "generated"}
+{"id": "gen_0598", "text": "كم مرة ذُكرت كلمة «الحمد» في القرآن؟", "behavior": "", "intent": "search_quran_text", "source": "generated"}
+{"id": "gen_0599", "text": "ما سبب نزول الآية 3 من سورة الناس؟", "behavior": "", "intent": "nuzool", "source": "generated"}
+{"id": "gen_0600", "text": "لماذا نزلت سورة المائدة؟", "behavior": "", "intent": "nuzool", "source": "generated"}
+{"id": "gen_0601", "text": "ما حكم من يفشي أسرار الناس؟", "behavior": "", "intent": "ruling_v2", "source": "generated"}
+{"id": "gen_0602", "text": "كم عدد آيات سورة الأنفال؟", "behavior": "", "intent": "surah_info", "source": "generated"}
+{"id": "gen_0603", "text": "ما معنى قوله تعالى في الآية 84 من سورة ص؟", "behavior": "", "intent": "tafsir_verse", "source": "generated"}
+{"id": "gen_0604", "text": "حكم الاستثمار في صناديق الأسهم المختلطة؟", "behavior": "", "intent": "fatwa_search", "source": "generated"}
+{"id": "gen_0605", "text": "ما هي الآيات التي تتحدث عن فضل سورة الكهف؟", "behavior": "", "intent": "search_in_tafsir", "source": "generated"}
+{"id": "gen_0606", "text": "أريد تفسير سورة نوح كاملة.", "behavior": "", "intent": "tafsir_surah", "source": "generated"}
+{"id": "gen_0607", "text": "What does Surah Al-Ikhlas mean?", "behavior": "", "intent": "english_mixed", "source": "generated"}
+{"id": "gen_0608", "text": "ما هي الآيات التي تتحدث عن الأمانة؟", "behavior": "", "intent": "search_in_tafsir", "source": "generated"}
+{"id": "gen_0609", "text": "أعطني كل الأحاديث المشابهة لحديث الصدق عبر الكتب المختلفة.", "behavior": "", "intent": "fetch_cross_references", "source": "generated"}
+{"id": "gen_0610", "text": "لماذا نزلت سورة العلق؟", "behavior": "", "intent": "nuzool", "source": "generated"}
+{"id": "gen_0611", "text": "حكم صلاة الجماعة للمرأة في البيت؟", "behavior": "", "intent": "fatwa_search", "source": "generated"}
+{"id": "gen_0612", "text": "اذكر لي الحديث رقم 307 في رياض الصالحين.", "behavior": "", "intent": "fetch_hadith", "source": "generated"}
+{"id": "gen_0613", "text": "ما تفسير سورة النصر؟", "behavior": "", "intent": "tafsir_surah", "source": "generated"}
+{"id": "gen_0614", "text": "أريد الحديث رقم 205 من صحيح مسلم.", "behavior": "", "intent": "fetch_hadith", "source": "generated"}
+{"id": "gen_0615", "text": "ما سبب نزول الآية 3 من سورة البلد؟", "behavior": "", "intent": "nuzool", "source": "generated"}
+{"id": "gen_0616", "text": "وضّح لي تفسير الآية 28 من سورة المدثر حسب تفسير ar-tafseer-tanwir-al-miqbas.", "behavior": "", "intent": "tafsir_verse", "source": "generated"}
+{"id": "gen_0617", "text": "ما حكم من يشرب الخمر؟", "behavior": "", "intent": "ruling_v2", "source": "generated"}
+{"id": "gen_0618", "text": "اجلب لي تفسير الآية 18 من سورة نوح من أكثر من مصدر.", "behavior": "", "intent": "fetch_tafsir", "source": "generated"}
+{"id": "gen_0619", "text": "أين ورد لفظ «كفر» في القرآن الكريم؟", "behavior": "", "intent": "search_quran_text", "source": "generated"}
+{"id": "gen_0620", "text": "أعطني كل الأحاديث المشابهة لحديث التواضع عبر الكتب المختلفة.", "behavior": "", "intent": "fetch_cross_references", "source": "generated"}
+{"id": "gen_0621", "text": "أريد أحاديث نبوية شريفة عن الجنة والنار.", "behavior": "", "intent": "search_hadith", "source": "generated"}
+{"id": "gen_0622", "text": "ما هي الآيات التي تتحدث عن الدعاء؟", "behavior": "", "intent": "search_in_tafsir", "source": "generated"}
+{"id": "gen_0623", "text": "ما رأي أهل العلم في حكم لبس الذهب المحلق للرجال؟", "behavior": "", "intent": "fatwa_search", "source": "generated"}
+{"id": "gen_0624", "text": "سمّعني سورة الشرح.", "behavior": "", "intent": "play_surah", "source": "generated"}
+{"id": "gen_0625", "text": "ما هي إحصاءات جذر «سلم» في القرآن؟ كم مرة ورد وفي أي سور؟", "behavior": "", "intent": "get_root_stats", "source": "generated"}
+{"id": "gen_0626", "text": "ممكن تفسّر لي الآية 3 من سورة محمد؟", "behavior": "", "intent": "tafsir_verse", "source": "generated"}
+{"id": "gen_0627", "text": "اذكر لي الحديث رقم 226 في سنن أبي داود.", "behavior": "", "intent": "fetch_hadith", "source": "generated"}
+{"id": "gen_0628", "text": "ممكن تفسير كامل لسورة النجم؟", "behavior": "", "intent": "tafsir_surah", "source": "generated"}
+{"id": "gen_0629", "text": "شغّل لي الآية رقم 3 من سورة قريش بصوت الشيخ الشريم.", "behavior": "", "intent": "play_ayah", "source": "generated"}
+{"id": "gen_0630", "text": "ممكن تفسير كامل لسورة الممتحنة؟", "behavior": "", "intent": "tafsir_surah", "source": "generated"}
+{"id": "gen_0631", "text": "ما حكم التلقيح الصناعي بين الزوجين؟", "behavior": "", "intent": "fatwa_search", "source": "generated"}
+{"id": "gen_0632", "text": "ما رأي أهل العلم في حكم التبرع بالدم للأجانب؟", "behavior": "", "intent": "fatwa_search", "source": "generated"}
+{"id": "gen_0633", "text": "ممكن تفسير كامل لسورة العصر؟", "behavior": "", "intent": "tafsir_surah", "source": "generated"}
+{"id": "gen_0634", "text": "ما هي المصادر التي تغطي تفسير الآية 111 من سورة الأعراف؟", "behavior": "", "intent": "list_sources_for_ayah", "source": "generated"}
+{"id": "gen_0635", "text": "اجلب لي نص الآية 2 من سورة المسد بالرسم العثماني.", "behavior": "", "intent": "fetch_ayah", "source": "generated"}
+{"id": "gen_0636", "text": "ما هي الآيات التي تتحدث عن الحياء؟", "behavior": "", "intent": "search_in_tafsir", "source": "generated"}
+{"id": "gen_0637", "text": "وضّح لي تفسير الآية 40 من سورة القيامة حسب تفسير ar-tafseer-al-qurtubi.", "behavior": "", "intent": "tafsir_verse", "source": "generated"}
+{"id": "gen_0638", "text": "هل هناك قراءات متعددة للآية 27 من سورة المرسلات؟", "behavior": "", "intent": "qeraat", "source": "generated"}
+{"id": "gen_0639", "text": "هل يوجد حديث نبوي عن فضل الاستغفار؟", "behavior": "", "intent": "search_hadith", "source": "generated"}
+{"id": "gen_0640", "text": "اذكر لي الحديث رقم 95 في سنن النسائي.", "behavior": "", "intent": "fetch_hadith", "source": "generated"}
+{"id": "gen_0641", "text": "أعطني نظرة عامة شاملة على إحصاءات القرآن الكريم.", "behavior": "", "intent": "get_quran_overview", "source": "generated"}
+{"id": "gen_0642", "text": "الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ — هل قراءتي صحيحة؟", "behavior": "", "intent": "validate_recitation", "source": "generated"}
+{"id": "gen_0643", "text": "أريد الحديث رقم 63 من سنن النسائي.", "behavior": "", "intent": "fetch_hadith", "source": "generated"}
+{"id": "gen_0644", "text": "ما القراءات الواردة في الآية 6 من سورة الرعد؟", "behavior": "", "intent": "qeraat", "source": "generated"}
+{"id": "gen_0645", "text": "ما القراءات الواردة في الآية 17 من سورة الإسراء؟", "behavior": "", "intent": "qeraat", "source": "generated"}
+{"id": "gen_0646", "text": "ممكن تفسير كامل لسورة الهمزة؟", "behavior": "", "intent": "tafsir_surah", "source": "generated"}
+{"id": "gen_0647", "text": "أريد أن أعرف حكم استخدام وسائل منع الحمل المؤقتة.", "behavior": "", "intent": "fatwa_search", "source": "generated"}
+{"id": "gen_0648", "text": "شغّل لي الآية رقم 21 من سورة الأحقاف بصوت الشيخ العفاسي.", "behavior": "", "intent": "play_ayah", "source": "generated"}
+{"id": "gen_0649", "text": "ما معنى قوله تعالى في الآية 11 من سورة المنافقون؟", "behavior": "", "intent": "tafsir_verse", "source": "generated"}
+{"id": "gen_0650", "text": "كم مرة ذُكرت كلمة «الهداية» في القرآن؟", "behavior": "", "intent": "search_quran_text", "source": "generated"}
+{"id": "gen_0651", "text": "ما سبب نزول الآية 49 من سورة الأنبياء؟", "behavior": "", "intent": "nuzool", "source": "generated"}
+{"id": "gen_0652", "text": "صحح لي تلاوتي لهذه الآية: وَالْعَصْرِ إِنَّ الْإِنسَانَ لَفِي خُسْرٍ", "behavior": "", "intent": "validate_recitation", "source": "generated"}
+{"id": "gen_0653", "text": "ممكن تفسّر لي الآية 2 من سورة المنافقون؟", "behavior": "", "intent": "tafsir_verse", "source": "generated"}
+{"id": "gen_0654", "text": "اجلب لي نص الآية 2 من سورة الفلق بالرسم العثماني.", "behavior": "", "intent": "fetch_ayah", "source": "generated"}
+{"id": "gen_0655", "text": "صحح لي تلاوتي لهذه الآية: بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ", "behavior": "", "intent": "validate_recitation", "source": "generated"}
+{"id": "gen_0656", "text": "اذكر لي الحديث رقم 226 في سنن ابن ماجه.", "behavior": "", "intent": "fetch_hadith", "source": "generated"}
+{"id": "gen_0657", "text": "كم عمرك؟", "behavior": "", "intent": "persona", "source": "generated"}
+{"id": "gen_0658", "text": "أسمعني الآية 2 من سورة القدر.", "behavior": "", "intent": "play_ayah", "source": "generated"}
+{"id": "gen_0659", "text": "ما معنى قوله تعالى في الآية 15 من سورة الزمر؟", "behavior": "", "intent": "tafsir_verse", "source": "generated"}
+{"id": "gen_0660", "text": "اشرح لي معنى الآية رقم 4 من سورة الليل.", "behavior": "", "intent": "tafsir_verse", "source": "generated"}
+{"id": "gen_0661", "text": "شغّل لي الآية رقم 28 من سورة الرحمن بصوت الشيخ الغامدي.", "behavior": "", "intent": "play_ayah", "source": "generated"}
+{"id": "gen_0662", "text": "ممكن تفسّر لي الآية 15 من سورة الليل؟", "behavior": "", "intent": "tafsir_verse", "source": "generated"}
+{"id": "gen_0663", "text": "ما معنى قوله تعالى في الآية 78 من سورة الأنبياء؟", "behavior": "", "intent": "tafsir_verse", "source": "generated"}
+{"id": "gen_0664", "text": "اقرأ لي سورة عبس كاملة.", "behavior": "", "intent": "play_surah", "source": "generated"}
+{"id": "gen_0665", "text": "أخبرني معلومات عن سورة الكهف.", "behavior": "", "intent": "surah_info", "source": "generated"}
+{"id": "gen_0666", "text": "ما هو جذر كلمة «الخلق»؟", "behavior": "", "intent": "analyze_word", "source": "generated"}
+{"id": "gen_0667", "text": "هل سورة الطلاق مكية أم مدنية؟", "behavior": "", "intent": "surah_info", "source": "generated"}
+{"id": "gen_0668", "text": "شغّل لي الآية رقم 2 من سورة قريش بصوت الشيخ الغامدي.", "behavior": "", "intent": "play_ayah", "source": "generated"}
+{"id": "gen_0669", "text": "ما الذي يمكنك مساعدتي فيه؟", "behavior": "", "intent": "persona", "source": "generated"}
+{"id": "gen_0670", "text": "ما هو جذر كلمة «العبادة»؟", "behavior": "", "intent": "analyze_word", "source": "generated"}
+{"id": "gen_0671", "text": "أعطني إحصاءات مفصلة عن سورة الإسراء: عدد الكلمات والحروف وأطول كلمة.", "behavior": "", "intent": "get_surah_statistics", "source": "generated"}
+{"id": "gen_0672", "text": "ما سبب نزول سورة القلم؟", "behavior": "", "intent": "nuzool", "source": "generated"}
+{"id": "gen_0673", "text": "أريد الاستماع إلى سورة التحريم بصوت أحمد العجمي.", "behavior": "", "intent": "play_surah", "source": "generated"}
+{"id": "gen_0674", "text": "لماذا نزلت سورة الفجر؟", "behavior": "", "intent": "nuzool", "source": "generated"}
+{"id": "gen_0675", "text": "أعطني حديثاً صحيحاً عن الغيبة والنميمة.", "behavior": "", "intent": "search_hadith", "source": "generated"}
+{"id": "gen_0676", "text": "ما هي الآيات التي تتحدث عن صلة الرحم؟", "behavior": "", "intent": "search_in_tafsir", "source": "generated"}
+{"id": "gen_0677", "text": "اشرح لي معنى الآية رقم 24 من سورة المطففين.", "behavior": "", "intent": "tafsir_verse", "source": "generated"}
+{"id": "gen_0678", "text": "سمّعني سورة القيامة.", "behavior": "", "intent": "play_surah", "source": "generated"}
+{"id": "gen_0679", "text": "حكم زكاة الأسهم؟", "behavior": "", "intent": "fatwa_search", "source": "generated"}
+{"id": "gen_0680", "text": "هل هذا الحديث عن الحج متفق عليه بين البخاري ومسلم؟", "behavior": "", "intent": "fetch_cross_references", "source": "generated"}
+{"id": "gen_0681", "text": "ما تفسير سورة الأعراف؟", "behavior": "", "intent": "tafsir_surah", "source": "generated"}
+{"id": "gen_0682", "text": "ما تفسير سورة الكهف؟", "behavior": "", "intent": "tafsir_surah", "source": "generated"}
+{"id": "gen_0683", "text": "ممكن تفسّر لي الآية 5 من سورة الفاتحة؟", "behavior": "", "intent": "tafsir_verse", "source": "generated"}
+{"id": "gen_0684", "text": "اشرح لي معنى الآية رقم 15 من سورة الأعلى.", "behavior": "", "intent": "tafsir_verse", "source": "generated"}
+{"id": "gen_0685", "text": "أريد الاستماع إلى سورة فاطر بصوت ناصر القطامي.", "behavior": "", "intent": "play_surah", "source": "generated"}
+{"id": "gen_0686", "text": "اجلب لي نص الآية 11 من سورة الضحى بالرسم العثماني.", "behavior": "", "intent": "fetch_ayah", "source": "generated"}
+{"id": "gen_0687", "text": "هل هناك قراءات متعددة للآية 9 من سورة الشمس؟", "behavior": "", "intent": "qeraat", "source": "generated"}
+{"id": "gen_0688", "text": "ما هي إحصاءات جذر «نور» في القرآن؟ كم مرة ورد وفي أي سور؟", "behavior": "", "intent": "get_root_stats", "source": "generated"}
+{"id": "gen_0689", "text": "ما رأي أهل العلم في حكم إجارة الأرض الزراعية بجزء من المحصول؟", "behavior": "", "intent": "fatwa_search", "source": "generated"}
+{"id": "gen_0690", "text": "كم عدد آيات سورة الطارق؟", "behavior": "", "intent": "surah_info", "source": "generated"}
+{"id": "gen_0691", "text": "ما القراءات الواردة في الآية 39 من سورة التوبة؟", "behavior": "", "intent": "qeraat", "source": "generated"}
+{"id": "gen_0692", "text": "ما رأي الشرع في من يترك الحجاب؟", "behavior": "", "intent": "ruling_v2", "source": "generated"}
+{"id": "gen_0693", "text": "ما اسمك؟", "behavior": "", "intent": "persona", "source": "generated"}
+{"id": "gen_0694", "text": "ما هي فوائد الصفحة رقم 28 من المصحف؟", "behavior": "", "intent": "get_page_fawaed", "source": "generated"}
+{"id": "gen_0695", "text": "اشرح لي معنى الآية رقم 4 من سورة التحريم.", "behavior": "", "intent": "tafsir_verse", "source": "generated"}
+{"id": "gen_0696", "text": "أعطني كل الأحاديث المشابهة لحديث حقوق الزوجة عبر الكتب المختلفة.", "behavior": "", "intent": "fetch_cross_references", "source": "generated"}
+{"id": "gen_0697", "text": "اجلب لي نص الآية 9 من سورة النبأ بالرسم العثماني.", "behavior": "", "intent": "fetch_ayah", "source": "generated"}
+{"id": "gen_0698", "text": "ما معنى قوله تعالى في الآية 11 من سورة الأحقاف؟", "behavior": "", "intent": "tafsir_verse", "source": "generated"}
+{"id": "gen_0699", "text": "ما حكم من يسب الدين؟", "behavior": "", "intent": "ruling_v2", "source": "generated"}
+{"id": "gen_0700", "text": "ما هي إحصاءات جذر «أمن» في القرآن؟ كم مرة ورد وفي أي سور؟", "behavior": "", "intent": "get_root_stats", "source": "generated"}
+{"id": "gen_0701", "text": "ما حكم استئجار الأرحام؟", "behavior": "", "intent": "fatwa_search", "source": "generated"}
+{"id": "gen_0702", "text": "ما معنى قوله تعالى في الآية 8 من سورة الجاثية؟", "behavior": "", "intent": "tafsir_verse", "source": "generated"}
+{"id": "gen_0703", "text": "اجلب لي نص الآية 67 من سورة الزخرف بالرسم العثماني.", "behavior": "", "intent": "fetch_ayah", "source": "generated"}
+{"id": "gen_0704", "text": "عندي صداع، ما العلاج؟", "behavior": "", "intent": "scope_redirect", "source": "generated"}
+{"id": "gen_0705", "text": "هل هذا الحديث عن فضل الوضوء متفق عليه بين البخاري ومسلم؟", "behavior": "", "intent": "fetch_cross_references", "source": "generated"}
+{"id": "gen_0706", "text": "ما تفسير سورة الشمس؟", "behavior": "", "intent": "tafsir_surah", "source": "generated"}
+{"id": "gen_0707", "text": "اذكر لي الحديث رقم 199 في سنن أبي داود.", "behavior": "", "intent": "fetch_hadith", "source": "generated"}
+{"id": "gen_0708", "text": "من هو مطورك؟", "behavior": "", "intent": "persona", "source": "generated"}
+{"id": "gen_0709", "text": "ما هي المصادر التي تغطي تفسير الآية 3 من سورة المدثر؟", "behavior": "", "intent": "list_sources_for_ayah", "source": "generated"}
+{"id": "gen_0710", "text": "ما حكم صيام الحامل والمرضع؟", "behavior": "", "intent": "fatwa_search", "source": "generated"}
+{"id": "gen_0711", "text": "ما رأي أهل العلم في حكم دفع الزكاة لغير المسلمين؟", "behavior": "", "intent": "fatwa_search", "source": "generated"}
+{"id": "gen_0712", "text": "ما هي الآيات التي تتحدث عن تربية الأبناء؟", "behavior": "", "intent": "search_in_tafsir", "source": "generated"}
+{"id": "gen_0713", "text": "هل هناك قراءات متعددة للآية 88 من سورة الزخرف؟", "behavior": "", "intent": "qeraat", "source": "generated"}
+{"id": "gen_0714", "text": "سمّعني سورة نوح.", "behavior": "", "intent": "play_surah", "source": "generated"}
+{"id": "gen_0715", "text": "ما تفسير الآية 4 من سورة فصلت؟", "behavior": "", "intent": "tafsir_verse", "source": "generated"}
+{"id": "gen_0716", "text": "اعطني أهم الفتاوى المتعلقة بموضوع الحج.", "behavior": "", "intent": "fetch_answer", "source": "generated"}
+{"id": "gen_0717", "text": "وضّح لي تفسير الآية 13 من سورة الصف حسب تفسير ar-tafseer-tanwir-al-miqbas.", "behavior": "", "intent": "tafsir_verse", "source": "generated"}
+{"id": "gen_0718", "text": "حلل لي كلمة «السجود» صرفياً ونحوياً.", "behavior": "", "intent": "analyze_word", "source": "generated"}
+{"id": "gen_0719", "text": "ما رأي أهل العلم في حكم العمل في البنوك الربوية؟", "behavior": "", "intent": "fatwa_search", "source": "generated"}
+{"id": "gen_0720", "text": "سمّعني سورة الحاقة.", "behavior": "", "intent": "play_surah", "source": "generated"}
+{"id": "gen_0721", "text": "حكم قصر الصلاة في السفر؟", "behavior": "", "intent": "fatwa_search", "source": "generated"}
+{"id": "gen_0722", "text": "أريد الحديث رقم 360 من رياض الصالحين.", "behavior": "", "intent": "fetch_hadith", "source": "generated"}
+{"id": "gen_0723", "text": "شغّل لي الآية رقم 19 من سورة الغاشية بصوت الشيخ ناصر القطامي.", "behavior": "", "intent": "play_ayah", "source": "generated"}
+{"id": "gen_0724", "text": "عرّفني بنفسك.", "behavior": "", "intent": "persona", "source": "generated"}
+{"id": "gen_0725", "text": "ما سبب نزول سورة المزمل؟", "behavior": "", "intent": "nuzool", "source": "generated"}
+{"id": "gen_0726", "text": "ما تفسير الآية 27 من سورة يوسف؟", "behavior": "", "intent": "tafsir_verse", "source": "generated"}
+{"id": "gen_0727", "text": "اعطني أهم الفتاوى المتعلقة بموضوع الصلاة.", "behavior": "", "intent": "fetch_answer", "source": "generated"}
+{"id": "gen_0728", "text": "اعطني أهم الفتاوى المتعلقة بموضوع الصيام.", "behavior": "", "intent": "fetch_answer", "source": "generated"}
+{"id": "gen_0729", "text": "اشرح لي تفسير سورة النازعات من كتاب ar-tafseer-al-saddi.", "behavior": "", "intent": "tafsir_surah", "source": "generated"}
+{"id": "gen_0730", "text": "أريد أن أعرف حكم الخلع في الشريعة الإسلامية.", "behavior": "", "intent": "fatwa_search", "source": "generated"}
+{"id": "gen_0731", "text": "ابحث لي عن كل المواضع التي ذُكرت فيها كلمة «الحمد» في القرآن.", "behavior": "", "intent": "search_quran_text", "source": "generated"}
+{"id": "gen_0732", "text": "ما حكم التبرع بالأعضاء بعد الموت؟", "behavior": "", "intent": "fatwa_search", "source": "generated"}
+{"id": "gen_0733", "text": "ممكن تفسير كامل لسورة العنكبوت؟", "behavior": "", "intent": "tafsir_surah", "source": "generated"}
+{"id": "gen_0734", "text": "وضّح لي تفسير الآية 82 من سورة يونس حسب تفسير ar-tafsir-al-wasit.", "behavior": "", "intent": "tafsir_verse", "source": "generated"}
+{"id": "gen_0735", "text": "سمّعني سورة العلق.", "behavior": "", "intent": "play_surah", "source": "generated"}
+{"id": "gen_0736", "text": "أريد الاستماع إلى سورة يس بصوت أحمد العجمي.", "behavior": "", "intent": "play_surah", "source": "generated"}
+{"id": "gen_0737", "text": "ما تفسير سورة الأحزاب؟", "behavior": "", "intent": "tafsir_surah", "source": "generated"}
+{"id": "gen_0738", "text": "ممكن تفسّر لي الآية 37 من سورة الحجر؟", "behavior": "", "intent": "tafsir_verse", "source": "generated"}
+{"id": "gen_0739", "text": "اقرأ لي الآية رقم 51 من سورة الأنفال بصوت الغامدي.", "behavior": "", "intent": "play_ayah", "source": "generated"}
+{"id": "gen_0740", "text": "اذكر لي الحديث رقم 349 في صحيح البخاري.", "behavior": "", "intent": "fetch_hadith", "source": "generated"}
+{"id": "gen_0741", "text": "هل هذا الحديث عن الغيبة والنميمة متفق عليه بين البخاري ومسلم؟", "behavior": "", "intent": "fetch_cross_references", "source": "generated"}
+{"id": "gen_0742", "text": "ما القراءات الواردة في الآية 12 من سورة القصص؟", "behavior": "", "intent": "qeraat", "source": "generated"}
+{"id": "gen_0743", "text": "هل يوجد حديث نبوي عن حسن الخلق؟", "behavior": "", "intent": "search_hadith", "source": "generated"}
+{"id": "gen_0744", "text": "اشرح لي معنى الآية رقم 2 من سورة الإنسان.", "behavior": "", "intent": "tafsir_verse", "source": "generated"}
+{"id": "gen_0745", "text": "اقرأ لي الآية رقم 10 من سورة عبس بصوت السديس.", "behavior": "", "intent": "play_ayah", "source": "generated"}
+{"id": "gen_0746", "text": "أعطني كل الأحاديث المشابهة لحديث تربية الأبناء عبر الكتب المختلفة.", "behavior": "", "intent": "fetch_cross_references", "source": "generated"}
+{"id": "gen_0747", "text": "اجلب لي نص الآية 17 من سورة الشعراء بالرسم العثماني.", "behavior": "", "intent": "fetch_ayah", "source": "generated"}
+{"id": "gen_0748", "text": "حكم التبرع بالأعضاء بعد الموت؟", "behavior": "", "intent": "fatwa_search", "source": "generated"}
+{"id": "gen_0749", "text": "اذكر لي الحديث رقم 255 في سنن ابن ماجه.", "behavior": "", "intent": "fetch_hadith", "source": "generated"}
+{"id": "gen_0750", "text": "ما معنى قوله تعالى في الآية 19 من سورة الروم؟", "behavior": "", "intent": "tafsir_verse", "source": "generated"}
+{"id": "gen_0751", "text": "اجلب لي نص الآية 14 من سورة الفرقان بالرسم العثماني.", "behavior": "", "intent": "fetch_ayah", "source": "generated"}
+{"id": "gen_0752", "text": "ما تفسير سورة الغاشية؟", "behavior": "", "intent": "tafsir_surah", "source": "generated"}
+{"id": "gen_0753", "text": "هل من يتعامل مع البنوك الربوية كافر؟", "behavior": "", "intent": "ruling_v2", "source": "generated"}
+{"id": "gen_0754", "text": "أريد تفسير سورة الروم كاملة.", "behavior": "", "intent": "tafsir_surah", "source": "generated"}
+{"id": "gen_0755", "text": "صحح لي تلاوتي لهذه الآية: الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ", "behavior": "", "intent": "validate_recitation", "source": "generated"}
+{"id": "gen_0756", "text": "سمّعني سورة الدخان.", "behavior": "", "intent": "play_surah", "source": "generated"}
+{"id": "gen_0757", "text": "ما حكم بيع الدين بالتقسيط؟", "behavior": "", "intent": "fatwa_search", "source": "generated"}
+{"id": "gen_0758", "text": "ما هي إحصاءات جذر «سجد» في القرآن؟ كم مرة ورد وفي أي سور؟", "behavior": "", "intent": "get_root_stats", "source": "generated"}
+{"id": "gen_0759", "text": "أعطني كل الأحاديث المشابهة لحديث إكرام الضيف عبر الكتب المختلفة.", "behavior": "", "intent": "fetch_cross_references", "source": "generated"}
+{"id": "gen_0760", "text": "ماذا تستطيع أن تفعل؟", "behavior": "", "intent": "persona", "source": "generated"}
+{"id": "gen_0761", "text": "ممكن تفسّر لي الآية 60 من سورة يونس؟", "behavior": "", "intent": "tafsir_verse", "source": "generated"}
+{"id": "gen_0762", "text": "أين ورد لفظ «صلح» في القرآن الكريم؟", "behavior": "", "intent": "search_quran_text", "source": "generated"}
+{"id": "gen_0763", "text": "أريد الحديث رقم 272 من سنن النسائي.", "behavior": "", "intent": "fetch_hadith", "source": "generated"}
+{"id": "gen_0764", "text": "اقرأ لي سورة المزمل كاملة.", "behavior": "", "intent": "play_surah", "source": "generated"}
+{"id": "gen_0765", "text": "ما القراءات الواردة في الآية 9 من سورة الحشر؟", "behavior": "", "intent": "qeraat", "source": "generated"}
+{"id": "gen_0766", "text": "ما اسم آخر السورة وأول سورة الصافات؟", "behavior": "", "intent": "surah_info", "source": "generated"}
+{"id": "gen_0767", "text": "أعطني حديثاً صحيحاً عن فضل يوم الجمعة.", "behavior": "", "intent": "search_hadith", "source": "generated"}
+{"id": "gen_0768", "text": "حكم لبس الذهب المحلق للرجال؟", "behavior": "", "intent": "fatwa_search", "source": "generated"}
+{"id": "gen_0769", "text": "أعطني حديثاً صحيحاً عن قصص الأنبياء.", "behavior": "", "intent": "search_hadith", "source": "generated"}
+{"id": "gen_0770", "text": "اقرأ لي سورة الزخرف كاملة.", "behavior": "", "intent": "play_surah", "source": "generated"}
+{"id": "gen_0771", "text": "ابحث لي في التفسير عن آيات تتحدث عن النور.", "behavior": "", "intent": "search_in_tafsir", "source": "generated"}
+{"id": "gen_0772", "text": "اقرأ لي سورة الأعراف كاملة.", "behavior": "", "intent": "play_surah", "source": "generated"}
+{"id": "gen_0773", "text": "اقرأ لي سورة المائدة كاملة.", "behavior": "", "intent": "play_surah", "source": "generated"}
+{"id": "gen_0774", "text": "أريد الحديث رقم 70 من سنن الترمذي.", "behavior": "", "intent": "fetch_hadith", "source": "generated"}
+{"id": "gen_0775", "text": "ما القراءات الواردة في الآية 1 من سورة المسد؟", "behavior": "", "intent": "qeraat", "source": "generated"}
+{"id": "gen_0776", "text": "أعطني حديثاً صحيحاً عن بر الوالدين.", "behavior": "", "intent": "search_hadith", "source": "generated"}
+{"id": "gen_0777", "text": "أريد أن تصحح لي تلاوة هذه الآية: إِنَّا أَعْطَيْنَاكَ الْكَوْثَرَ", "behavior": "", "intent": "validate_recitation", "source": "generated"}
+{"id": "gen_0778", "text": "ممكن تفسير كامل لسورة الشعراء؟", "behavior": "", "intent": "tafsir_surah", "source": "generated"}
+{"id": "gen_0779", "text": "أريد الاستماع إلى سورة إبراهيم بصوت محمد الطبلاوي.", "behavior": "", "intent": "play_surah", "source": "generated"}
+{"id": "gen_0780", "text": "ابحث لي عن أحاديث تتحدث عن الظلم.", "behavior": "", "intent": "search_hadith", "source": "generated"}
+{"id": "gen_0781", "text": "ما سبب نزول الآية 12 من سورة المدثر؟", "behavior": "", "intent": "nuzool", "source": "generated"}
+{"id": "gen_0782", "text": "Can you recite Surah Al-Fatiha?", "behavior": "", "intent": "english_mixed", "source": "generated"}
+{"id": "gen_0783", "text": "اقرأ لي الآية رقم 8 من سورة البلد بصوت الحصري.", "behavior": "", "intent": "play_ayah", "source": "generated"}
+{"id": "gen_0784", "text": "ابحث لي في التفسير عن آيات تتحدث عن الزكاة.", "behavior": "", "intent": "search_in_tafsir", "source": "generated"}
+{"id": "gen_0785", "text": "اذكر لي الحديث رقم 284 في سنن أبي داود.", "behavior": "", "intent": "fetch_hadith", "source": "generated"}
+{"id": "gen_0786", "text": "ما تفسير الآية 28 من سورة الجاثية؟", "behavior": "", "intent": "tafsir_verse", "source": "generated"}
+{"id": "gen_0787", "text": "ابحث لي عن أحاديث تتحدث عن الصيام.", "behavior": "", "intent": "search_hadith", "source": "generated"}
+{"id": "gen_0788", "text": "اعطني أهم الفتاوى المتعلقة بموضوع العقيدة.", "behavior": "", "intent": "fetch_answer", "source": "generated"}
+{"id": "gen_0789", "text": "اعطني أهم الفتاوى المتعلقة بموضوع الزكاة.", "behavior": "", "intent": "fetch_answer", "source": "generated"}
+{"id": "gen_0790", "text": "اجلب لي تفسير الآية 73 من سورة طه من أكثر من مصدر.", "behavior": "", "intent": "fetch_tafsir", "source": "generated"}
+{"id": "gen_0791", "text": "شغّل لي سورة الممتحنة بصوت الشيخ سعود الشريم.", "behavior": "", "intent": "play_surah", "source": "generated"}
+{"id": "gen_0792", "text": "ما هي الآيات التي تتحدث عن قيام الليل؟", "behavior": "", "intent": "search_in_tafsir", "source": "generated"}
+{"id": "gen_0793", "text": "ما القراءات الواردة في الآية 65 من سورة الزمر؟", "behavior": "", "intent": "qeraat", "source": "generated"}
+{"id": "gen_0794", "text": "ممكن تفسّر لي الآية 48 من سورة الزخرف؟", "behavior": "", "intent": "tafsir_verse", "source": "generated"}
+{"id": "gen_0795", "text": "ممكن تفسّر لي الآية 37 من سورة المائدة؟", "behavior": "", "intent": "tafsir_verse", "source": "generated"}
+{"id": "gen_0796", "text": "شغّل لي الآية رقم 26 من سورة النور بصوت الشيخ محمد الطبلاوي.", "behavior": "", "intent": "play_ayah", "source": "generated"}
+{"id": "gen_0797", "text": "ما هي المصادر التي تغطي تفسير الآية 7 من سورة الزخرف؟", "behavior": "", "intent": "list_sources_for_ayah", "source": "generated"}
+{"id": "gen_0798", "text": "ما رأي أهل العلم في حكم تعليق الصور الفوتوغرافية في المنازل؟", "behavior": "", "intent": "fatwa_search", "source": "generated"}
+{"id": "gen_0799", "text": "أريد تفسير سورة الإنسان كاملة.", "behavior": "", "intent": "tafsir_surah", "source": "generated"}
+{"id": "gen_0800", "text": "اشرح لي تفسير سورة الأعلى من كتاب ar-tafsir-al-wasit.", "behavior": "", "intent": "tafsir_surah", "source": "generated"}
+{"id": "gen_0801", "text": "ما القراءات الواردة في الآية 19 من سورة الانفطار؟", "behavior": "", "intent": "qeraat", "source": "generated"}
+{"id": "gen_0802", "text": "أسمعني الآية 103 من سورة التوبة.", "behavior": "", "intent": "play_ayah", "source": "generated"}
+{"id": "gen_0803", "text": "أعطني حديثاً صحيحاً عن الحج.", "behavior": "", "intent": "search_hadith", "source": "generated"}
+{"id": "gen_0804", "text": "شغّل لي الآية رقم 2 من سورة محمد بصوت الشيخ ياسر الدوسري.", "behavior": "", "intent": "play_ayah", "source": "generated"}
+{"id": "gen_0805", "text": "وضّح لي تفسير الآية 11 من سورة النازعات حسب تفسير ar-tafseer-tanwir-al-miqbas.", "behavior": "", "intent": "tafsir_verse", "source": "generated"}
+{"id": "gen_0806", "text": "شغّل لي الآية رقم 38 من سورة النحل بصوت الشيخ العفاسي.", "behavior": "", "intent": "play_ayah", "source": "generated"}
+{"id": "gen_0807", "text": "هل من يتعامل بالربا كافر؟", "behavior": "", "intent": "ruling_v2", "source": "generated"}
+{"id": "gen_0808", "text": "شغّل لي الآية رقم 81 من سورة يوسف بصوت الشيخ سعود الشريم.", "behavior": "", "intent": "play_ayah", "source": "generated"}
+{"id": "gen_0809", "text": "اشرح لي معنى الآية رقم 12 من سورة التكوير.", "behavior": "", "intent": "tafsir_verse", "source": "generated"}
+{"id": "gen_0810", "text": "حلّل لي كلمة «كفر» من الناحية اللغوية.", "behavior": "", "intent": "analyze_word", "source": "generated"}
+{"id": "gen_0811", "text": "اجلب لي تفسير الآية 4 من سورة قريش من أكثر من مصدر.", "behavior": "", "intent": "fetch_tafsir", "source": "generated"}
+{"id": "gen_0812", "text": "هل هناك قراءات متعددة للآية 72 من سورة النحل؟", "behavior": "", "intent": "qeraat", "source": "generated"}
+{"id": "gen_0813", "text": "اجلب لي نص الآية 23 من سورة الروم بالرسم العثماني.", "behavior": "", "intent": "fetch_ayah", "source": "generated"}
+{"id": "gen_0814", "text": "اقرأ لي سورة سبأ كاملة.", "behavior": "", "intent": "play_surah", "source": "generated"}
+{"id": "gen_0815", "text": "ما هي الآيات التي تتحدث عن بر الوالدين؟", "behavior": "", "intent": "search_in_tafsir", "source": "generated"}
+{"id": "gen_0816", "text": "ما اسم آخر السورة وأول سورة النساء؟", "behavior": "", "intent": "surah_info", "source": "generated"}
+{"id": "gen_0817", "text": "اشرح لي معنى الآية رقم 2 من سورة الناس.", "behavior": "", "intent": "tafsir_verse", "source": "generated"}
+{"id": "gen_0818", "text": "هل ورد حديث «التوبة» بروايات مشابهة في كتب أخرى؟", "behavior": "", "intent": "fetch_cross_references", "source": "generated"}
+{"id": "gen_0819", "text": "أريد أحاديث نبوية شريفة عن الصيام.", "behavior": "", "intent": "search_hadith", "source": "generated"}
+{"id": "gen_0820", "text": "ابحث لي عن كل المواضع التي ذُكرت فيها كلمة «السجود» في القرآن.", "behavior": "", "intent": "search_quran_text", "source": "generated"}
+{"id": "gen_0821", "text": "أريد الحديث رقم 54 من رياض الصالحين.", "behavior": "", "intent": "fetch_hadith", "source": "generated"}
+{"id": "gen_0822", "text": "لماذا نزلت سورة يس؟", "behavior": "", "intent": "nuzool", "source": "generated"}
+{"id": "gen_0823", "text": "صحح لي تلاوتي لهذه الآية: قُلْ هُوَ اللَّهُ أَحَدٌ", "behavior": "", "intent": "validate_recitation", "source": "generated"}
+{"id": "gen_0824", "text": "اقرأ لي سورة الحج كاملة.", "behavior": "", "intent": "play_surah", "source": "generated"}
+{"id": "gen_0825", "text": "ما هو جذر كلمة «السجود»؟", "behavior": "", "intent": "analyze_word", "source": "generated"}
+{"id": "gen_0826", "text": "شغّل لي الآية رقم 62 من سورة الأنبياء بصوت الشيخ الحصري.", "behavior": "", "intent": "play_ayah", "source": "generated"}
+{"id": "gen_0827", "text": "أريد أن أعرف حكم التلقيح الصناعي بين الزوجين.", "behavior": "", "intent": "fatwa_search", "source": "generated"}
+{"id": "gen_0828", "text": "هل يوجد حديث نبوي عن فضل طلب العلم؟", "behavior": "", "intent": "search_hadith", "source": "generated"}
+{"id": "gen_0829", "text": "هل هناك قراءات متعددة للآية 2 من سورة الحجرات؟", "behavior": "", "intent": "qeraat", "source": "generated"}
+{"id": "gen_0830", "text": "كم مرة ذُكرت كلمة «الإحسان» في القرآن؟", "behavior": "", "intent": "search_quran_text", "source": "generated"}
+{"id": "gen_0831", "text": "ما رأي أهل العلم في حكم الصرافة الإلكترونية للعملات؟", "behavior": "", "intent": "fatwa_search", "source": "generated"}
+{"id": "gen_0832", "text": "اذكر لي الحديث رقم 410 في سنن النسائي.", "behavior": "", "intent": "fetch_hadith", "source": "generated"}
+{"id": "gen_0833", "text": "أين ورد لفظ «عبد» في القرآن الكريم؟", "behavior": "", "intent": "search_quran_text", "source": "generated"}
+{"id": "gen_0834", "text": "اقرأ لي سورة الحجر كاملة.", "behavior": "", "intent": "play_surah", "source": "generated"}
+{"id": "gen_0835", "text": "اقرأ لي آية الكرسي.", "behavior": "", "intent": "play_ayah_named", "source": "generated"}
+{"id": "gen_0836", "text": "ما حكم زكاة الأسهم؟", "behavior": "", "intent": "fatwa_search", "source": "generated"}
+{"id": "gen_0837", "text": "ممكن تفسير كامل لسورة المائدة؟", "behavior": "", "intent": "tafsir_surah", "source": "generated"}
+{"id": "gen_0838", "text": "سمّعني سورة الفرقان.", "behavior": "", "intent": "play_surah", "source": "generated"}
+{"id": "gen_0839", "text": "أريد تفسير سورة الأعراف كاملة.", "behavior": "", "intent": "tafsir_surah", "source": "generated"}
+{"id": "gen_0840", "text": "ممكن تفسير كامل لسورة المرسلات؟", "behavior": "", "intent": "tafsir_surah", "source": "generated"}
+{"id": "gen_0841", "text": "أعطني كل مواضع ورود جذر «صلح» في القرآن.", "behavior": "", "intent": "find_root_occurrences", "source": "generated"}
+{"id": "gen_0842", "text": "ما معنى وجذر كلمة «هدى» في القرآن؟", "behavior": "", "intent": "analyze_word", "source": "generated"}
+{"id": "gen_0843", "text": "ابحث عن عبارة «الظلم» في نص القرآن.", "behavior": "", "intent": "search_quran_text", "source": "generated"}
+{"id": "gen_0844", "text": "شغّل لي سورة التكاثر بصوت الشيخ عبد الباسط.", "behavior": "", "intent": "play_surah", "source": "generated"}
+{"id": "gen_0845", "text": "شغّل لي الآية رقم 26 من سورة الملك بصوت الشيخ ماهر المعيقلي.", "behavior": "", "intent": "play_ayah", "source": "generated"}
+{"id": "gen_0846", "text": "هل يوجد حديث نبوي عن الغيبة والنميمة؟", "behavior": "", "intent": "search_hadith", "source": "generated"}
+{"id": "gen_0847", "text": "ممكن تفسّر لي الآية 19 من سورة ق؟", "behavior": "", "intent": "tafsir_verse", "source": "generated"}
+{"id": "gen_0848", "text": "اقرأ لي الآية رقم 6 من سورة إبراهيم بصوت المنشاوي.", "behavior": "", "intent": "play_ayah", "source": "generated"}
+{"id": "gen_0849", "text": "ممكن تفسير كامل لسورة الليل؟", "behavior": "", "intent": "tafsir_surah", "source": "generated"}
+{"id": "gen_0850", "text": "ما حكم التبني في الإسلام؟", "behavior": "", "intent": "fatwa_search", "source": "generated"}
+{"id": "gen_0851", "text": "أخبرني معلومات عن سورة السجدة.", "behavior": "", "intent": "surah_info", "source": "generated"}
+{"id": "gen_0852", "text": "أريد الحديث رقم 23 من سنن الترمذي.", "behavior": "", "intent": "fetch_hadith", "source": "generated"}
+{"id": "gen_0853", "text": "اقرأ لي الآية رقم 6 من سورة فصلت بصوت الشريم.", "behavior": "", "intent": "play_ayah", "source": "generated"}
+{"id": "gen_0854", "text": "اجلب لي تفسير الآية 4 من سورة فاطر من أكثر من مصدر.", "behavior": "", "intent": "fetch_tafsir", "source": "generated"}
+{"id": "gen_0855", "text": "اشرح لي معنى الآية رقم 5 من سورة الناس.", "behavior": "", "intent": "tafsir_verse", "source": "generated"}
+{"id": "gen_0856", "text": "شغّل لي الآية رقم 52 من سورة الفرقان بصوت الشيخ سعود الشريم.", "behavior": "", "intent": "play_ayah", "source": "generated"}
+{"id": "gen_0857", "text": "أريد تفسير سورة سبأ كاملة.", "behavior": "", "intent": "tafsir_surah", "source": "generated"}
+{"id": "gen_0858", "text": "أريد تفسير سورة الفيل كاملة.", "behavior": "", "intent": "tafsir_surah", "source": "generated"}
+{"id": "gen_0859", "text": "اشرح لي معنى الآية رقم 41 من سورة الزمر.", "behavior": "", "intent": "tafsir_verse", "source": "generated"}
+{"id": "gen_0860", "text": "أريد أن أعرف حكم استخدام مستحضرات التجميل التي تحتوي كحولاً.", "behavior": "", "intent": "fatwa_search", "source": "generated"}
+{"id": "gen_0861", "text": "ما حكم الاستماع إلى الموسيقى؟", "behavior": "", "intent": "fatwa_search", "source": "generated"}
+{"id": "gen_0862", "text": "هل هناك قراءات متعددة للآية 12 من سورة الفجر؟", "behavior": "", "intent": "qeraat", "source": "generated"}
+{"id": "gen_0863", "text": "ما سبب نزول الآية 8 من سورة البروج؟", "behavior": "", "intent": "nuzool", "source": "generated"}
+{"id": "gen_0864", "text": "ما تفسير الآية 6 من سورة ص؟", "behavior": "", "intent": "tafsir_verse", "source": "generated"}
+{"id": "gen_0865", "text": "هل هناك قراءات متعددة للآية 131 من سورة آل عمران؟", "behavior": "", "intent": "qeraat", "source": "generated"}
+{"id": "gen_0866", "text": "اقرأ لي سورة الروم كاملة.", "behavior": "", "intent": "play_surah", "source": "generated"}
+{"id": "gen_0867", "text": "اجلب لي تفسير الآية 12 من سورة القلم من أكثر من مصدر.", "behavior": "", "intent": "fetch_tafsir", "source": "generated"}
+{"id": "gen_0868", "text": "ابحث لي عن أحاديث تتحدث عن التوبة.", "behavior": "", "intent": "search_hadith", "source": "generated"}
+{"id": "gen_0869", "text": "ما هي مصادر علوم القرآن المتاحة لديك؟", "behavior": "", "intent": "list_science_sources", "source": "generated"}
+{"id": "gen_0870", "text": "What is the ruling on music in Islam?", "behavior": "", "intent": "english_mixed", "source": "generated"}
+{"id": "gen_0871", "text": "ما حكم من نسي ركناً من أركان الصلاة؟", "behavior": "", "intent": "fatwa_search", "source": "generated"}
+{"id": "gen_0872", "text": "ما رأي أهل العلم في حكم بيع الأعضاء البشرية؟", "behavior": "", "intent": "fatwa_search", "source": "generated"}
+{"id": "gen_0873", "text": "أريد أن أعرف حكم إخراج الزكاة قبل موعدها.", "behavior": "", "intent": "fatwa_search", "source": "generated"}
+{"id": "gen_0874", "text": "أعطني إحصاءات مفصلة عن سورة الفجر: عدد الكلمات والحروف وأطول كلمة.", "behavior": "", "intent": "get_surah_statistics", "source": "generated"}
+{"id": "gen_0875", "text": "ما حكم من يترك صيام رمضان بلا عذر؟", "behavior": "", "intent": "ruling_v2", "source": "generated"}
+{"id": "gen_0876", "text": "هل ورد حديث «الصلاة على وقتها» بروايات مشابهة في كتب أخرى؟", "behavior": "", "intent": "fetch_cross_references", "source": "generated"}
+{"id": "gen_0877", "text": "ما رأي أهل العلم في حكم استئجار الأرحام؟", "behavior": "", "intent": "fatwa_search", "source": "generated"}
+{"id": "gen_0878", "text": "ما سبب نزول سورة القيامة؟", "behavior": "", "intent": "nuzool", "source": "generated"}
+{"id": "gen_0879", "text": "هل ورد حديث «آداب المجلس» بروايات مشابهة في كتب أخرى؟", "behavior": "", "intent": "fetch_cross_references", "source": "generated"}
+{"id": "gen_0880", "text": "أعطني كل الأحاديث المشابهة لحديث الجنة والنار عبر الكتب المختلفة.", "behavior": "", "intent": "fetch_cross_references", "source": "generated"}
+{"id": "gen_0881", "text": "من أنشأ هذا التطبيق؟", "behavior": "", "intent": "persona", "source": "generated"}
+{"id": "gen_0882", "text": "ممكن تفسير كامل لسورة الفاتحة؟", "behavior": "", "intent": "tafsir_surah", "source": "generated"}
+{"id": "gen_0883", "text": "ما سبب نزول سورة العصر؟", "behavior": "", "intent": "nuzool", "source": "generated"}
+{"id": "gen_0884", "text": "شغّل لي سورة الحشر بصوت الشيخ ياسر الدوسري.", "behavior": "", "intent": "play_surah", "source": "generated"}
+{"id": "gen_0885", "text": "ما اسم آخر السورة وأول سورة الجاثية؟", "behavior": "", "intent": "surah_info", "source": "generated"}
+{"id": "gen_0886", "text": "أعطني حديثاً صحيحاً عن قيام الليل.", "behavior": "", "intent": "search_hadith", "source": "generated"}
+{"id": "gen_0887", "text": "ما حكم عمليات التجميل؟", "behavior": "", "intent": "fatwa_search", "source": "generated"}
+{"id": "gen_0888", "text": "اقرأ لي الآية رقم 2 من سورة قريش بصوت ماهر المعيقلي.", "behavior": "", "intent": "play_ayah", "source": "generated"}
+{"id": "gen_0889", "text": "اقرأ لي الآية رقم 7 من سورة الملك بصوت ماهر المعيقلي.", "behavior": "", "intent": "play_ayah", "source": "generated"}
+{"id": "gen_0890", "text": "ابحث لي في التفسير عن آيات تتحدث عن تربية الأبناء.", "behavior": "", "intent": "search_in_tafsir", "source": "generated"}
+{"id": "gen_0891", "text": "شغّل لي سورة الهمزة بصوت الشيخ العفاسي.", "behavior": "", "intent": "play_surah", "source": "generated"}
+{"id": "gen_0892", "text": "ممكن تفسير كامل لسورة السجدة؟", "behavior": "", "intent": "tafsir_surah", "source": "generated"}
+{"id": "gen_0893", "text": "ابحث لي في التفسير عن آيات تتحدث عن فضل يوم الجمعة.", "behavior": "", "intent": "search_in_tafsir", "source": "generated"}
+{"id": "gen_0894", "text": "ما هي المصادر التي تغطي تفسير الآية 69 من سورة يونس؟", "behavior": "", "intent": "list_sources_for_ayah", "source": "generated"}
+{"id": "gen_0895", "text": "ما هي الآيات التي تتحدث عن آداب المجلس؟", "behavior": "", "intent": "search_in_tafsir", "source": "generated"}
+{"id": "gen_0896", "text": "أسمعني الآية 2 من سورة الشرح.", "behavior": "", "intent": "play_ayah", "source": "generated"}
+{"id": "gen_0897", "text": "هل يوجد حديث نبوي عن حسن الجوار؟", "behavior": "", "intent": "search_hadith", "source": "generated"}
+{"id": "gen_0898", "text": "ما هي المصادر التي تغطي تفسير الآية 29 من سورة طه؟", "behavior": "", "intent": "list_sources_for_ayah", "source": "generated"}
+{"id": "gen_0899", "text": "أريد الاستماع إلى سورة التوبة بصوت الحصري.", "behavior": "", "intent": "play_surah", "source": "generated"}
+{"id": "gen_0900", "text": "ممكن تفسّر لي الآية 3 من سورة الدخان؟", "behavior": "", "intent": "tafsir_verse", "source": "generated"}
+{"id": "gen_0901", "text": "ابحث لي في التفسير عن آيات تتحدث عن الأمانة.", "behavior": "", "intent": "search_in_tafsir", "source": "generated"}
+{"id": "gen_0902", "text": "أعطني كل الأحاديث المشابهة لحديث فضل الاستغفار عبر الكتب المختلفة.", "behavior": "", "intent": "fetch_cross_references", "source": "generated"}
+{"id": "gen_0903", "text": "شغّل لي سورة القلم بصوت الشيخ الحصري.", "behavior": "", "intent": "play_surah", "source": "generated"}
+{"id": "gen_0904", "text": "اقرأ لي سورة القيامة كاملة.", "behavior": "", "intent": "play_surah", "source": "generated"}
+{"id": "gen_0905", "text": "اشرح لي تفسير سورة التكوير من كتاب ar-tafsir-al-baghawi.", "behavior": "", "intent": "tafsir_surah", "source": "generated"}
+{"id": "gen_0906", "text": "اشرح لي معنى الآية رقم 2 من سورة الانفطار.", "behavior": "", "intent": "tafsir_verse", "source": "generated"}
+{"id": "gen_0907", "text": "أريد الحديث رقم 351 من سنن ابن ماجه.", "behavior": "", "intent": "fetch_hadith", "source": "generated"}
+{"id": "gen_0908", "text": "هل من يحلف بغير الله كافر؟", "behavior": "", "intent": "ruling_v2", "source": "generated"}
+{"id": "gen_0909", "text": "هل هذا الحديث عن فضل شهر رمضان متفق عليه بين البخاري ومسلم؟", "behavior": "", "intent": "fetch_cross_references", "source": "generated"}
+{"id": "gen_0910", "text": "اشرح لي تفسير سورة الكافرون من كتاب ar-tafsir-al-tabari.", "behavior": "", "intent": "tafsir_surah", "source": "generated"}
+{"id": "gen_0911", "text": "حلّل لي كلمة «هدى» من الناحية اللغوية.", "behavior": "", "intent": "analyze_word", "source": "generated"}
+{"id": "gen_0912", "text": "لماذا نزلت سورة الطارق؟", "behavior": "", "intent": "nuzool", "source": "generated"}
+{"id": "gen_0913", "text": "ما هي أخبار البورصة اليوم؟", "behavior": "", "intent": "scope_redirect", "source": "generated"}
+{"id": "gen_0914", "text": "سمّعني سورة الإنسان.", "behavior": "", "intent": "play_surah", "source": "generated"}
+{"id": "gen_0915", "text": "هل هناك قراءات متعددة للآية 35 من سورة الرعد؟", "behavior": "", "intent": "qeraat", "source": "generated"}
+{"id": "gen_0916", "text": "ابحث لي عن أحاديث تتحدث عن الغيبة والنميمة.", "behavior": "", "intent": "search_hadith", "source": "generated"}
+{"id": "gen_0917", "text": "أعطني حديثاً صحيحاً عن التفكر في خلق الله.", "behavior": "", "intent": "search_hadith", "source": "generated"}
+{"id": "gen_0918", "text": "ممكن تفسير كامل لسورة الطلاق؟", "behavior": "", "intent": "tafsir_surah", "source": "generated"}
+{"id": "gen_0919", "text": "give me a quick hadith عن الصدق", "behavior": "", "intent": "english_mixed", "source": "generated"}
+{"id": "gen_0920", "text": "ابحث لي عن أحاديث تتحدث عن الوفاء بالعهد.", "behavior": "", "intent": "search_hadith", "source": "generated"}
+{"id": "gen_0921", "text": "ابحث لي في التفسير عن آيات تتحدث عن طاعة الوالدين.", "behavior": "", "intent": "search_in_tafsir", "source": "generated"}
+{"id": "gen_0922", "text": "أريد الاستماع إلى سورة الأنفال بصوت المنشاوي.", "behavior": "", "intent": "play_surah", "source": "generated"}
+{"id": "gen_0923", "text": "ما رأي أهل العلم في حكم بيع الدين بالتقسيط؟", "behavior": "", "intent": "fatwa_search", "source": "generated"}
+{"id": "gen_0924", "text": "ما الإعراب والصرف لكلمة «حمد»؟", "behavior": "", "intent": "analyze_word", "source": "generated"}
+{"id": "gen_0925", "text": "أريد الحديث رقم 373 من صحيح البخاري.", "behavior": "", "intent": "fetch_hadith", "source": "generated"}
+{"id": "gen_0926", "text": "اشرح لي معنى الآية رقم 3 من سورة العصر.", "behavior": "", "intent": "tafsir_verse", "source": "generated"}
+{"id": "gen_0927", "text": "أريد الاستماع إلى سورة الزلزلة بصوت مصطفى إسماعيل.", "behavior": "", "intent": "play_surah", "source": "generated"}
+{"id": "gen_0928", "text": "أعطني كل الأحاديث المشابهة لحديث الحياة الآخرة عبر الكتب المختلفة.", "behavior": "", "intent": "fetch_cross_references", "source": "generated"}
+{"id": "gen_0929", "text": "اقرأ لي سورة التحريم كاملة.", "behavior": "", "intent": "play_surah", "source": "generated"}
+{"id": "gen_0930", "text": "هل هذا الحديث عن قصص الأنبياء متفق عليه بين البخاري ومسلم؟", "behavior": "", "intent": "fetch_cross_references", "source": "generated"}
+{"id": "gen_0931", "text": "اذكر لي الحديث رقم 323 في سنن أبي داود.", "behavior": "", "intent": "fetch_hadith", "source": "generated"}
+{"id": "gen_0932", "text": "ما معنى قوله تعالى في الآية 3 من سورة الممتحنة؟", "behavior": "", "intent": "tafsir_verse", "source": "generated"}
+{"id": "gen_0933", "text": "أريد الاستماع إلى سورة الزمر بصوت ماهر المعيقلي.", "behavior": "", "intent": "play_surah", "source": "generated"}
+{"id": "gen_0934", "text": "ما سبب نزول الآية 70 من سورة الأحزاب؟", "behavior": "", "intent": "nuzool", "source": "generated"}
+{"id": "gen_0935", "text": "ما معنى قوله تعالى في الآية 26 من سورة عبس؟", "behavior": "", "intent": "tafsir_verse", "source": "generated"}
+{"id": "gen_0936", "text": "اشرح لي معنى الآية رقم 66 من سورة الصافات.", "behavior": "", "intent": "tafsir_verse", "source": "generated"}
+{"id": "gen_0937", "text": "ما القراءات الواردة في الآية 10 من سورة الجن؟", "behavior": "", "intent": "qeraat", "source": "generated"}
+{"id": "gen_0938", "text": "اجلب لي تفسير الآية 69 من سورة الأحزاب من أكثر من مصدر.", "behavior": "", "intent": "fetch_tafsir", "source": "generated"}
+{"id": "gen_0939", "text": "اجلب لي تفسير الآية 21 من سورة الانشقاق من أكثر من مصدر.", "behavior": "", "intent": "fetch_tafsir", "source": "generated"}
+{"id": "gen_0940", "text": "ممكن تفسّر لي الآية 1 من سورة الحشر؟", "behavior": "", "intent": "tafsir_verse", "source": "generated"}
+{"id": "gen_0941", "text": "أعطني إحصاءات مفصلة عن سورة التوبة: عدد الكلمات والحروف وأطول كلمة.", "behavior": "", "intent": "get_surah_statistics", "source": "generated"}
+{"id": "gen_0942", "text": "هل من يشرب الخمر كافر؟", "behavior": "", "intent": "ruling_v2", "source": "generated"}
+{"id": "gen_0943", "text": "ابحث لي عن أحاديث تتحدث عن الحج.", "behavior": "", "intent": "search_hadith", "source": "generated"}
+{"id": "gen_0944", "text": "هل من يمتنع عن دفع الزكاة كافر؟", "behavior": "", "intent": "ruling_v2", "source": "generated"}
+{"id": "gen_0945", "text": "حلّل لي كلمة «صبر» من الناحية اللغوية.", "behavior": "", "intent": "analyze_word", "source": "generated"}
+{"id": "gen_0946", "text": "لماذا نزلت سورة الطلاق؟", "behavior": "", "intent": "nuzool", "source": "generated"}
+{"id": "gen_0947", "text": "اشرح لي تفسير سورة الانفطار من كتاب ar-tafsir-al-tabari.", "behavior": "", "intent": "tafsir_surah", "source": "generated"}
+{"id": "gen_0948", "text": "كم عدد آيات سورة القصص؟", "behavior": "", "intent": "surah_info", "source": "generated"}
+{"id": "gen_0949", "text": "هل هناك قراءات متعددة للآية 171 من سورة الصافات؟", "behavior": "", "intent": "qeraat", "source": "generated"}
+{"id": "gen_0950", "text": "أعطني كل مواضع ورود جذر «سلم» في القرآن.", "behavior": "", "intent": "find_root_occurrences", "source": "generated"}
+{"id": "gen_0951", "text": "ما معنى قوله تعالى في الآية 1 من سورة البروج؟", "behavior": "", "intent": "tafsir_verse", "source": "generated"}
+{"id": "gen_0952", "text": "ما سبب نزول الآية 1 من سورة الفتح؟", "behavior": "", "intent": "nuzool", "source": "generated"}
+{"id": "gen_0953", "text": "اشرح لي تفسير سورة فصلت من كتاب ar-tafseer-al-qurtubi.", "behavior": "", "intent": "tafsir_surah", "source": "generated"}
+{"id": "gen_0954", "text": "ما معنى قوله تعالى في الآية 5 من سورة التكاثر؟", "behavior": "", "intent": "tafsir_verse", "source": "generated"}
+{"id": "gen_0955", "text": "ما رأي أهل العلم في حكم الشركة بين الأقارب؟", "behavior": "", "intent": "fatwa_search", "source": "generated"}
+{"id": "gen_0956", "text": "أريد أن أعرف حكم زكاة الفطر بالمال.", "behavior": "", "intent": "fatwa_search", "source": "generated"}
+{"id": "gen_0957", "text": "وضّح لي تفسير الآية 11 من سورة المعارج حسب تفسير ar-tafseer-al-saddi.", "behavior": "", "intent": "tafsir_verse", "source": "generated"}
+{"id": "gen_0958", "text": "أين ورد لفظ «شكر» في القرآن الكريم؟", "behavior": "", "intent": "search_quran_text", "source": "generated"}
+{"id": "gen_0959", "text": "أعطني إحصاءات مفصلة عن سورة مريم: عدد الكلمات والحروف وأطول كلمة.", "behavior": "", "intent": "get_surah_statistics", "source": "generated"}
+{"id": "gen_0960", "text": "هل هذا الحديث عن بر الوالدين متفق عليه بين البخاري ومسلم؟", "behavior": "", "intent": "fetch_cross_references", "source": "generated"}
+{"id": "gen_0961", "text": "اشرح لي معنى الآية رقم 76 من سورة آل عمران.", "behavior": "", "intent": "tafsir_verse", "source": "generated"}
+{"id": "gen_0962", "text": "ما تفسير سورة آل عمران؟", "behavior": "", "intent": "tafsir_surah", "source": "generated"}
+{"id": "gen_0963", "text": "وَالْعَصْرِ إِنَّ الْإِنسَانَ لَفِي خُسْرٍ — هل قراءتي صحيحة؟", "behavior": "", "intent": "validate_recitation", "source": "generated"}
+{"id": "gen_0964", "text": "ابحث لي في التفسير عن آيات تتحدث عن الكفر.", "behavior": "", "intent": "search_in_tafsir", "source": "generated"}
+{"id": "gen_0965", "text": "أعطني كل مواضع ورود جذر «عبد» في القرآن.", "behavior": "", "intent": "find_root_occurrences", "source": "generated"}
+{"id": "gen_0966", "text": "ممكن تفسير كامل لسورة الفجر؟", "behavior": "", "intent": "tafsir_surah", "source": "generated"}
+{"id": "gen_0967", "text": "هل من يستهزئ بالصحابة كافر؟", "behavior": "", "intent": "ruling_v2", "source": "generated"}
+{"id": "gen_0968", "text": "هل أنت مبرمج أم شخص حقيقي؟", "behavior": "", "intent": "persona", "source": "generated"}
+{"id": "gen_0969", "text": "هل ورد حديث «حسن الجوار» بروايات مشابهة في كتب أخرى؟", "behavior": "", "intent": "fetch_cross_references", "source": "generated"}
+{"id": "gen_0970", "text": "ما اسم آخر السورة وأول سورة القدر؟", "behavior": "", "intent": "surah_info", "source": "generated"}
+{"id": "gen_0971", "text": "أعطني حديثاً صحيحاً عن آداب المجلس.", "behavior": "", "intent": "search_hadith", "source": "generated"}
+{"id": "gen_0972", "text": "اقرأ لي الآية رقم 9 من سورة الأحزاب بصوت ماهر المعيقلي.", "behavior": "", "intent": "play_ayah", "source": "generated"}
+{"id": "gen_0973", "text": "أعطني حديثاً صحيحاً عن الحياة الآخرة.", "behavior": "", "intent": "search_hadith", "source": "generated"}
+{"id": "gen_0974", "text": "ابحث لي في التفسير عن آيات تتحدث عن الجهاد.", "behavior": "", "intent": "search_in_tafsir", "source": "generated"}
+{"id": "gen_0975", "text": "اذكر لي الحديث رقم 10 في رياض الصالحين.", "behavior": "", "intent": "fetch_hadith", "source": "generated"}
+{"id": "gen_0976", "text": "ابحث لي عن أحاديث تتحدث عن فضل الاستغفار.", "behavior": "", "intent": "search_hadith", "source": "generated"}
+{"id": "gen_0977", "text": "أسمعني الآية 192 من سورة آل عمران.", "behavior": "", "intent": "play_ayah", "source": "generated"}
+{"id": "gen_0978", "text": "وضّح لي تفسير الآية 47 من سورة الطور حسب تفسير ar-tafsir-muyassar.", "behavior": "", "intent": "tafsir_verse", "source": "generated"}
+{"id": "gen_0979", "text": "اقرأ لي الآية رقم 18 من سورة الحجرات بصوت أحمد العجمي.", "behavior": "", "intent": "play_ayah", "source": "generated"}
+{"id": "gen_0980", "text": "ما سبب نزول الآية 1 من سورة الشرح؟", "behavior": "", "intent": "nuzool", "source": "generated"}
+{"id": "gen_0981", "text": "أريد أن أعرف حكم من ترك الصلاة كسلاً.", "behavior": "", "intent": "fatwa_search", "source": "generated"}
+{"id": "gen_0982", "text": "ما هي المصادر التي تغطي تفسير الآية 8 من سورة القمر؟", "behavior": "", "intent": "list_sources_for_ayah", "source": "generated"}
+{"id": "gen_0983", "text": "Who are the ten companions promised paradise?", "behavior": "", "intent": "english_mixed", "source": "generated"}
+{"id": "gen_0984", "text": "ممكن تفسّر لي الآية 37 من سورة الدخان؟", "behavior": "", "intent": "tafsir_verse", "source": "generated"}
+{"id": "gen_0985", "text": "أريد الاستماع إلى سورة الفيل بصوت الغامدي.", "behavior": "", "intent": "play_surah", "source": "generated"}
+{"id": "gen_0986", "text": "هل ورد حديث «فضل الصلاة على النبي» بروايات مشابهة في كتب أخرى؟", "behavior": "", "intent": "fetch_cross_references", "source": "generated"}
+{"id": "gen_0987", "text": "ما اسم آخر السورة وأول سورة العاديات؟", "behavior": "", "intent": "surah_info", "source": "generated"}
+{"id": "gen_0988", "text": "أعطني حديثاً صحيحاً عن الرحمة.", "behavior": "", "intent": "search_hadith", "source": "generated"}
+{"id": "gen_0989", "text": "أعطني حديثاً صحيحاً عن فضل العشر الأوائل من ذي الحجة.", "behavior": "", "intent": "search_hadith", "source": "generated"}
+{"id": "gen_0990", "text": "ما هي الآيات التي تتحدث عن النور؟", "behavior": "", "intent": "search_in_tafsir", "source": "generated"}
+{"id": "gen_0991", "text": "ما حكم من يترك الحجاب؟", "behavior": "", "intent": "ruling_v2", "source": "generated"}
+{"id": "gen_0992", "text": "حكم من نسي ركناً من أركان الصلاة؟", "behavior": "", "intent": "fatwa_search", "source": "generated"}
+{"id": "gen_0993", "text": "اذكر لي الحديث رقم 224 في سنن ابن ماجه.", "behavior": "", "intent": "fetch_hadith", "source": "generated"}
+{"id": "gen_0994", "text": "ما هي فوائد الصفحة رقم 508 من المصحف؟", "behavior": "", "intent": "get_page_fawaed", "source": "generated"}
+{"id": "gen_0995", "text": "ما سبب نزول الآية 12 من سورة الفرقان؟", "behavior": "", "intent": "nuzool", "source": "generated"}
+{"id": "gen_0996", "text": "اشرح لي تفسير سورة الزخرف من كتاب ar-tafseer-al-qurtubi.", "behavior": "", "intent": "tafsir_surah", "source": "generated"}
+{"id": "gen_0997", "text": "أريد أحاديث نبوية شريفة عن التفكر في خلق الله.", "behavior": "", "intent": "search_hadith", "source": "generated"}
+{"id": "gen_0998", "text": "ما رأي أهل العلم في حكم الجمع بين الصلاتين للمسافر؟", "behavior": "", "intent": "fatwa_search", "source": "generated"}
+{"id": "gen_0999", "text": "ما دورك بالضبط؟", "behavior": "", "intent": "persona", "source": "generated"}
+{"id": "gen_1000", "text": "كيف حالك اليوم؟", "behavior": "", "intent": "greeting", "source": "generated"}
+{"id": "gen_1001", "text": "اجلب لي نص الآية 5 من سورة الشرح بالرسم العثماني.", "behavior": "", "intent": "fetch_ayah", "source": "generated"}
+{"id": "gen_1002", "text": "كم عدد آيات سورة الانفطار؟", "behavior": "", "intent": "surah_info", "source": "generated"}
+{"id": "gen_1003", "text": "أريد أحاديث نبوية شريفة عن بر اليتيم.", "behavior": "", "intent": "search_hadith", "source": "generated"}
+{"id": "gen_1004", "text": "شغّل لي الآية رقم 82 من سورة المؤمنون بصوت الشيخ مصطفى إسماعيل.", "behavior": "", "intent": "play_ayah", "source": "generated"}
+{"id": "gen_1005", "text": "ما رأي أهل العلم في حكم بيع التقسيط بزيادة عن السعر النقدي؟", "behavior": "", "intent": "fatwa_search", "source": "generated"}
+{"id": "gen_1006", "text": "أريد أحاديث نبوية شريفة عن الحياة الآخرة.", "behavior": "", "intent": "search_hadith", "source": "generated"}
+{"id": "gen_1007", "text": "اقرأ لي الآية رقم 228 من سورة البقرة بصوت ناصر القطامي.", "behavior": "", "intent": "play_ayah", "source": "generated"}
+{"id": "gen_1008", "text": "أريد أن أعرف حكم استئجار الأرحام.", "behavior": "", "intent": "fatwa_search", "source": "generated"}
+{"id": "gen_1009", "text": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ — هل قراءتي صحيحة؟", "behavior": "", "intent": "validate_recitation", "source": "generated"}
+{"id": "gen_1010", "text": "أريد الحديث رقم 114 من صحيح البخاري.", "behavior": "", "intent": "fetch_hadith", "source": "generated"}
+{"id": "gen_1011", "text": "أريد أن أعرف حكم تحديد النسل.", "behavior": "", "intent": "fatwa_search", "source": "generated"}
+{"id": "gen_1012", "text": "كم عدد آيات سورة الفجر؟", "behavior": "", "intent": "surah_info", "source": "generated"}
+{"id": "gen_1013", "text": "هل يمكنك الإجابة عن كل شيء؟", "behavior": "", "intent": "persona", "source": "generated"}
+{"id": "gen_1014", "text": "اجلب لي تفسير الآية 8 من سورة المزمل من أكثر من مصدر.", "behavior": "", "intent": "fetch_tafsir", "source": "generated"}
+{"id": "gen_1015", "text": "هل هذا الحديث عن علامات الساعة متفق عليه بين البخاري ومسلم؟", "behavior": "", "intent": "fetch_cross_references", "source": "generated"}
+{"id": "gen_1016", "text": "هل ورد حديث «تربية الأبناء» بروايات مشابهة في كتب أخرى؟", "behavior": "", "intent": "fetch_cross_references", "source": "generated"}
+{"id": "gen_1017", "text": "شغّل لي الآية رقم 9 من سورة الإنسان بصوت الشيخ ناصر القطامي.", "behavior": "", "intent": "play_ayah", "source": "generated"}
+{"id": "gen_1018", "text": "ما هي إمكانياتك؟", "behavior": "", "intent": "persona", "source": "generated"}
+{"id": "gen_1019", "text": "ترجم لي هذه الجملة إلى الفرنسية.", "behavior": "", "intent": "scope_redirect", "source": "generated"}
+{"id": "gen_1020", "text": "هل ورد حديث «حسن الخلق» بروايات مشابهة في كتب أخرى؟", "behavior": "", "intent": "fetch_cross_references", "source": "generated"}
+{"id": "gen_1021", "text": "ما تفسير الآية 1 من سورة المنافقون؟", "behavior": "", "intent": "tafsir_verse", "source": "generated"}
+{"id": "gen_1022", "text": "ما سبب نزول سورة الغاشية؟", "behavior": "", "intent": "nuzool", "source": "generated"}
+{"id": "gen_1023", "text": "ما هي فوائد الصفحة رقم 397 من المصحف؟", "behavior": "", "intent": "get_page_fawaed", "source": "generated"}
+{"id": "gen_1024", "text": "هل يوجد حديث نبوي عن الذكر بعد الصلاة؟", "behavior": "", "intent": "search_hadith", "source": "generated"}
+{"id": "gen_1025", "text": "ممكن تفسّر لي الآية 23 من سورة الإنسان؟", "behavior": "", "intent": "tafsir_verse", "source": "generated"}
+{"id": "gen_1026", "text": "ما سبب نزول الآية 56 من سورة الدخان؟", "behavior": "", "intent": "nuzool", "source": "generated"}
+{"id": "gen_1027", "text": "ما رأي الشرع في من يتهاون في أداء الأمانة؟", "behavior": "", "intent": "ruling_v2", "source": "generated"}
+{"id": "gen_1028", "text": "ابحث عن عبارة «السلام» في نص القرآن.", "behavior": "", "intent": "search_quran_text", "source": "generated"}
+{"id": "gen_1029", "text": "هل أنت إنسان أم برنامج؟", "behavior": "", "intent": "persona", "source": "generated"}
+{"id": "gen_1030", "text": "اشرح لي تفسير سورة العلق من كتاب ar-tafseer-al-saddi.", "behavior": "", "intent": "tafsir_surah", "source": "generated"}
+{"id": "gen_1031", "text": "اعطني أهم الفتاوى المتعلقة بموضوع الأسرة والمرأة.", "behavior": "", "intent": "fetch_answer", "source": "generated"}
+{"id": "gen_1032", "text": "اعطني أهم الفتاوى المتعلقة بموضوع الطهارة.", "behavior": "", "intent": "fetch_answer", "source": "generated"}
+{"id": "gen_1033", "text": "ما حكم من يتعامل مع البنوك الربوية؟", "behavior": "", "intent": "ruling_v2", "source": "generated"}
+{"id": "gen_1034", "text": "شغّل لي سورة القارعة بصوت الشيخ محمد الطبلاوي.", "behavior": "", "intent": "play_surah", "source": "generated"}
+{"id": "gen_1035", "text": "ما رأي أهل العلم في حكم العمل بالعمولة في التسويق الشبكي؟", "behavior": "", "intent": "fatwa_search", "source": "generated"}
+{"id": "gen_1036", "text": "هل من يعامل والديه بقسوة كافر؟", "behavior": "", "intent": "ruling_v2", "source": "generated"}
+{"id": "gen_1037", "text": "اذكر لي الحديث رقم 351 في سنن الترمذي.", "behavior": "", "intent": "fetch_hadith", "source": "generated"}
+{"id": "gen_1038", "text": "أسمعني الآية 11 من سورة فاطر.", "behavior": "", "intent": "play_ayah", "source": "generated"}
+{"id": "gen_1039", "text": "ما سبب نزول سورة يس؟", "behavior": "", "intent": "nuzool", "source": "generated"}
+{"id": "gen_1040", "text": "حلّل لي كلمة «سجد» من الناحية اللغوية.", "behavior": "", "intent": "analyze_word", "source": "generated"}
+{"id": "gen_1041", "text": "هل سورة الحج مكية أم مدنية؟", "behavior": "", "intent": "surah_info", "source": "generated"}
+{"id": "gen_1042", "text": "لماذا نزلت سورة القصص؟", "behavior": "", "intent": "nuzool", "source": "generated"}
+{"id": "gen_1043", "text": "كم مرة ذُكرت كلمة «العبادة» في القرآن؟", "behavior": "", "intent": "search_quran_text", "source": "generated"}
+{"id": "gen_1044", "text": "أريد أحاديث نبوية شريفة عن حسن الجوار.", "behavior": "", "intent": "search_hadith", "source": "generated"}
+{"id": "gen_1045", "text": "ما رأيك في الذكاء الاصطناعي التنافسي؟", "behavior": "", "intent": "scope_redirect", "source": "generated"}
+{"id": "gen_1046", "text": "ما تفسير الآية 47 من سورة يوسف؟", "behavior": "", "intent": "tafsir_verse", "source": "generated"}
+{"id": "gen_1047", "text": "ما هو جذر كلمة «الكفر»؟", "behavior": "", "intent": "analyze_word", "source": "generated"}
+{"id": "gen_1048", "text": "أريد أن أعرف حكم صلاة الجماعة للمرأة في البيت.", "behavior": "", "intent": "fatwa_search", "source": "generated"}
+{"id": "gen_1049", "text": "اقرأ لي الآية رقم 30 من سورة الروم بصوت سعود الشريم.", "behavior": "", "intent": "play_ayah", "source": "generated"}
+{"id": "gen_1050", "text": "وضّح لي تفسير الآية 41 من سورة المدثر حسب تفسير ar-tafseer-al-qurtubi.", "behavior": "", "intent": "tafsir_verse", "source": "generated"}
+{"id": "gen_1051", "text": "ما القراءات الواردة في الآية 1 من سورة الناس؟", "behavior": "", "intent": "qeraat", "source": "generated"}
+{"id": "gen_1052", "text": "ما هي فوائد الصفحة رقم 400 من المصحف؟", "behavior": "", "intent": "get_page_fawaed", "source": "generated"}
+{"id": "gen_1053", "text": "أريد أن أعرف حكم تعدد الزوجات بدون رضا الأولى.", "behavior": "", "intent": "fatwa_search", "source": "generated"}
+{"id": "gen_1054", "text": "حياك الله", "behavior": "", "intent": "greeting", "source": "generated"}
+{"id": "gen_1055", "text": "اذكر لي الحديث رقم 259 في سنن أبي داود.", "behavior": "", "intent": "fetch_hadith", "source": "generated"}
+{"id": "gen_1056", "text": "اشرح لي معنى الآية رقم 43 من سورة الأنبياء.", "behavior": "", "intent": "tafsir_verse", "source": "generated"}
+{"id": "gen_1057", "text": "من أنت؟", "behavior": "", "intent": "persona", "source": "generated"}
+{"id": "gen_1058", "text": "أريد تفسير سورة الحاقة كاملة.", "behavior": "", "intent": "tafsir_surah", "source": "generated"}
+{"id": "gen_1059", "text": "هل هناك قراءات متعددة للآية 39 من سورة القصص؟", "behavior": "", "intent": "qeraat", "source": "generated"}
+{"id": "gen_1060", "text": "شغّل لي الآية رقم 8 من سورة المجادلة بصوت الشيخ ناصر القطامي.", "behavior": "", "intent": "play_ayah", "source": "generated"}
+{"id": "gen_1061", "text": "أريد أن أعرف حكم بيع العربون.", "behavior": "", "intent": "fatwa_search", "source": "generated"}
+{"id": "gen_1062", "text": "ابحث عن عبارة «الرحمة» في نص القرآن.", "behavior": "", "intent": "search_quran_text", "source": "generated"}
+{"id": "gen_1063", "text": "أعطني كل الأحاديث المشابهة لحديث فضل طلب العلم عبر الكتب المختلفة.", "behavior": "", "intent": "fetch_cross_references", "source": "generated"}
+{"id": "gen_1064", "text": "ما حكم التأمين الصحي الإلزامي؟", "behavior": "", "intent": "fatwa_search", "source": "generated"}
+{"id": "gen_1065", "text": "اجلب لي نص الآية 20 من سورة المعارج بالرسم العثماني.", "behavior": "", "intent": "fetch_ayah", "source": "generated"}
+{"id": "gen_1066", "text": "أعطني كل الأحاديث المشابهة لحديث آداب المجلس عبر الكتب المختلفة.", "behavior": "", "intent": "fetch_cross_references", "source": "generated"}
+{"id": "gen_1067", "text": "ما القراءات الواردة في الآية 15 من سورة الدخان؟", "behavior": "", "intent": "qeraat", "source": "generated"}
+{"id": "gen_1068", "text": "ما هي إحصاءات جذر «حمد» في القرآن؟ كم مرة ورد وفي أي سور؟", "behavior": "", "intent": "get_root_stats", "source": "generated"}
+{"id": "gen_1069", "text": "ما هي المصادر التي تغطي تفسير الآية 25 من سورة الأنفال؟", "behavior": "", "intent": "list_sources_for_ayah", "source": "generated"}
+{"id": "gen_1070", "text": "شغّل لي الآية رقم 12 من سورة الإسراء بصوت الشيخ الحصري.", "behavior": "", "intent": "play_ayah", "source": "generated"}
+{"id": "gen_1071", "text": "متى ستنتهي الحرب في العالم؟", "behavior": "", "intent": "scope_redirect", "source": "generated"}
+{"id": "gen_1072", "text": "في أي سور وردت كلمة «سلم»؟", "behavior": "", "intent": "search_quran_text", "source": "generated"}
+{"id": "gen_1073", "text": "هل هناك قراءات متعددة للآية 23 من سورة نوح؟", "behavior": "", "intent": "qeraat", "source": "generated"}
+{"id": "gen_1074", "text": "أعطني وصفة طبخ لذيذة.", "behavior": "", "intent": "scope_redirect", "source": "generated"}
+{"id": "gen_1075", "text": "ممكن تفسير كامل لسورة مريم؟", "behavior": "", "intent": "tafsir_surah", "source": "generated"}
+{"id": "gen_1076", "text": "حكم زكاة الفطر بالمال؟", "behavior": "", "intent": "fatwa_search", "source": "generated"}
+{"id": "gen_1077", "text": "ممكن تفسّر لي الآية 25 من سورة فاطر؟", "behavior": "", "intent": "tafsir_verse", "source": "generated"}
+{"id": "gen_1078", "text": "اقرأ لي سورة النمل كاملة.", "behavior": "", "intent": "play_surah", "source": "generated"}
+{"id": "gen_1079", "text": "إِنَّا أَعْطَيْنَاكَ الْكَوْثَرَ — هل قراءتي صحيحة؟", "behavior": "", "intent": "validate_recitation", "source": "generated"}
+{"id": "gen_1080", "text": "من قام ببرمجتك؟", "behavior": "", "intent": "persona", "source": "generated"}
+{"id": "gen_1081", "text": "هل تارك الصلاة كافر؟", "behavior": "", "intent": "ruling_v2", "source": "generated"}
+{"id": "gen_1082", "text": "ما معنى قوله تعالى في الآية 5 من سورة الماعون؟", "behavior": "", "intent": "tafsir_verse", "source": "generated"}
+{"id": "gen_1083", "text": "أعطني كل مواضع ورود جذر «شكر» في القرآن.", "behavior": "", "intent": "find_root_occurrences", "source": "generated"}
+{"id": "gen_1084", "text": "أريد تفسير سورة الأحزاب كاملة.", "behavior": "", "intent": "tafsir_surah", "source": "generated"}
+{"id": "gen_1085", "text": "اشرح لي تفسير سورة الضحى من كتاب ar-tafseer-tanwir-al-miqbas.", "behavior": "", "intent": "tafsir_surah", "source": "generated"}
+{"id": "gen_1086", "text": "اقرأ لي سورة الحجرات كاملة.", "behavior": "", "intent": "play_surah", "source": "generated"}
+{"id": "gen_1087", "text": "هل سورة الفيل مكية أم مدنية؟", "behavior": "", "intent": "surah_info", "source": "generated"}
+{"id": "gen_1088", "text": "وضّح لي تفسير الآية 1 من سورة الطلاق حسب تفسير ar-tafseer-al-saddi.", "behavior": "", "intent": "tafsir_verse", "source": "generated"}
+{"id": "gen_1089", "text": "ممكن تفسّر لي الآية 19 من سورة الزمر؟", "behavior": "", "intent": "tafsir_verse", "source": "generated"}
+{"id": "gen_1090", "text": "شغّل لي عروس القرآن.", "behavior": "", "intent": "play_surah_named", "source": "generated"}
+{"id": "gen_1091", "text": "أريد أن أعرف حكم بيع العملات الرقمية.", "behavior": "", "intent": "fatwa_search", "source": "generated"}
+{"id": "gen_1092", "text": "ممكن تفسّر لي الآية 2 من سورة النصر؟", "behavior": "", "intent": "tafsir_verse", "source": "generated"}
+{"id": "gen_1093", "text": "ما تفسير الآية 7 من سورة الطلاق؟", "behavior": "", "intent": "tafsir_verse", "source": "generated"}
+{"id": "gen_1094", "text": "ابحث لي في التفسير عن آيات تتحدث عن الخلق.", "behavior": "", "intent": "search_in_tafsir", "source": "generated"}
+{"id": "gen_1095", "text": "ابحث لي عن كل المواضع التي ذُكرت فيها كلمة «الرحمة» في القرآن.", "behavior": "", "intent": "search_quran_text", "source": "generated"}
+{"id": "gen_1096", "text": "حكم العمل في شركات التقسيط؟", "behavior": "", "intent": "fatwa_search", "source": "generated"}
+{"id": "gen_1097", "text": "ما معنى قوله تعالى في الآية 15 من سورة الانفطار؟", "behavior": "", "intent": "tafsir_verse", "source": "generated"}
+{"id": "gen_1098", "text": "لماذا نزلت سورة الفلق؟", "behavior": "", "intent": "nuzool", "source": "generated"}
+{"id": "gen_1099", "text": "هل هذا الحديث عن قيام الليل متفق عليه بين البخاري ومسلم؟", "behavior": "", "intent": "fetch_cross_references", "source": "generated"}
+{"id": "gen_1100", "text": "أريد أن أعرف حكم زواج المسيار.", "behavior": "", "intent": "fatwa_search", "source": "generated"}
+{"id": "gen_1101", "text": "هل سورة القصص مكية أم مدنية؟", "behavior": "", "intent": "surah_info", "source": "generated"}
+{"id": "gen_1102", "text": "ما حكم المتاجرة بالفوركس؟", "behavior": "", "intent": "fatwa_search", "source": "generated"}
+{"id": "gen_1103", "text": "اشرح لي معنى الآية رقم 37 من سورة المرسلات.", "behavior": "", "intent": "tafsir_verse", "source": "generated"}
+{"id": "gen_1104", "text": "ما تفسير سورة يس؟", "behavior": "", "intent": "tafsir_surah", "source": "generated"}
+{"id": "gen_1105", "text": "ما هو جذر كلمة «الإحسان»؟", "behavior": "", "intent": "analyze_word", "source": "generated"}
+{"id": "gen_1106", "text": "اشرح لي تفسير سورة الفجر من كتاب ar-tafsir-al-wasit.", "behavior": "", "intent": "tafsir_surah", "source": "generated"}
+{"id": "gen_1107", "text": "ما هي المصادر التي تغطي تفسير الآية 5 من سورة الفلق؟", "behavior": "", "intent": "list_sources_for_ayah", "source": "generated"}
+{"id": "gen_1108", "text": "هل من يمارس الشعوذة كافر؟", "behavior": "", "intent": "ruling_v2", "source": "generated"}
+{"id": "gen_1109", "text": "ابحث لي في التفسير عن آيات تتحدث عن فضل الصلاة على النبي.", "behavior": "", "intent": "search_in_tafsir", "source": "generated"}
+{"id": "gen_1110", "text": "أعطني كل مواضع ورود جذر «هدى» في القرآن.", "behavior": "", "intent": "find_root_occurrences", "source": "generated"}
+{"id": "gen_1111", "text": "ما حكم قضاء الصلاة الفائتة عمداً؟", "behavior": "", "intent": "fatwa_search", "source": "generated"}
+{"id": "gen_1112", "text": "شغّل لي الآية رقم 2 من سورة الكوثر بصوت الشيخ العفاسي.", "behavior": "", "intent": "play_ayah", "source": "generated"}
+{"id": "gen_1113", "text": "أعطني حديثاً صحيحاً عن فضل شهر رمضان.", "behavior": "", "intent": "search_hadith", "source": "generated"}
+{"id": "gen_1114", "text": "اشرح لي معنى الآية رقم 8 من سورة الهمزة.", "behavior": "", "intent": "tafsir_verse", "source": "generated"}
+{"id": "gen_1115", "text": "ما سبب نزول سورة الشعراء؟", "behavior": "", "intent": "nuzool", "source": "generated"}
+{"id": "gen_1116", "text": "ما هي الآيات التي تتحدث عن فضل الاستغفار؟", "behavior": "", "intent": "search_in_tafsir", "source": "generated"}
+{"id": "gen_1117", "text": "شغّل لي قلب القرآن.", "behavior": "", "intent": "play_surah_named", "source": "generated"}
+{"id": "gen_1118", "text": "أريد الحديث رقم 285 من سنن أبي داود.", "behavior": "", "intent": "fetch_hadith", "source": "generated"}
+{"id": "gen_1119", "text": "ممكن تفسّر لي الآية 47 من سورة الروم؟", "behavior": "", "intent": "tafsir_verse", "source": "generated"}
+{"id": "gen_1120", "text": "ما هي إحصاءات جذر «خلق» في القرآن؟ كم مرة ورد وفي أي سور؟", "behavior": "", "intent": "get_root_stats", "source": "generated"}
+{"id": "gen_1121", "text": "وضّح لي تفسير الآية 171 من سورة البقرة حسب تفسير ar-tafsir-muyassar.", "behavior": "", "intent": "tafsir_verse", "source": "generated"}
+{"id": "gen_1122", "text": "ما هي إحصاءات جذر «ظلم» في القرآن؟ كم مرة ورد وفي أي سور؟", "behavior": "", "intent": "get_root_stats", "source": "generated"}
+{"id": "gen_1123", "text": "ما رأي أهل العلم في حكم التبني في الإسلام؟", "behavior": "", "intent": "fatwa_search", "source": "generated"}
+{"id": "gen_1124", "text": "ما معنى قوله تعالى في الآية 36 من سورة الإسراء؟", "behavior": "", "intent": "tafsir_verse", "source": "generated"}
+{"id": "gen_1125", "text": "ما اسم آخر السورة وأول سورة يس؟", "behavior": "", "intent": "surah_info", "source": "generated"}
+{"id": "gen_1126", "text": "هل من يترك الحجاب كافر؟", "behavior": "", "intent": "ruling_v2", "source": "generated"}
+{"id": "gen_1127", "text": "ممكن تفسّر لي الآية 2 من سورة الفيل؟", "behavior": "", "intent": "tafsir_verse", "source": "generated"}
+{"id": "gen_1128", "text": "ما سبب نزول سورة الأنعام؟", "behavior": "", "intent": "nuzool", "source": "generated"}
+{"id": "gen_1129", "text": "اذكر لي الحديث رقم 366 في سنن النسائي.", "behavior": "", "intent": "fetch_hadith", "source": "generated"}
+{"id": "gen_1130", "text": "حكم التبني في الإسلام؟", "behavior": "", "intent": "fatwa_search", "source": "generated"}
+{"id": "gen_1131", "text": "لماذا نزلت سورة الشعراء؟", "behavior": "", "intent": "nuzool", "source": "generated"}
+{"id": "gen_1132", "text": "ابحث لي عن أحاديث تتحدث عن آداب الطعام.", "behavior": "", "intent": "search_hadith", "source": "generated"}
+{"id": "gen_1133", "text": "ما تفسير الآية 9 من سورة الرعد؟", "behavior": "", "intent": "tafsir_verse", "source": "generated"}
+{"id": "gen_1134", "text": "ما معنى قوله تعالى في الآية 65 من سورة يس؟", "behavior": "", "intent": "tafsir_verse", "source": "generated"}
+{"id": "gen_1135", "text": "أريد أن أعرف حكم عقد التورق.", "behavior": "", "intent": "fatwa_search", "source": "generated"}
+{"id": "gen_1136", "text": "صباح الخير", "behavior": "", "intent": "greeting", "source": "generated"}
+{"id": "gen_1137", "text": "ساعدني في كتابة سيرة ذاتية.", "behavior": "", "intent": "scope_redirect", "source": "generated"}
+{"id": "gen_1138", "text": "هل هذا الحديث عن طاعة الوالدين متفق عليه بين البخاري ومسلم؟", "behavior": "", "intent": "fetch_cross_references", "source": "generated"}
+{"id": "gen_1139", "text": "في أي سور وردت كلمة «ظلم»؟", "behavior": "", "intent": "search_quran_text", "source": "generated"}
+{"id": "gen_1140", "text": "أعطني حديثاً صحيحاً عن الصدقة.", "behavior": "", "intent": "search_hadith", "source": "generated"}
+{"id": "gen_1141", "text": "ممكن تفسّر لي الآية 1 من سورة النصر؟", "behavior": "", "intent": "tafsir_verse", "source": "generated"}
+{"id": "gen_1142", "text": "اقرأ لي الآية رقم 49 من سورة الأحزاب بصوت محمد الطبلاوي.", "behavior": "", "intent": "play_ayah", "source": "generated"}
+{"id": "gen_1143", "text": "حكم التبرع بالدم للأجانب؟", "behavior": "", "intent": "fatwa_search", "source": "generated"}
+{"id": "gen_1144", "text": "ما حكم من يحلف بغير الله؟", "behavior": "", "intent": "ruling_v2", "source": "generated"}
+{"id": "gen_1145", "text": "ما حكم من يمارس الشعوذة؟", "behavior": "", "intent": "ruling_v2", "source": "generated"}
+{"id": "gen_1146", "text": "أريد تفسير سورة الشورى كاملة.", "behavior": "", "intent": "tafsir_surah", "source": "generated"}
+{"id": "gen_1147", "text": "How many surahs are in the Quran?", "behavior": "", "intent": "english_mixed", "source": "generated"}
+{"id": "gen_1148", "text": "ما هي إحصاءات جذر «هدى» في القرآن؟ كم مرة ورد وفي أي سور؟", "behavior": "", "intent": "get_root_stats", "source": "generated"}
+{"id": "gen_1149", "text": "أريد أن أعرف حكم التأمين على الحياة.", "behavior": "", "intent": "fatwa_search", "source": "generated"}
+{"id": "gen_1150", "text": "اشرح لي تفسير سورة الفلق من كتاب ar-tafsir-al-tabari.", "behavior": "", "intent": "tafsir_surah", "source": "generated"}
+{"id": "gen_1151", "text": "ما سبب نزول سورة العنكبوت؟", "behavior": "", "intent": "nuzool", "source": "generated"}
+{"id": "gen_1152", "text": "أعطني إحصاءات مفصلة عن سورة القدر: عدد الكلمات والحروف وأطول كلمة.", "behavior": "", "intent": "get_surah_statistics", "source": "generated"}
+{"id": "gen_1153", "text": "ما حكم الوكالة بأجر في البيع والشراء؟", "behavior": "", "intent": "fatwa_search", "source": "generated"}
+{"id": "gen_1154", "text": "اقرأ لي الآية رقم 9 من سورة يس بصوت أحمد العجمي.", "behavior": "", "intent": "play_ayah", "source": "generated"}
+{"id": "gen_1155", "text": "كم عدد آيات سورة الزمر؟", "behavior": "", "intent": "surah_info", "source": "generated"}
+{"id": "gen_1156", "text": "سمّعني سورة العاديات.", "behavior": "", "intent": "play_surah", "source": "generated"}
+{"id": "gen_1157", "text": "اقرأ لي سورة الرحمن كاملة.", "behavior": "", "intent": "play_surah", "source": "generated"}
+{"id": "gen_1158", "text": "حلل لي كلمة «الحمد» صرفياً ونحوياً.", "behavior": "", "intent": "analyze_word", "source": "generated"}
+{"id": "gen_1159", "text": "هل سورة التغابن مكية أم مدنية؟", "behavior": "", "intent": "surah_info", "source": "generated"}
+{"id": "gen_1160", "text": "هل هناك قراءات متعددة للآية 10 من سورة الشمس؟", "behavior": "", "intent": "qeraat", "source": "generated"}
+{"id": "gen_1161", "text": "اشرح لي تفسير سورة الشورى من كتاب ar-tafsir-al-tabari.", "behavior": "", "intent": "tafsir_surah", "source": "generated"}
+{"id": "gen_1162", "text": "هل هذا الحديث عن التواضع متفق عليه بين البخاري ومسلم؟", "behavior": "", "intent": "fetch_cross_references", "source": "generated"}
+{"id": "gen_1163", "text": "أسمعني الآية 2 من سورة المنافقون.", "behavior": "", "intent": "play_ayah", "source": "generated"}
+{"id": "gen_1164", "text": "حكم حضانة الأطفال بعد الطلاق؟", "behavior": "", "intent": "fatwa_search", "source": "generated"}
+{"id": "gen_1165", "text": "أريد الاستماع إلى سورة لقمان بصوت العفاسي.", "behavior": "", "intent": "play_surah", "source": "generated"}
+{"id": "gen_1166", "text": "ما اسم آخر السورة وأول سورة ق؟", "behavior": "", "intent": "surah_info", "source": "generated"}
+{"id": "gen_1167", "text": "ما هي الآيات التي تتحدث عن بر اليتيم؟", "behavior": "", "intent": "search_in_tafsir", "source": "generated"}
+{"id": "gen_1168", "text": "شغّل لي الآية رقم 95 من سورة مريم بصوت الشيخ المنشاوي.", "behavior": "", "intent": "play_ayah", "source": "generated"}
+{"id": "gen_1169", "text": "هل ورد حديث «آداب الطعام» بروايات مشابهة في كتب أخرى؟", "behavior": "", "intent": "fetch_cross_references", "source": "generated"}
+{"id": "gen_1170", "text": "What is the tafsir of Surah Al-Baqarah?", "behavior": "", "intent": "english_mixed", "source": "generated"}
+{"id": "gen_1171", "text": "ما الإعراب والصرف لكلمة «حسن»؟", "behavior": "", "intent": "analyze_word", "source": "generated"}
+{"id": "gen_1172", "text": "What is the ruling on bank interest?", "behavior": "", "intent": "english_mixed", "source": "generated"}
+{"id": "gen_1173", "text": "ما الإعراب والصرف لكلمة «شكر»؟", "behavior": "", "intent": "analyze_word", "source": "generated"}
+{"id": "gen_1174", "text": "ما سبب نزول سورة الكهف؟", "behavior": "", "intent": "nuzool", "source": "generated"}
+{"id": "gen_1175", "text": "كم عدد آيات سورة المدثر؟", "behavior": "", "intent": "surah_info", "source": "generated"}
+{"id": "gen_1176", "text": "اشرح لي معنى الآية رقم 72 من سورة الحج.", "behavior": "", "intent": "tafsir_verse", "source": "generated"}
+{"id": "gen_1177", "text": "ممكن تفسير كامل لسورة المطففين؟", "behavior": "", "intent": "tafsir_surah", "source": "generated"}
+{"id": "gen_1178", "text": "شغّل لي الآية رقم 62 من سورة الرحمن بصوت الشيخ ياسر الدوسري.", "behavior": "", "intent": "play_ayah", "source": "generated"}
+{"id": "gen_1179", "text": "ما تفسير الآية 36 من سورة العنكبوت؟", "behavior": "", "intent": "tafsir_verse", "source": "generated"}
+{"id": "gen_1180", "text": "هل ورد حديث «الظلم» بروايات مشابهة في كتب أخرى؟", "behavior": "", "intent": "fetch_cross_references", "source": "generated"}
+{"id": "gen_1181", "text": "أخبرني معلومات عن سورة القارعة.", "behavior": "", "intent": "surah_info", "source": "generated"}
+{"id": "gen_1182", "text": "أعطني إحصاءات مفصلة عن سورة النحل: عدد الكلمات والحروف وأطول كلمة.", "behavior": "", "intent": "get_surah_statistics", "source": "generated"}
+{"id": "gen_1183", "text": "اقرأ لي سورة غافر كاملة.", "behavior": "", "intent": "play_surah", "source": "generated"}
+{"id": "gen_1184", "text": "أريد أن أعرف حكم دفع الزكاة لغير المسلمين.", "behavior": "", "intent": "fatwa_search", "source": "generated"}
+{"id": "gen_1185", "text": "ما معنى وجذر كلمة «سجد» في القرآن؟", "behavior": "", "intent": "analyze_word", "source": "generated"}
+{"id": "gen_1186", "text": "هل هناك قراءات متعددة للآية 72 من سورة التوبة؟", "behavior": "", "intent": "qeraat", "source": "generated"}
+{"id": "gen_1187", "text": "شغّل لي سورة الغاشية بصوت الشيخ مصطفى إسماعيل.", "behavior": "", "intent": "play_surah", "source": "generated"}
+{"id": "gen_1188", "text": "ما هي فوائد الصفحة رقم 43 من المصحف؟", "behavior": "", "intent": "get_page_fawaed", "source": "generated"}
+{"id": "gen_1189", "text": "أريد الحديث رقم 453 من رياض الصالحين.", "behavior": "", "intent": "fetch_hadith", "source": "generated"}
+{"id": "gen_1190", "text": "ما القراءات الواردة في الآية 61 من سورة ص؟", "behavior": "", "intent": "qeraat", "source": "generated"}
+{"id": "gen_1191", "text": "أريد الاستماع إلى سورة الليل بصوت السديس.", "behavior": "", "intent": "play_surah", "source": "generated"}
+{"id": "gen_1192", "text": "هل عندك اسم مميز؟", "behavior": "", "intent": "persona", "source": "generated"}
+{"id": "gen_1193", "text": "ما سبب نزول سورة نوح؟", "behavior": "", "intent": "nuzool", "source": "generated"}
+{"id": "gen_1194", "text": "ابحث لي في التفسير عن آيات تتحدث عن بر اليتيم.", "behavior": "", "intent": "search_in_tafsir", "source": "generated"}
+{"id": "gen_1195", "text": "ما هي فوائد الصفحة رقم 530 من المصحف؟", "behavior": "", "intent": "get_page_fawaed", "source": "generated"}
+{"id": "gen_1196", "text": "ما حكم من يتعامل بالربا؟", "behavior": "", "intent": "ruling_v2", "source": "generated"}
+{"id": "gen_1197", "text": "أهلاً وسهلاً", "behavior": "", "intent": "greeting", "source": "generated"}
+{"id": "gen_1198", "text": "سمّعني سورة القلم.", "behavior": "", "intent": "play_surah", "source": "generated"}
+{"id": "gen_1199", "text": "حلّل لي كلمة «شكر» من الناحية اللغوية.", "behavior": "", "intent": "analyze_word", "source": "generated"}
+{"id": "gen_1200", "text": "أسمعني الآية 16 من سورة الانفطار.", "behavior": "", "intent": "play_ayah", "source": "generated"}
+{"id": "gen_1201", "text": "اشرح لي تفسير سورة العلق من كتاب ar-tafsir-muyassar.", "behavior": "", "intent": "tafsir_surah", "source": "generated"}
+{"id": "gen_1202", "text": "شغّل لي سورة يوسف بصوت الشيخ الحصري.", "behavior": "", "intent": "play_surah", "source": "generated"}
+{"id": "gen_1203", "text": "أريد أحاديث نبوية شريفة عن التواضع.", "behavior": "", "intent": "search_hadith", "source": "generated"}
+{"id": "gen_1204", "text": "ما اسم آخر السورة وأول سورة الإنسان؟", "behavior": "", "intent": "surah_info", "source": "generated"}
+{"id": "gen_1205", "text": "أسمعني الآية 127 من سورة النحل.", "behavior": "", "intent": "play_ayah", "source": "generated"}
+{"id": "gen_1206", "text": "اذكر لي الحديث رقم 225 في سنن النسائي.", "behavior": "", "intent": "fetch_hadith", "source": "generated"}
+{"id": "gen_1207", "text": "هل هناك قراءات متعددة للآية 5 من سورة الهمزة؟", "behavior": "", "intent": "qeraat", "source": "generated"}
+{"id": "gen_1208", "text": "ما هي الآيات التي تتحدث عن الشكر؟", "behavior": "", "intent": "search_in_tafsir", "source": "generated"}
+{"id": "gen_1209", "text": "شغّل لي سورة النجم بصوت الشيخ ياسر الدوسري.", "behavior": "", "intent": "play_surah", "source": "generated"}
+{"id": "gen_1210", "text": "اشرح لي تفسير سورة الطور من كتاب ar-tafsir-ibn-kathir.", "behavior": "", "intent": "tafsir_surah", "source": "generated"}
+{"id": "gen_1211", "text": "ما معنى قوله تعالى في الآية 8 من سورة لقمان؟", "behavior": "", "intent": "tafsir_verse", "source": "generated"}
+{"id": "gen_1212", "text": "ما رأيك في آخر أخبار السياسة؟", "behavior": "", "intent": "scope_redirect", "source": "generated"}
+{"id": "gen_1213", "text": "ما حكم قروض الطلاب الجامعية؟", "behavior": "", "intent": "fatwa_search", "source": "generated"}
+{"id": "gen_1214", "text": "ما تفسير سورة العصر؟", "behavior": "", "intent": "tafsir_surah", "source": "generated"}
+{"id": "gen_1215", "text": "أعطني حديثاً صحيحاً عن التوكل على الله.", "behavior": "", "intent": "search_hadith", "source": "generated"}
+{"id": "gen_1216", "text": "ممكن تفسّر لي الآية 10 من سورة الانفطار؟", "behavior": "", "intent": "tafsir_verse", "source": "generated"}
+{"id": "gen_1217", "text": "اجلب لي تفسير الآية 11 من سورة التغابن من أكثر من مصدر.", "behavior": "", "intent": "fetch_tafsir", "source": "generated"}
+{"id": "gen_1218", "text": "ما رأي الشرع في من يسب الدين؟", "behavior": "", "intent": "ruling_v2", "source": "generated"}
+{"id": "gen_1219", "text": "Tell me about the Night of Power.", "behavior": "", "intent": "english_mixed", "source": "generated"}
+{"id": "gen_1220", "text": "هل ورد حديث «فضل الاستغفار» بروايات مشابهة في كتب أخرى؟", "behavior": "", "intent": "fetch_cross_references", "source": "generated"}
+{"id": "gen_1221", "text": "ما تفسير سورة الحجر؟", "behavior": "", "intent": "tafsir_surah", "source": "generated"}
+{"id": "gen_1222", "text": "كم عدد آيات سورة الحجرات؟", "behavior": "", "intent": "surah_info", "source": "generated"}
+{"id": "gen_1223", "text": "اذكر لي الحديث رقم 102 في سنن ابن ماجه.", "behavior": "", "intent": "fetch_hadith", "source": "generated"}
+{"id": "gen_1224", "text": "ابحث لي عن كل المواضع التي ذُكرت فيها كلمة «الخلق» في القرآن.", "behavior": "", "intent": "search_quran_text", "source": "generated"}
+{"id": "gen_1225", "text": "ما سبب نزول سورة الجن؟", "behavior": "", "intent": "nuzool", "source": "generated"}
+{"id": "gen_1226", "text": "حكم عمليات التجميل؟", "behavior": "", "intent": "fatwa_search", "source": "generated"}
+{"id": "gen_1227", "text": "وضّح لي تفسير الآية 17 من سورة التغابن حسب تفسير ar-tafsir-al-tabari.", "behavior": "", "intent": "tafsir_verse", "source": "generated"}
+{"id": "gen_1228", "text": "ابحث لي عن كل المواضع التي ذُكرت فيها كلمة «السلام» في القرآن.", "behavior": "", "intent": "search_quran_text", "source": "generated"}
+{"id": "gen_1229", "text": "ما تفسير الآية 6 من سورة الجن؟", "behavior": "", "intent": "tafsir_verse", "source": "generated"}
+{"id": "gen_1230", "text": "اقرأ لي سورة التوبة كاملة.", "behavior": "", "intent": "play_surah", "source": "generated"}
+{"id": "gen_1231", "text": "ما معنى قوله تعالى في الآية 41 من سورة يونس؟", "behavior": "", "intent": "tafsir_verse", "source": "generated"}
+{"id": "gen_1232", "text": "لماذا نزلت سورة الرحمن؟", "behavior": "", "intent": "nuzool", "source": "generated"}
+{"id": "gen_1233", "text": "أريد الاستماع إلى سورة الكهف بصوت المنشاوي.", "behavior": "", "intent": "play_surah", "source": "generated"}
+{"id": "gen_1234", "text": "ما حكم صناديق التقاعد الاستثمارية؟", "behavior": "", "intent": "fatwa_search", "source": "generated"}
+{"id": "gen_1235", "text": "اذكر لي الحديث رقم 198 في سنن ابن ماجه.", "behavior": "", "intent": "fetch_hadith", "source": "generated"}
+{"id": "gen_1236", "text": "لماذا نزلت سورة الحج؟", "behavior": "", "intent": "nuzool", "source": "generated"}

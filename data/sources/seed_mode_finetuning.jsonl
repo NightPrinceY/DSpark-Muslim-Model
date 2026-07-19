@@ -1,0 +1,393 @@
+{"id": "mft_0001", "text": "كم عدد آيات سورة النحل؟", "behavior": "B1", "intent": "surah_info", "source": "mode_finetuning"}
+{"id": "mft_0002", "text": "أفطرت في رمضان ناسياً، فماذا أفعل؟", "behavior": "B5", "intent": "ruling", "source": "mode_finetuning"}
+{"id": "mft_0003", "text": "أريد تفسير سورة الناس.", "behavior": "B1", "intent": "tafsir_surah", "source": "mode_finetuning"}
+{"id": "mft_0004", "text": "ما القراءات في الآية رقم أربعة من سورة الفاتحة؟", "behavior": "B1", "intent": "qeraat", "source": "mode_finetuning"}
+{"id": "mft_0005", "text": "ما حكم من يحاول الانتحار؟", "behavior": "B5", "intent": "ruling_v2", "source": "mode_finetuning"}
+{"id": "mft_0006", "text": "أسمعني سورة آل عمران.", "behavior": "B1", "intent": "play_surah", "source": "mode_finetuning"}
+{"id": "mft_0007", "text": "أريد تفسير سورة الكوثر.", "behavior": "B1", "intent": "tafsir_surah", "source": "mode_finetuning"}
+{"id": "mft_0008", "text": "راجع تلاوتي: إنا أعطيناك الكوثر", "behavior": "B1", "intent": "validate_recitation", "source": "mode_finetuning"}
+{"id": "mft_0009", "text": "ممكن نظرة عامة على تفسير سورة الرحمن؟", "behavior": "B1", "intent": "tafsir_surah", "source": "mode_finetuning"}
+{"id": "mft_0010", "text": "لمن تنتمي؟", "behavior": "B3", "intent": "creator", "source": "mode_finetuning"}
+{"id": "mft_0011", "text": "وش تقدر تسوّي لي؟", "behavior": "B3", "intent": "capability", "source": "mode_finetuning"}
+{"id": "mft_0012", "text": "حدثني عن سبب نزول سورة العلق.", "behavior": "B1", "intent": "nuzool", "source": "mode_finetuning"}
+{"id": "mft_0013", "text": "أريد أن أستمع إلى سورة الإخلاص.", "behavior": "B1", "intent": "play_surah", "source": "mode_finetuning"}
+{"id": "mft_0014", "text": "اشرح لي تفسير الآية تسعة عشر من سورة العلق.", "behavior": "B1", "intent": "tafsir_verse", "source": "mode_finetuning"}
+{"id": "mft_0015", "text": "شغّل لي الآية ستة عشر من البلد.", "behavior": "B1", "intent": "play_ayah", "source": "mode_finetuning"}
+{"id": "mft_0016", "text": "اقرأ لي سورة يس كلها.", "behavior": "B1", "intent": "play_surah", "source": "mode_finetuning"}
+{"id": "mft_0017", "text": "شغّل لي سورة الواقعة كاملة.", "behavior": "B1", "intent": "play_surah", "source": "mode_finetuning"}
+{"id": "mft_0018", "text": "اذكر لي نص الآية رقم واحد من سورة يس.", "behavior": "B2", "intent": "scripture_audio_guard", "source": "mode_finetuning"}
+{"id": "mft_0019", "text": "أريد تفسير الآية رقم مئة وواحد وخمسون من الأنعام.", "behavior": "B1", "intent": "tafsir_verse", "source": "mode_finetuning"}
+{"id": "mft_0020", "text": "حدّثني عن الرحمة بحديثٍ صحيح.", "behavior": "B1", "intent": "search_hadith", "source": "mode_finetuning"}
+{"id": "mft_0021", "text": "ممكن تلاوة الآية ثلاثة عشر من سورة الليل؟", "behavior": "B1", "intent": "play_ayah", "source": "mode_finetuning"}
+{"id": "mft_0022", "text": "What can you do?", "behavior": "B3", "intent": "capability", "source": "mode_finetuning"}
+{"id": "mft_0023", "text": "كم عدد آيات سورة غافر؟", "behavior": "B1", "intent": "surah_info", "source": "mode_finetuning"}
+{"id": "mft_0024", "text": "حلّ لي هذه المسألة الرياضية: ما ناتج اثني عشر في ثمانية؟", "behavior": "B4", "intent": "scope_redirect", "source": "mode_finetuning"}
+{"id": "mft_0025", "text": "ممكن نظرة عامة على تفسير سورة التين؟", "behavior": "B1", "intent": "tafsir_surah", "source": "mode_finetuning"}
+{"id": "mft_0026", "text": "Who made you?", "behavior": "B3", "intent": "creator", "source": "mode_finetuning"}
+{"id": "mft_0027", "text": "اشرح لي سورة الشمس باختصار.", "behavior": "B1", "intent": "tafsir_surah", "source": "mode_finetuning"}
+{"id": "mft_0028", "text": "ما سبب نزول سورة الأحزاب؟", "behavior": "B1", "intent": "nuzool", "source": "mode_finetuning"}
+{"id": "mft_0029", "text": "أين ذُكر العدل في القرآن؟", "behavior": "B1", "intent": "search_quran_text", "source": "mode_finetuning"}
+{"id": "mft_0030", "text": "ما حكم تعدد الزوجات؟", "behavior": "B5", "intent": "ruling_v2", "source": "mode_finetuning"}
+{"id": "mft_0031", "text": "من طوّرك؟", "behavior": "B3", "intent": "creator", "source": "mode_finetuning"}
+{"id": "mft_0032", "text": "لماذا نزلت سورة الحجرات؟", "behavior": "B1", "intent": "nuzool", "source": "mode_finetuning"}
+{"id": "mft_0033", "text": "أريد تفسير الآية رقم واحد من سورة الفاتحة من تفسير الطبري.", "behavior": "B1", "intent": "tafsir_verse_book", "source": "mode_finetuning"}
+{"id": "mft_0034", "text": "علّمني كيف أستثمر في العملات الرقمية لأربح بسرعة.", "behavior": "B4", "intent": "scope_redirect", "source": "mode_finetuning"}
+{"id": "mft_0035", "text": "من وراءك؟", "behavior": "B3", "intent": "creator", "source": "mode_finetuning"}
+{"id": "mft_0036", "text": "كم عدد آيات سورة الروم؟", "behavior": "B1", "intent": "surah_info", "source": "mode_finetuning"}
+{"id": "mft_0037", "text": "كم عدد آيات سورة يونس؟", "behavior": "B1", "intent": "surah_info", "source": "mode_finetuning"}
+{"id": "mft_0038", "text": "ممكن معنى آية النور؟", "behavior": "B1", "intent": "tafsir_named_verse", "source": "mode_finetuning"}
+{"id": "mft_0039", "text": "هل أنت ChatGPT؟", "behavior": "B3", "intent": "persona", "source": "mode_finetuning"}
+{"id": "mft_0040", "text": "كم عدد آيات سورة الرحمن؟", "behavior": "B1", "intent": "surah_info", "source": "mode_finetuning"}
+{"id": "mft_0041", "text": "أريد تفسير الآية رقم عشرون من البلد.", "behavior": "B1", "intent": "tafsir_verse", "source": "mode_finetuning"}
+{"id": "mft_0042", "text": "شغّل لي الآية واحد من يس. بصوت عبد الباسط", "behavior": "B1", "intent": "play_ayah", "source": "mode_finetuning"}
+{"id": "mft_0043", "text": "ممكن تفسير الآية ثلاثة عشر من سورة التكوير باختصار؟", "behavior": "B1", "intent": "tafsir_verse", "source": "mode_finetuning"}
+{"id": "mft_0044", "text": "هل ترد بالكتابة أم بالصوت؟", "behavior": "B3", "intent": "tts_self", "source": "mode_finetuning"}
+{"id": "mft_0045", "text": "أريد تفسير الآية رقم ثمانية من عبس.", "behavior": "B1", "intent": "tafsir_verse", "source": "mode_finetuning"}
+{"id": "mft_0046", "text": "ايش وظيفتك بالضبط؟", "behavior": "B3", "intent": "persona", "source": "mode_finetuning"}
+{"id": "mft_0047", "text": "ما تفسير سورة الواقعة إجمالاً؟", "behavior": "B1", "intent": "tafsir_surah", "source": "mode_finetuning"}
+{"id": "mft_0048", "text": "أهلاً", "behavior": "B3", "intent": "greeting", "source": "mode_finetuning"}
+{"id": "mft_0049", "text": "أفتني في مسألة طلاقي، هل وقع أم لا؟", "behavior": "B5", "intent": "fatwa_defer", "source": "mode_finetuning"}
+{"id": "mft_0050", "text": "اشرح لي سورة الإخلاص باختصار.", "behavior": "B1", "intent": "tafsir_surah", "source": "mode_finetuning"}
+{"id": "mft_0051", "text": "أريد أن أستمع إلى الآية رقم ثمانية عشر من سورة المطففين. بصوت الحصري", "behavior": "B1", "intent": "play_ayah", "source": "mode_finetuning"}
+{"id": "mft_0052", "text": "اشرح لي سورة الكهف باختصار.", "behavior": "B1", "intent": "tafsir_surah", "source": "mode_finetuning"}
+{"id": "mft_0053", "text": "أريد تفسير الآية رقم أربعة عشر من لقمان.", "behavior": "B1", "intent": "tafsir_verse", "source": "mode_finetuning"}
+{"id": "mft_0054", "text": "Who built you?", "behavior": "B3", "intent": "creator", "source": "mode_finetuning"}
+{"id": "mft_0055", "text": "حدثني عن سورة الجمعة.", "behavior": "B1", "intent": "surah_info", "source": "mode_finetuning"}
+{"id": "mft_0056", "text": "ممكن تفسير الآية اثنا عشر من سورة الشمس باختصار؟", "behavior": "B1", "intent": "tafsir_verse", "source": "mode_finetuning"}
+{"id": "mft_0057", "text": "متى يبدأ شهر رمضان هذا العام؟", "behavior": "B1", "intent": "web_search_exa", "source": "mode_finetuning"}
+{"id": "mft_0058", "text": "أريد تفسير الآية رقم سبعة وعشرون من الفجر.", "behavior": "B1", "intent": "tafsir_verse", "source": "mode_finetuning"}
+{"id": "mft_0059", "text": "هل يمكنك التحقق من تلاوتي؟", "behavior": "B3", "intent": "capability", "source": "mode_finetuning"}
+{"id": "mft_0060", "text": "ما معنى قوله تعالى في الآية رقم ثمانية عشر من سورة المطففين؟", "behavior": "B1", "intent": "tafsir_verse", "source": "mode_finetuning"}
+{"id": "mft_0061", "text": "أريد تفسير الآية رقم واحد من النساء.", "behavior": "B1", "intent": "tafsir_verse", "source": "mode_finetuning"}
+{"id": "mft_0062", "text": "ماذا قال المفسرون عن التوكل؟", "behavior": "B1", "intent": "search_in_tafsir", "source": "mode_finetuning"}
+{"id": "mft_0063", "text": "ما معنى قوله تعالى في الآية رقم أربعة من سورة القارعة؟", "behavior": "B1", "intent": "tafsir_verse", "source": "mode_finetuning"}
+{"id": "mft_0064", "text": "اشرح لي تفسير الآية ثمانية وعشرون من سورة الرعد.", "behavior": "B1", "intent": "tafsir_verse", "source": "mode_finetuning"}
+{"id": "mft_0065", "text": "هل لك اسم؟", "behavior": "B3", "intent": "name", "source": "mode_finetuning"}
+{"id": "mft_0066", "text": "ما معنى قوله تعالى في الآية رقم ثلاثة وخمسون من سورة الزمر؟", "behavior": "B1", "intent": "tafsir_verse", "source": "mode_finetuning"}
+{"id": "mft_0067", "text": "كم آية في سورة البلد؟", "behavior": "B1", "intent": "surah_info", "source": "mode_finetuning"}
+{"id": "mft_0068", "text": "أريد تفسير سورة الضحى.", "behavior": "B1", "intent": "tafsir_surah", "source": "mode_finetuning"}
+{"id": "mft_0069", "text": "السلام عليكم ورحمة الله", "behavior": "B3", "intent": "greeting", "source": "mode_finetuning"}
+{"id": "mft_0070", "text": "من الذي أنشأ تطبيق مُسلِم؟", "behavior": "B3", "intent": "creator", "source": "mode_finetuning"}
+{"id": "mft_0071", "text": "اشرح لي آية الدّين.", "behavior": "B1", "intent": "tafsir_named_verse", "source": "mode_finetuning"}
+{"id": "mft_0072", "text": "أريد تفسير الآية رقم واحد من سورة الإخلاص من تفسير ابن كثير.", "behavior": "B1", "intent": "tafsir_verse_book", "source": "mode_finetuning"}
+{"id": "mft_0073", "text": "من صاحبك؟", "behavior": "B3", "intent": "creator", "source": "mode_finetuning"}
+{"id": "mft_0074", "text": "ماذا تفعل بالضبط؟", "behavior": "B3", "intent": "capability", "source": "mode_finetuning"}
+{"id": "mft_0075", "text": "وش معنى الآية ثلاثة في سورة الكافرون؟", "behavior": "B1", "intent": "tafsir_verse", "source": "mode_finetuning"}
+{"id": "mft_0076", "text": "اكتب لي رسالة حب.", "behavior": "B4", "intent": "scope_redirect", "source": "mode_finetuning"}
+{"id": "mft_0077", "text": "ممكن تلاوة الآية ثلاثة وعشرون من سورة عبس؟", "behavior": "B1", "intent": "play_ayah", "source": "mode_finetuning"}
+{"id": "mft_0078", "text": "أعطني خبراً رياضياً جديداً.", "behavior": "B4", "intent": "scope_redirect", "source": "mode_finetuning"}
+{"id": "mft_0079", "text": "ما حديثٌ يتعلق بـ الإيمان والأخوة؟", "behavior": "B1", "intent": "search_hadith", "source": "mode_finetuning"}
+{"id": "mft_0080", "text": "اذكر لي نص الآية رقم واحد من سورة الفلق.", "behavior": "B2", "intent": "scripture_audio_guard", "source": "mode_finetuning"}
+{"id": "mft_0081", "text": "أريد تفسير الآية رقم ثلاثة عشر من الحجرات.", "behavior": "B1", "intent": "tafsir_verse", "source": "mode_finetuning"}
+{"id": "mft_0082", "text": "Play Surah Al-Mulk for me.", "behavior": "B6", "intent": "english_play", "source": "mode_finetuning"}
+{"id": "mft_0083", "text": "اقرأ لي الآية رقم مئتان وستة وثمانون من سورة البقرة.", "behavior": "B1", "intent": "play_ayah", "source": "mode_finetuning"}
+{"id": "mft_0084", "text": "عرّف بنفسك.", "behavior": "B3", "intent": "persona", "source": "mode_finetuning"}
+{"id": "mft_0085", "text": "هل أنت روبوت أم إنسان؟", "behavior": "B3", "intent": "persona", "source": "mode_finetuning"}
+{"id": "mft_0086", "text": "لماذا نزلت سورة الكوثر؟", "behavior": "B1", "intent": "nuzool", "source": "mode_finetuning"}
+{"id": "mft_0087", "text": "ممكن تلاوة الآية ستة عشر من سورة الليل؟ بصوت السديس", "behavior": "B1", "intent": "play_ayah", "source": "mode_finetuning"}
+{"id": "mft_0088", "text": "مرحبا يا مسلم", "behavior": "B3", "intent": "greeting", "source": "mode_finetuning"}
+{"id": "mft_0089", "text": "كم آية في سورة الأنبياء؟", "behavior": "B1", "intent": "surah_info", "source": "mode_finetuning"}
+{"id": "mft_0090", "text": "شغّل لي سورة الفلق كاملة.", "behavior": "B1", "intent": "play_surah", "source": "mode_finetuning"}
+{"id": "mft_0091", "text": "Tell me your name.", "behavior": "B3", "intent": "name", "source": "mode_finetuning"}
+{"id": "mft_0092", "text": "أريد تفسير الآية رقم ثمانية وعشرون من المطففين.", "behavior": "B1", "intent": "tafsir_verse", "source": "mode_finetuning"}
+{"id": "mft_0093", "text": "اذكر لي نص الآية رقم واحد من سورة الناس.", "behavior": "B2", "intent": "scripture_audio_guard", "source": "mode_finetuning"}
+{"id": "mft_0094", "text": "كم آية في سورة الفجر؟", "behavior": "B1", "intent": "surah_info", "source": "mode_finetuning"}
+{"id": "mft_0095", "text": "من صنعك؟", "behavior": "B3", "intent": "creator", "source": "mode_finetuning"}
+{"id": "mft_0096", "text": "اشرح لي تفسير الآية ثلاثة وعشرون من سورة الإسراء.", "behavior": "B1", "intent": "tafsir_verse", "source": "mode_finetuning"}
+{"id": "mft_0097", "text": "أريد أن أستمع إلى سورة ق.", "behavior": "B1", "intent": "play_surah", "source": "mode_finetuning"}
+{"id": "mft_0098", "text": "ما حكم تارك الصلاة؟", "behavior": "B5", "intent": "ruling_v2", "source": "mode_finetuning"}
+{"id": "mft_0099", "text": "كم عدد آيات سورة الملك؟", "behavior": "B1", "intent": "surah_info", "source": "mode_finetuning"}
+{"id": "mft_0100", "text": "What is your name?", "behavior": "B3", "intent": "name", "source": "mode_finetuning"}
+{"id": "mft_0101", "text": "حدثني عن سورة ق.", "behavior": "B1", "intent": "surah_info", "source": "mode_finetuning"}
+{"id": "mft_0102", "text": "إيش اسمك؟", "behavior": "B3", "intent": "name", "source": "mode_finetuning"}
+{"id": "mft_0103", "text": "أريد أن أستمع إلى سورة القيامة.", "behavior": "B1", "intent": "play_surah", "source": "mode_finetuning"}
+{"id": "mft_0104", "text": "من بناك؟", "behavior": "B3", "intent": "creator", "source": "mode_finetuning"}
+{"id": "mft_0105", "text": "هل التدخين حرام؟", "behavior": "B5", "intent": "ruling", "source": "mode_finetuning"}
+{"id": "mft_0106", "text": "أين ذُكر الرحمة في القرآن؟", "behavior": "B1", "intent": "search_quran_text", "source": "mode_finetuning"}
+{"id": "mft_0107", "text": "شغّل لي سورة البقرة كاملة.", "behavior": "B1", "intent": "play_surah", "source": "mode_finetuning"}
+{"id": "mft_0108", "text": "مين سوّاك؟", "behavior": "B3", "intent": "creator", "source": "mode_finetuning"}
+{"id": "mft_0109", "text": "ممكن نظرة عامة على تفسير سورة الفلق؟", "behavior": "B1", "intent": "tafsir_surah", "source": "mode_finetuning"}
+{"id": "mft_0110", "text": "ممكن تفسير الآية أحد عشر من سورة البلد باختصار؟", "behavior": "B1", "intent": "tafsir_verse", "source": "mode_finetuning"}
+{"id": "mft_0111", "text": "كم آية في سورة الفتح؟", "behavior": "B1", "intent": "surah_info", "source": "mode_finetuning"}
+{"id": "mft_0112", "text": "ممكن تفسير الآية ستة من سورة التكوير باختصار؟", "behavior": "B1", "intent": "tafsir_verse", "source": "mode_finetuning"}
+{"id": "mft_0113", "text": "Explain verse 5 of Surah Al-Fatiha.", "behavior": "B6", "intent": "english_tafsir_verse", "source": "mode_finetuning"}
+{"id": "mft_0114", "text": "ما معنى قوله تعالى في الآية رقم اثنان وأربعون من سورة عبس؟", "behavior": "B1", "intent": "tafsir_verse", "source": "mode_finetuning"}
+{"id": "mft_0115", "text": "ما معنى كلمة الصمد في القرآن؟", "behavior": "B1", "intent": "analyze_word", "source": "mode_finetuning"}
+{"id": "mft_0116", "text": "What should I call you?", "behavior": "B3", "intent": "name", "source": "mode_finetuning"}
+{"id": "mft_0117", "text": "شغّل لي آية النور.", "behavior": "B2", "intent": "named_verse_audio", "source": "mode_finetuning"}
+{"id": "mft_0118", "text": "من برمجك؟", "behavior": "B3", "intent": "creator", "source": "mode_finetuning"}
+{"id": "mft_0119", "text": "وش معنى الفلق؟", "behavior": "B1", "intent": "analyze_word", "source": "mode_finetuning"}
+{"id": "mft_0120", "text": "ابحث في كتب التفسير عن بر الوالدين.", "behavior": "B1", "intent": "search_in_tafsir", "source": "mode_finetuning"}
+{"id": "mft_0121", "text": "من مالكك؟", "behavior": "B3", "intent": "creator", "source": "mode_finetuning"}
+{"id": "mft_0122", "text": "ما تفسير سورة يس إجمالاً؟", "behavior": "B1", "intent": "tafsir_surah", "source": "mode_finetuning"}
+{"id": "mft_0123", "text": "كم سعر سهم أبل الآن؟", "behavior": "B4", "intent": "scope_redirect", "source": "mode_finetuning"}
+{"id": "mft_0124", "text": "أريد تفسير الآية رقم اثنا عشر من النبأ.", "behavior": "B1", "intent": "tafsir_verse", "source": "mode_finetuning"}
+{"id": "mft_0125", "text": "كم عاصمة فرنسا؟", "behavior": "B4", "intent": "scope_redirect", "source": "mode_finetuning"}
+{"id": "mft_0126", "text": "اشرحلي please معنى كلمة التقوى.", "behavior": "B6", "intent": "mixed", "source": "mode_finetuning"}
+{"id": "mft_0127", "text": "How many verses in Surah Al-Baqarah?", "behavior": "B6", "intent": "english_count", "source": "mode_finetuning"}
+{"id": "mft_0128", "text": "ما حديثٌ يتعلق بـ الطهارة؟", "behavior": "B1", "intent": "search_hadith", "source": "mode_finetuning"}
+{"id": "mft_0129", "text": "أعطني وصفة لطبخ الكبسة.", "behavior": "B4", "intent": "scope_redirect", "source": "mode_finetuning"}
+{"id": "mft_0130", "text": "شغّل لي الآية سبعة وعشرون من الفجر.", "behavior": "B1", "intent": "play_ayah", "source": "mode_finetuning"}
+{"id": "mft_0131", "text": "معلومات عن سورة الكهف.", "behavior": "B1", "intent": "surah_info", "source": "mode_finetuning"}
+{"id": "mft_0132", "text": "ما حديثٌ يتعلق بـ النية والإخلاص؟", "behavior": "B1", "intent": "search_hadith", "source": "mode_finetuning"}
+{"id": "mft_0133", "text": "عرّفني باسمك.", "behavior": "B3", "intent": "name", "source": "mode_finetuning"}
+{"id": "mft_0134", "text": "أريد تفسير الآية رقم سبعة من الشرح.", "behavior": "B1", "intent": "tafsir_verse", "source": "mode_finetuning"}
+{"id": "mft_0135", "text": "حدثني عن سورة الواقعة.", "behavior": "B1", "intent": "surah_info", "source": "mode_finetuning"}
+{"id": "mft_0136", "text": "كم عدد آيات سورة الفلق؟", "behavior": "B1", "intent": "surah_info", "source": "mode_finetuning"}
+{"id": "mft_0137", "text": "وش معنى الآية أحد عشر في سورة العلق؟", "behavior": "B1", "intent": "tafsir_verse", "source": "mode_finetuning"}
+{"id": "mft_0138", "text": "What is the meaning of Surah Al-Ikhlas?", "behavior": "B6", "intent": "english_tafsir", "source": "mode_finetuning"}
+{"id": "mft_0139", "text": "أريد تفسير الآية رقم واحد من سورة الفلق من تفسير السعدي.", "behavior": "B1", "intent": "tafsir_verse_book", "source": "mode_finetuning"}
+{"id": "mft_0140", "text": "اذكر لي نص الآية رقم واحد من سورة الملك.", "behavior": "B2", "intent": "scripture_audio_guard", "source": "mode_finetuning"}
+{"id": "mft_0141", "text": "هل يجوز ترك صلاة الجمعة بسبب التعب؟", "behavior": "B5", "intent": "ruling", "source": "mode_finetuning"}
+{"id": "mft_0142", "text": "ترجم لي هذه الجملة الإنجليزية الطويلة إلى العربية.", "behavior": "B4", "intent": "scope_redirect", "source": "mode_finetuning"}
+{"id": "mft_0143", "text": "معلومات عن سورة الإسراء.", "behavior": "B1", "intent": "surah_info", "source": "mode_finetuning"}
+{"id": "mft_0144", "text": "حدثني عن سورة الحجرات.", "behavior": "B1", "intent": "surah_info", "source": "mode_finetuning"}
+{"id": "mft_0145", "text": "ممكن تلاوة الآية ثلاثة من سورة الفجر؟ بصوت عبد الباسط", "behavior": "B1", "intent": "play_ayah", "source": "mode_finetuning"}
+{"id": "mft_0146", "text": "اشرح لي سورة المسد باختصار.", "behavior": "B1", "intent": "tafsir_surah", "source": "mode_finetuning"}
+{"id": "mft_0147", "text": "ما الخدمات التي تقدّمها؟", "behavior": "B3", "intent": "capability", "source": "mode_finetuning"}
+{"id": "mft_0148", "text": "أسمعني الآية اثنا عشر من سورة عبس. بصوت المنشاوي", "behavior": "B1", "intent": "play_ayah", "source": "mode_finetuning"}
+{"id": "mft_0149", "text": "حدثني عن سورة الأعلى.", "behavior": "B1", "intent": "surah_info", "source": "mode_finetuning"}
+{"id": "mft_0150", "text": "هل يجوز للمرأة أن تصلي بدون حجاب في بيتها وحدها؟", "behavior": "B5", "intent": "ruling", "source": "mode_finetuning"}
+{"id": "mft_0151", "text": "أسمعني الآية ثمانية من سورة البروج. بصوت مشاري العفاسي", "behavior": "B1", "intent": "play_ayah", "source": "mode_finetuning"}
+{"id": "mft_0152", "text": "ما حكم من يشرب الخمر؟", "behavior": "B5", "intent": "ruling_v2", "source": "mode_finetuning"}
+{"id": "mft_0153", "text": "ممكن نظرة عامة على تفسير سورة القارعة؟", "behavior": "B1", "intent": "tafsir_surah", "source": "mode_finetuning"}
+{"id": "mft_0154", "text": "شغّل لي سورة الإنسان كاملة.", "behavior": "B1", "intent": "play_surah", "source": "mode_finetuning"}
+{"id": "mft_0155", "text": "ابحث في القرآن عن آيات تتحدث عن الإحسان.", "behavior": "B1", "intent": "search_quran_text", "source": "mode_finetuning"}
+{"id": "mft_0156", "text": "ممكن تفسير الآية ثلاثون من سورة الأنبياء باختصار؟", "behavior": "B1", "intent": "tafsir_verse", "source": "mode_finetuning"}
+{"id": "mft_0157", "text": "ما حديثٌ يتعلق بـ الرحمة؟", "behavior": "B1", "intent": "search_hadith", "source": "mode_finetuning"}
+{"id": "mft_0158", "text": "من صاحب فكرتك؟", "behavior": "B3", "intent": "creator", "source": "mode_finetuning"}
+{"id": "mft_0159", "text": "حدّثني عن الطهارة بحديثٍ صحيح.", "behavior": "B1", "intent": "search_hadith", "source": "mode_finetuning"}
+{"id": "mft_0160", "text": "ماذا قال المفسرون عن العلم؟", "behavior": "B1", "intent": "search_in_tafsir", "source": "mode_finetuning"}
+{"id": "mft_0161", "text": "اكتب لي الآية ستة من سورة الفاتحة.", "behavior": "B2", "intent": "scripture_audio_guard", "source": "mode_finetuning"}
+{"id": "mft_0162", "text": "أريد أن أستمع إلى الآية رقم اثنا عشر من سورة العلق.", "behavior": "B1", "intent": "play_ayah", "source": "mode_finetuning"}
+{"id": "mft_0163", "text": "ابحث في كتب التفسير عن الصدق.", "behavior": "B1", "intent": "search_in_tafsir", "source": "mode_finetuning"}
+{"id": "mft_0164", "text": "وش معنى الآية ستة عشر في سورة البلد؟", "behavior": "B1", "intent": "tafsir_verse", "source": "mode_finetuning"}
+{"id": "mft_0165", "text": "لماذا أنت هنا؟", "behavior": "B3", "intent": "capability", "source": "mode_finetuning"}
+{"id": "mft_0166", "text": "ما حديثٌ يتعلق بـ الصدق؟", "behavior": "B1", "intent": "search_hadith", "source": "mode_finetuning"}
+{"id": "mft_0167", "text": "اكتب لي الآية واحد من سورة الرحمن.", "behavior": "B2", "intent": "scripture_audio_guard", "source": "mode_finetuning"}
+{"id": "mft_0168", "text": "ممكن تفسير الآية مئتان وستة وثمانون من سورة البقرة باختصار؟", "behavior": "B1", "intent": "tafsir_verse", "source": "mode_finetuning"}
+{"id": "mft_0169", "text": "اشرح لي تفسير الآية خمسة عشر من سورة الليل.", "behavior": "B1", "intent": "tafsir_verse", "source": "mode_finetuning"}
+{"id": "mft_0170", "text": "ممكن نظرة عامة على تفسير سورة الأعلى؟", "behavior": "B1", "intent": "tafsir_surah", "source": "mode_finetuning"}
+{"id": "mft_0171", "text": "حدّثني عن الإيمان والأخوة بحديثٍ صحيح.", "behavior": "B1", "intent": "search_hadith", "source": "mode_finetuning"}
+{"id": "mft_0172", "text": "ما حكم من يرتد عن الإسلام؟", "behavior": "B5", "intent": "ruling_v2", "source": "mode_finetuning"}
+{"id": "mft_0173", "text": "أريد تفسير الآية رقم أربعون من النازعات.", "behavior": "B1", "intent": "tafsir_verse", "source": "mode_finetuning"}
+{"id": "mft_0174", "text": "اقرأ لي سورة الناس كلها.", "behavior": "B1", "intent": "play_surah", "source": "mode_finetuning"}
+{"id": "mft_0175", "text": "ممكن تفسير الآية واحد من سورة يس باختصار؟", "behavior": "B1", "intent": "tafsir_verse", "source": "mode_finetuning"}
+{"id": "mft_0176", "text": "ما سبب نزول سورة الفتح؟", "behavior": "B1", "intent": "nuzool", "source": "mode_finetuning"}
+{"id": "mft_0177", "text": "ما نص الآية رقم واحد من سورة العصر؟", "behavior": "B2", "intent": "scripture_audio_guard", "source": "mode_finetuning"}
+{"id": "mft_0178", "text": "اشرح لي سورة الهمزة باختصار.", "behavior": "B1", "intent": "tafsir_surah", "source": "mode_finetuning"}
+{"id": "mft_0179", "text": "مين عملك؟", "behavior": "B3", "intent": "creator", "source": "mode_finetuning"}
+{"id": "mft_0180", "text": "اشرح لي تفسير الآية أربعون من سورة الأحزاب.", "behavior": "B1", "intent": "tafsir_verse", "source": "mode_finetuning"}
+{"id": "mft_0181", "text": "معلومات عن سورة الكوثر.", "behavior": "B1", "intent": "surah_info", "source": "mode_finetuning"}
+{"id": "mft_0182", "text": "ابحث في القرآن عن آيات تتحدث عن الصبر.", "behavior": "B1", "intent": "search_quran_text", "source": "mode_finetuning"}
+{"id": "mft_0183", "text": "من صنع هذا المساعد؟", "behavior": "B3", "intent": "creator", "source": "mode_finetuning"}
+{"id": "mft_0184", "text": "ما تفسير سورة الفيل إجمالاً؟", "behavior": "B1", "intent": "tafsir_surah", "source": "mode_finetuning"}
+{"id": "mft_0185", "text": "كيف أستخدمك؟", "behavior": "B3", "intent": "persona", "source": "mode_finetuning"}
+{"id": "mft_0186", "text": "ممكن تفسير الآية اثنان من سورة النصر باختصار؟", "behavior": "B1", "intent": "tafsir_verse", "source": "mode_finetuning"}
+{"id": "mft_0187", "text": "Who created you?", "behavior": "B3", "intent": "creator", "source": "mode_finetuning"}
+{"id": "mft_0188", "text": "ماذا أسمّيك؟", "behavior": "B3", "intent": "name", "source": "mode_finetuning"}
+{"id": "mft_0189", "text": "ما نص الآية رقم ستة وعشرون من سورة آل عمران؟", "behavior": "B2", "intent": "scripture_audio_guard", "source": "mode_finetuning"}
+{"id": "mft_0190", "text": "أريد تفسير الآية رقم أربعة من يوسف.", "behavior": "B1", "intent": "tafsir_verse", "source": "mode_finetuning"}
+{"id": "mft_0191", "text": "ما نص الآية رقم واحد من سورة الكافرون؟", "behavior": "B2", "intent": "scripture_audio_guard", "source": "mode_finetuning"}
+{"id": "mft_0192", "text": "أريد تفسير الآية رقم مئة وتسعة وتسعون من الأعراف.", "behavior": "B1", "intent": "tafsir_verse", "source": "mode_finetuning"}
+{"id": "mft_0193", "text": "شغّل لي الآية ستة من العلق.", "behavior": "B1", "intent": "play_ayah", "source": "mode_finetuning"}
+{"id": "mft_0194", "text": "حدثني عن سورة يس.", "behavior": "B1", "intent": "surah_info", "source": "mode_finetuning"}
+{"id": "mft_0195", "text": "اكتب لي الإجابة في جدول.", "behavior": "B3", "intent": "tts_self", "source": "mode_finetuning"}
+{"id": "mft_0196", "text": "ممكن نظرة عامة على تفسير سورة الزلزلة؟", "behavior": "B1", "intent": "tafsir_surah", "source": "mode_finetuning"}
+{"id": "mft_0197", "text": "شغّل لي آية الدّين.", "behavior": "B2", "intent": "named_verse_audio", "source": "mode_finetuning"}
+{"id": "mft_0198", "text": "اذكر لي نص الآية رقم خمسة من سورة الشرح.", "behavior": "B2", "intent": "scripture_audio_guard", "source": "mode_finetuning"}
+{"id": "mft_0199", "text": "ممكن تلاوة الآية ثلاثة عشر من سورة التكوير؟", "behavior": "B1", "intent": "play_ayah", "source": "mode_finetuning"}
+{"id": "mft_0200", "text": "ممكن تفسير الآية خمسة وثلاثون من سورة النور باختصار؟", "behavior": "B1", "intent": "tafsir_verse", "source": "mode_finetuning"}
+{"id": "mft_0201", "text": "حدثني عن سورة يوسف.", "behavior": "B1", "intent": "surah_info", "source": "mode_finetuning"}
+{"id": "mft_0202", "text": "Who is your developer?", "behavior": "B3", "intent": "creator", "source": "mode_finetuning"}
+{"id": "mft_0203", "text": "ممكن تلاوة الآية اثنا عشر من سورة النبأ؟ بصوت الحصري", "behavior": "B1", "intent": "play_ayah", "source": "mode_finetuning"}
+{"id": "mft_0204", "text": "ممكن معنى آخر آية في سورة البقرة؟", "behavior": "B1", "intent": "tafsir_named_verse", "source": "mode_finetuning"}
+{"id": "mft_0205", "text": "أريد تفسير الآية رقم تسعة من طه.", "behavior": "B1", "intent": "tafsir_verse", "source": "mode_finetuning"}
+{"id": "mft_0206", "text": "صمّم لي شعاراً لمشروعي التجاري.", "behavior": "B4", "intent": "scope_redirect", "source": "mode_finetuning"}
+{"id": "mft_0207", "text": "ممكن تلاوة الآية ستة من سورة التكوير؟", "behavior": "B1", "intent": "play_ayah", "source": "mode_finetuning"}
+{"id": "mft_0208", "text": "أريد تفسير الآية رقم واحد من سورة الناس من تفسير ابن كثير.", "behavior": "B1", "intent": "tafsir_verse_book", "source": "mode_finetuning"}
+{"id": "mft_0209", "text": "مين صنعك؟", "behavior": "B3", "intent": "persona", "source": "mode_finetuning"}
+{"id": "mft_0210", "text": "أريد أن أستمع إلى الآية رقم تسعة عشر من سورة الفجر.", "behavior": "B1", "intent": "play_ayah", "source": "mode_finetuning"}
+{"id": "mft_0211", "text": "اذكر حديثاً عن الطهارة.", "behavior": "B1", "intent": "search_hadith", "source": "mode_finetuning"}
+{"id": "mft_0212", "text": "أين ذُكر التقوى في القرآن؟", "behavior": "B1", "intent": "search_quran_text", "source": "mode_finetuning"}
+{"id": "mft_0213", "text": "ما معنى قوله تعالى في الآية رقم ستة من سورة البروج؟", "behavior": "B1", "intent": "tafsir_verse", "source": "mode_finetuning"}
+{"id": "mft_0214", "text": "اسمك ايه؟", "behavior": "B3", "intent": "name", "source": "mode_finetuning"}
+{"id": "mft_0215", "text": "ممكن تفسير الآية خمسة وعشرون من سورة النبأ باختصار؟", "behavior": "B1", "intent": "tafsir_verse", "source": "mode_finetuning"}
+{"id": "mft_0216", "text": "أسمعني الآية ستة من سورة البروج.", "behavior": "B1", "intent": "play_ayah", "source": "mode_finetuning"}
+{"id": "mft_0217", "text": "كم عدد آيات سورة النمل؟", "behavior": "B1", "intent": "surah_info", "source": "mode_finetuning"}
+{"id": "mft_0218", "text": "هل يجوز تأخير الصلاة عن وقتها للعمل؟", "behavior": "B5", "intent": "ruling", "source": "mode_finetuning"}
+{"id": "mft_0219", "text": "ما نص الآية رقم واحد من سورة الفاتحة؟", "behavior": "B2", "intent": "scripture_audio_guard", "source": "mode_finetuning"}
+{"id": "mft_0220", "text": "ما موعد عيد الأضحى هذه السنة؟", "behavior": "B1", "intent": "web_search_exa", "source": "mode_finetuning"}
+{"id": "mft_0221", "text": "ما حديثٌ يتعلق بـ حفظ اللسان؟", "behavior": "B1", "intent": "search_hadith", "source": "mode_finetuning"}
+{"id": "mft_0222", "text": "لماذا نزلت سورة المسد؟", "behavior": "B1", "intent": "nuzool", "source": "mode_finetuning"}
+{"id": "mft_0223", "text": "أريد تفسير سورة الشرح.", "behavior": "B1", "intent": "tafsir_surah", "source": "mode_finetuning"}
+{"id": "mft_0224", "text": "أريد الحديث الأول من صحيح البخاري.", "behavior": "B1", "intent": "fetch_hadith", "source": "mode_finetuning"}
+{"id": "mft_0225", "text": "كم عدد آيات سورة النجم؟", "behavior": "B1", "intent": "surah_info", "source": "mode_finetuning"}
+{"id": "mft_0226", "text": "ممكن تفسير الآية ستة من سورة العلق باختصار؟", "behavior": "B1", "intent": "tafsir_verse", "source": "mode_finetuning"}
+{"id": "mft_0227", "text": "اذكر حديثاً عن النية والإخلاص.", "behavior": "B1", "intent": "search_hadith", "source": "mode_finetuning"}
+{"id": "mft_0228", "text": "ما أخبار السياسة اليوم؟", "behavior": "B4", "intent": "scope_redirect", "source": "mode_finetuning"}
+{"id": "mft_0229", "text": "اقرأ لي سورة الكهف كلها.", "behavior": "B1", "intent": "play_surah", "source": "mode_finetuning"}
+{"id": "mft_0230", "text": "اقرأ لي سورة الرحمن كلها.", "behavior": "B1", "intent": "play_surah", "source": "mode_finetuning"}
+{"id": "mft_0231", "text": "كم عدد آيات سورة الناس؟", "behavior": "B1", "intent": "surah_info", "source": "mode_finetuning"}
+{"id": "mft_0232", "text": "من علّمك؟", "behavior": "B3", "intent": "creator", "source": "mode_finetuning"}
+{"id": "mft_0233", "text": "شغّل لي آخر آية في سورة البقرة.", "behavior": "B2", "intent": "named_verse_audio", "source": "mode_finetuning"}
+{"id": "mft_0234", "text": "هل تستطيع أن تقرأ لي القرآن؟", "behavior": "B3", "intent": "capability", "source": "mode_finetuning"}
+{"id": "mft_0235", "text": "شغّل لي سورة النبأ كاملة.", "behavior": "B1", "intent": "play_surah", "source": "mode_finetuning"}
+{"id": "mft_0236", "text": "ممكن نظرة عامة على تفسير سورة القدر؟", "behavior": "B1", "intent": "tafsir_surah", "source": "mode_finetuning"}
+{"id": "mft_0237", "text": "كم آية في سورة النور؟", "behavior": "B1", "intent": "surah_info", "source": "mode_finetuning"}
+{"id": "mft_0238", "text": "ما قدراتك؟", "behavior": "B3", "intent": "capability", "source": "mode_finetuning"}
+{"id": "mft_0239", "text": "كم عدد آيات سورة نوح؟", "behavior": "B1", "intent": "surah_info", "source": "mode_finetuning"}
+{"id": "mft_0240", "text": "ما حالة الطقس اليوم؟", "behavior": "B4", "intent": "scope_redirect", "source": "mode_finetuning"}
+{"id": "mft_0241", "text": "أسمعني الآية تسعة عشر من سورة العلق.", "behavior": "B1", "intent": "play_ayah", "source": "mode_finetuning"}
+{"id": "mft_0242", "text": "كم آية في سورة التوبة؟", "behavior": "B1", "intent": "surah_info", "source": "mode_finetuning"}
+{"id": "mft_0243", "text": "أريد تفسير الآية رقم اثنان من الغاشية.", "behavior": "B1", "intent": "tafsir_verse", "source": "mode_finetuning"}
+{"id": "mft_0244", "text": "اشرح لي درس الفيزياء عن الجاذبية.", "behavior": "B4", "intent": "scope_redirect", "source": "mode_finetuning"}
+{"id": "mft_0245", "text": "من المطوّر الخاص بك؟", "behavior": "B3", "intent": "creator", "source": "mode_finetuning"}
+{"id": "mft_0246", "text": "اشرح لي سورة العاديات باختصار.", "behavior": "B1", "intent": "tafsir_surah", "source": "mode_finetuning"}
+{"id": "mft_0247", "text": "أريد أن أستمع إلى الآية رقم اثنان من سورة الشرح.", "behavior": "B1", "intent": "play_ayah", "source": "mode_finetuning"}
+{"id": "mft_0248", "text": "ما سبب نزول سورة المنافقون؟", "behavior": "B1", "intent": "nuzool", "source": "mode_finetuning"}
+{"id": "mft_0249", "text": "ما وظيفتك؟", "behavior": "B3", "intent": "capability", "source": "mode_finetuning"}
+{"id": "mft_0250", "text": "حدثني عن سورة الدخان.", "behavior": "B1", "intent": "surah_info", "source": "mode_finetuning"}
+{"id": "mft_0251", "text": "ما حديثٌ يتعلق بـ فضل طلب العلم؟", "behavior": "B1", "intent": "search_hadith", "source": "mode_finetuning"}
+{"id": "mft_0252", "text": "أسمعني سورة الغاشية.", "behavior": "B1", "intent": "play_surah", "source": "mode_finetuning"}
+{"id": "mft_0253", "text": "Why was Surah Al-Masad revealed?", "behavior": "B6", "intent": "english_nuzool", "source": "mode_finetuning"}
+{"id": "mft_0254", "text": "ممكن تلاوة الآية ثلاثون من سورة المطففين؟", "behavior": "B1", "intent": "play_ayah", "source": "mode_finetuning"}
+{"id": "mft_0255", "text": "شغّل لي سورة مريم كاملة.", "behavior": "B1", "intent": "play_surah", "source": "mode_finetuning"}
+{"id": "mft_0256", "text": "تحقق من قراءتي للآية: قل أعوذ برب الفلق", "behavior": "B1", "intent": "validate_recitation", "source": "mode_finetuning"}
+{"id": "mft_0257", "text": "كم عدد آيات سورة الأحزاب؟", "behavior": "B1", "intent": "surah_info", "source": "mode_finetuning"}
+{"id": "mft_0258", "text": "وش معنى الآية ثلاثون في سورة المطففين؟", "behavior": "B1", "intent": "tafsir_verse", "source": "mode_finetuning"}
+{"id": "mft_0259", "text": "ما معنى كلمة الكوثر في القرآن؟", "behavior": "B1", "intent": "analyze_word", "source": "mode_finetuning"}
+{"id": "mft_0260", "text": "اكتب لي كود بايثون يطبع الأعداد.", "behavior": "B4", "intent": "scope_redirect", "source": "mode_finetuning"}
+{"id": "mft_0261", "text": "أريد حديثاً في الإحسان إلى الجار مع مصدره.", "behavior": "B1", "intent": "search_hadith", "source": "mode_finetuning"}
+{"id": "mft_0262", "text": "رشّح لي فيلماً جيداً.", "behavior": "B4", "intent": "scope_redirect", "source": "mode_finetuning"}
+{"id": "mft_0263", "text": "ابحث في القرآن عن آيات تتحدث عن الشكر.", "behavior": "B1", "intent": "search_quran_text", "source": "mode_finetuning"}
+{"id": "mft_0264", "text": "معلومات عن سورة إبراهيم.", "behavior": "B1", "intent": "surah_info", "source": "mode_finetuning"}
+{"id": "mft_0265", "text": "أريد تفسير الآية رقم واحد من سورة الكوثر من تفسير السعدي.", "behavior": "B1", "intent": "tafsir_verse_book", "source": "mode_finetuning"}
+{"id": "mft_0266", "text": "هل يمكنك أن تكتب لي رابطاً؟", "behavior": "B3", "intent": "tts_self", "source": "mode_finetuning"}
+{"id": "mft_0267", "text": "What are your abilities?", "behavior": "B3", "intent": "capability", "source": "mode_finetuning"}
+{"id": "mft_0268", "text": "اذكر حديثاً عن الرحمة.", "behavior": "B1", "intent": "search_hadith", "source": "mode_finetuning"}
+{"id": "mft_0269", "text": "ما معنى قوله تعالى في الآية رقم اثنا عشر من سورة عبس؟", "behavior": "B1", "intent": "tafsir_verse", "source": "mode_finetuning"}
+{"id": "mft_0270", "text": "ما حكم الزنا؟", "behavior": "B5", "intent": "ruling_v2", "source": "mode_finetuning"}
+{"id": "mft_0271", "text": "السلام عليكم", "behavior": "B3", "intent": "greeting", "source": "mode_finetuning"}
+{"id": "mft_0272", "text": "أريد أن أستمع إلى سورة الأعلى.", "behavior": "B1", "intent": "play_surah", "source": "mode_finetuning"}
+{"id": "mft_0273", "text": "ما حديثٌ يتعلق بـ الإحسان إلى الجار؟", "behavior": "B1", "intent": "search_hadith", "source": "mode_finetuning"}
+{"id": "mft_0274", "text": "ما تفسير سورة قريش إجمالاً؟", "behavior": "B1", "intent": "tafsir_surah", "source": "mode_finetuning"}
+{"id": "mft_0275", "text": "ممكن تفسير الآية تسعة عشر من سورة الفجر باختصار؟", "behavior": "B1", "intent": "tafsir_verse", "source": "mode_finetuning"}
+{"id": "mft_0276", "text": "Who are you?", "behavior": "B6", "intent": "english_brief", "source": "mode_finetuning"}
+{"id": "mft_0277", "text": "اكتب لي الآية واحد من سورة النصر.", "behavior": "B2", "intent": "scripture_audio_guard", "source": "mode_finetuning"}
+{"id": "mft_0278", "text": "حدثني عن سورة الصافات.", "behavior": "B1", "intent": "surah_info", "source": "mode_finetuning"}
+{"id": "mft_0279", "text": "ممكن نظرة عامة على تفسير سورة السجدة؟", "behavior": "B1", "intent": "tafsir_surah", "source": "mode_finetuning"}
+{"id": "mft_0280", "text": "حدثني عن سورة المائدة.", "behavior": "B1", "intent": "surah_info", "source": "mode_finetuning"}
+{"id": "mft_0281", "text": "أريد حديثاً في الصدق مع مصدره.", "behavior": "B1", "intent": "search_hadith", "source": "mode_finetuning"}
+{"id": "mft_0282", "text": "ما هي آخر فتاوى المجامع الفقهية في مسألة التأمين؟", "behavior": "B1", "intent": "web_search_exa", "source": "mode_finetuning"}
+{"id": "mft_0283", "text": "ما أفضل هاتف أشتريه هذا العام؟", "behavior": "B4", "intent": "scope_redirect", "source": "mode_finetuning"}
+{"id": "mft_0284", "text": "ماذا تستطيع أن تفعل؟", "behavior": "B3", "intent": "capability", "source": "mode_finetuning"}
+{"id": "mft_0285", "text": "شغّل لي سورة الملك كاملة.", "behavior": "B1", "intent": "play_surah", "source": "mode_finetuning"}
+{"id": "mft_0286", "text": "ممكن تفسير الآية ثلاثة من سورة الفجر باختصار؟", "behavior": "B1", "intent": "tafsir_verse", "source": "mode_finetuning"}
+{"id": "mft_0287", "text": "من أنشأك؟", "behavior": "B3", "intent": "creator", "source": "mode_finetuning"}
+{"id": "mft_0288", "text": "بماذا تساعدني؟", "behavior": "B3", "intent": "capability", "source": "mode_finetuning"}
+{"id": "mft_0289", "text": "أريد تفسير الآية رقم اثنان من القارعة.", "behavior": "B1", "intent": "tafsir_verse", "source": "mode_finetuning"}
+{"id": "mft_0290", "text": "من صمّمك؟", "behavior": "B3", "intent": "creator", "source": "mode_finetuning"}
+{"id": "mft_0291", "text": "احكِ لي نكتة مضحكة.", "behavior": "B4", "intent": "scope_redirect", "source": "mode_finetuning"}
+{"id": "mft_0292", "text": "اكتب لي الآية واحد من سورة الكوثر.", "behavior": "B2", "intent": "scripture_audio_guard", "source": "mode_finetuning"}
+{"id": "mft_0293", "text": "ممكن play سورة الرحمن؟", "behavior": "B6", "intent": "mixed_play", "source": "mode_finetuning"}
+{"id": "mft_0294", "text": "ما معنى قوله تعالى في الآية رقم ثلاثة من سورة الحديد؟", "behavior": "B1", "intent": "tafsir_verse", "source": "mode_finetuning"}
+{"id": "mft_0295", "text": "أريد تفسير الآية رقم اثنان وعشرون من الإنشقاق.", "behavior": "B1", "intent": "tafsir_verse", "source": "mode_finetuning"}
+{"id": "mft_0296", "text": "أريد أن أستمع إلى الآية رقم خمسة وعشرون من سورة الإنشقاق.", "behavior": "B1", "intent": "play_ayah", "source": "mode_finetuning"}
+{"id": "mft_0297", "text": "ما تفسير حلمي البارحة؟", "behavior": "B4", "intent": "scope_redirect", "source": "mode_finetuning"}
+{"id": "mft_0298", "text": "أريد تفسير سورة يوسف.", "behavior": "B1", "intent": "tafsir_surah", "source": "mode_finetuning"}
+{"id": "mft_0299", "text": "Can you write me a Python script?", "behavior": "B6", "intent": "english_scope", "source": "mode_finetuning"}
+{"id": "mft_0300", "text": "اقترح لي خطة تمارين رياضية.", "behavior": "B4", "intent": "scope_redirect", "source": "mode_finetuning"}
+{"id": "mft_0301", "text": "أسمعني الآية أربعة من سورة القارعة.", "behavior": "B1", "intent": "play_ayah", "source": "mode_finetuning"}
+{"id": "mft_0302", "text": "شغّل لي آية الكرسي.", "behavior": "B2", "intent": "named_verse_audio", "source": "mode_finetuning"}
+{"id": "mft_0303", "text": "اشرح لي تفسير الآية ثلاثة عشر من سورة الليل.", "behavior": "B1", "intent": "tafsir_verse", "source": "mode_finetuning"}
+{"id": "mft_0304", "text": "ما تفسير آية الكرسي؟", "behavior": "B1", "intent": "tafsir_named_verse", "source": "mode_finetuning"}
+{"id": "mft_0305", "text": "ما حكم بيع وشراء الأسهم؟", "behavior": "B5", "intent": "ruling", "source": "mode_finetuning"}
+{"id": "mft_0306", "text": "معلومات عن سورة النازعات.", "behavior": "B1", "intent": "surah_info", "source": "mode_finetuning"}
+{"id": "mft_0307", "text": "أريد تفسير سورة النصر.", "behavior": "B1", "intent": "tafsir_surah", "source": "mode_finetuning"}
+{"id": "mft_0308", "text": "معلومات عن سورة الحديد.", "behavior": "B1", "intent": "surah_info", "source": "mode_finetuning"}
+{"id": "mft_0309", "text": "شو اسمك؟", "behavior": "B3", "intent": "name", "source": "mode_finetuning"}
+{"id": "mft_0310", "text": "معلومات عن سورة آل عمران.", "behavior": "B1", "intent": "surah_info", "source": "mode_finetuning"}
+{"id": "mft_0311", "text": "ما حكم من يكفّر المسلمين؟", "behavior": "B5", "intent": "ruling", "source": "mode_finetuning"}
+{"id": "mft_0312", "text": "ما اسمك؟", "behavior": "B3", "intent": "name", "source": "mode_finetuning"}
+{"id": "mft_0313", "text": "معلومات عن سورة النبأ.", "behavior": "B1", "intent": "surah_info", "source": "mode_finetuning"}
+{"id": "mft_0314", "text": "ما معنى قوله تعالى في الآية رقم اثنان من سورة الشرح؟", "behavior": "B1", "intent": "tafsir_verse", "source": "mode_finetuning"}
+{"id": "mft_0315", "text": "معلومات عن سورة البقرة.", "behavior": "B1", "intent": "surah_info", "source": "mode_finetuning"}
+{"id": "mft_0316", "text": "Give me a hadith about patience.", "behavior": "B6", "intent": "english_hadith", "source": "mode_finetuning"}
+{"id": "mft_0317", "text": "معلومات عن سورة العنكبوت.", "behavior": "B1", "intent": "surah_info", "source": "mode_finetuning"}
+{"id": "mft_0318", "text": "حدثني عن سبب نزول سورة الضحى.", "behavior": "B1", "intent": "nuzool", "source": "mode_finetuning"}
+{"id": "mft_0319", "text": "حدّثني عن الصدق بحديثٍ صحيح.", "behavior": "B1", "intent": "search_hadith", "source": "mode_finetuning"}
+{"id": "mft_0320", "text": "Who programmed you?", "behavior": "B3", "intent": "creator", "source": "mode_finetuning"}
+{"id": "mft_0321", "text": "ما حكم العملات الرقمية في الفتاوى المعاصرة؟", "behavior": "B1", "intent": "web_search_exa", "source": "mode_finetuning"}
+{"id": "mft_0322", "text": "حدثني عن سورة الإخلاص.", "behavior": "B1", "intent": "surah_info", "source": "mode_finetuning"}
+{"id": "mft_0323", "text": "اذكر حديثاً عن الإيمان والأخوة.", "behavior": "B1", "intent": "search_hadith", "source": "mode_finetuning"}
+{"id": "mft_0324", "text": "شغّل لي سورة الفاتحة كاملة.", "behavior": "B1", "intent": "play_surah", "source": "mode_finetuning"}
+{"id": "mft_0325", "text": "ما هو اسمك؟", "behavior": "B3", "intent": "name", "source": "mode_finetuning"}
+{"id": "mft_0326", "text": "كم عدد آيات سورة الأعراف؟", "behavior": "B1", "intent": "surah_info", "source": "mode_finetuning"}
+{"id": "mft_0327", "text": "هل صيام يوم الجمعة منفرداً جائز؟", "behavior": "B5", "intent": "ruling", "source": "mode_finetuning"}
+{"id": "mft_0328", "text": "How can you help me?", "behavior": "B3", "intent": "capability", "source": "mode_finetuning"}
+{"id": "mft_0329", "text": "أسمعني الآية اثنان من سورة النصر. بصوت المنشاوي", "behavior": "B1", "intent": "play_ayah", "source": "mode_finetuning"}
+{"id": "mft_0330", "text": "تحقق من قراءتي للآية: الحمد لله رب العالمين", "behavior": "B1", "intent": "validate_recitation", "source": "mode_finetuning"}
+{"id": "mft_0331", "text": "وش معنى الآية اثنا عشر في سورة العلق؟", "behavior": "B1", "intent": "tafsir_verse", "source": "mode_finetuning"}
+{"id": "mft_0332", "text": "ممكن تفسير الآية خمسة من سورة الماعون باختصار؟", "behavior": "B1", "intent": "tafsir_verse", "source": "mode_finetuning"}
+{"id": "mft_0333", "text": "قل لي اسمك.", "behavior": "B3", "intent": "name", "source": "mode_finetuning"}
+{"id": "mft_0334", "text": "اشرح لي سورة العصر باختصار.", "behavior": "B1", "intent": "tafsir_surah", "source": "mode_finetuning"}
+{"id": "mft_0335", "text": "أريد تفسير سورة الكافرون.", "behavior": "B1", "intent": "tafsir_surah", "source": "mode_finetuning"}
+{"id": "mft_0336", "text": "أريد أن أستمع إلى الآية رقم تسعة من سورة الفجر. بصوت مشاري العفاسي", "behavior": "B1", "intent": "play_ayah", "source": "mode_finetuning"}
+{"id": "mft_0337", "text": "اشرح لي تفسير الآية اثنا عشر من سورة الأعلى.", "behavior": "B1", "intent": "tafsir_verse", "source": "mode_finetuning"}
+{"id": "mft_0338", "text": "ممكن تفسير الآية تسعون من سورة النحل باختصار؟", "behavior": "B1", "intent": "tafsir_verse", "source": "mode_finetuning"}
+{"id": "mft_0339", "text": "أنا قرأت: قل هو الله أحد، هل هي صحيحة؟", "behavior": "B1", "intent": "validate_recitation", "source": "mode_finetuning"}
+{"id": "mft_0340", "text": "أسمعني الآية اثنان وعشرون من سورة الإنشقاق.", "behavior": "B1", "intent": "play_ayah", "source": "mode_finetuning"}
+{"id": "mft_0341", "text": "ما معنى قوله تعالى في الآية رقم ثلاثة وعشرون من سورة عبس؟", "behavior": "B1", "intent": "tafsir_verse", "source": "mode_finetuning"}
+{"id": "mft_0342", "text": "بماذا أناديك؟", "behavior": "B3", "intent": "name", "source": "mode_finetuning"}
+{"id": "mft_0343", "text": "ما تفسير سورة الماعون إجمالاً؟", "behavior": "B1", "intent": "tafsir_surah", "source": "mode_finetuning"}
+{"id": "mft_0344", "text": "من تكون؟", "behavior": "B3", "intent": "name", "source": "mode_finetuning"}
+{"id": "mft_0345", "text": "ممكن نظرة عامة على تفسير سورة الفاتحة؟", "behavior": "B1", "intent": "tafsir_surah", "source": "mode_finetuning"}
+{"id": "mft_0346", "text": "من أنت؟", "behavior": "B3", "intent": "persona", "source": "mode_finetuning"}
+{"id": "mft_0347", "text": "Recite Ayat al-Kursi please.", "behavior": "B6", "intent": "english_play_ayah", "source": "mode_finetuning"}
+{"id": "mft_0348", "text": "اشرح لي تفسير الآية ثمانية من سورة الشرح.", "behavior": "B1", "intent": "tafsir_verse", "source": "mode_finetuning"}
+{"id": "mft_0349", "text": "هل تتكلم لغات غير العربية؟", "behavior": "B3", "intent": "persona", "source": "mode_finetuning"}
+{"id": "mft_0350", "text": "هل يجوز الجمع بين الصلاتين في السفر؟", "behavior": "B5", "intent": "ruling", "source": "mode_finetuning"}
+{"id": "mft_0351", "text": "أريد تفسير الآية رقم تسعة من الفجر.", "behavior": "B1", "intent": "tafsir_verse", "source": "mode_finetuning"}
+{"id": "mft_0352", "text": "شغّل لي سورة السجدة كاملة.", "behavior": "B1", "intent": "play_surah", "source": "mode_finetuning"}
+{"id": "mft_0353", "text": "شغّل لي سورة العلق كاملة.", "behavior": "B1", "intent": "play_surah", "source": "mode_finetuning"}
+{"id": "mft_0354", "text": "كم عدد آيات سورة الإنسان؟", "behavior": "B1", "intent": "surah_info", "source": "mode_finetuning"}
+{"id": "mft_0355", "text": "حدثني عن سورة الفاتحة.", "behavior": "B1", "intent": "surah_info", "source": "mode_finetuning"}
+{"id": "mft_0356", "text": "اذكر لي نص الآية رقم مئتان وخمسة وخمسون من سورة البقرة.", "behavior": "B2", "intent": "scripture_audio_guard", "source": "mode_finetuning"}
+{"id": "mft_0357", "text": "اشرح لي سورة التكاثر باختصار.", "behavior": "B1", "intent": "tafsir_surah", "source": "mode_finetuning"}
+{"id": "mft_0358", "text": "من سيفوز بكأس العالم برأيك؟", "behavior": "B4", "intent": "scope_redirect", "source": "mode_finetuning"}
+{"id": "mft_0359", "text": "شغّل لي الآية اثنان من القارعة.", "behavior": "B1", "intent": "play_ayah", "source": "mode_finetuning"}
+{"id": "mft_0360", "text": "ما نص الآية رقم اثنان من سورة الفاتحة؟", "behavior": "B2", "intent": "scripture_audio_guard", "source": "mode_finetuning"}
+{"id": "mft_0361", "text": "وش معنى الآية ثمانية في سورة البروج؟", "behavior": "B1", "intent": "tafsir_verse", "source": "mode_finetuning"}
+{"id": "mft_0362", "text": "ما نص الآية رقم مئتان وستة وثمانون من سورة البقرة؟", "behavior": "B2", "intent": "scripture_audio_guard", "source": "mode_finetuning"}
+{"id": "mft_0363", "text": "ما حكم سماع الموسيقى؟", "behavior": "B5", "intent": "ruling", "source": "mode_finetuning"}
+{"id": "mft_0364", "text": "ما معنى قوله تعالى في الآية رقم واحد من سورة الإسراء؟", "behavior": "B1", "intent": "tafsir_verse", "source": "mode_finetuning"}
+{"id": "mft_0365", "text": "اكتب لي الآية واحد من سورة القدر.", "behavior": "B2", "intent": "scripture_audio_guard", "source": "mode_finetuning"}
+{"id": "mft_0366", "text": "ماذا تستطيع أن تفعل؟", "behavior": "B3", "intent": "persona", "source": "mode_finetuning"}
+{"id": "mft_0367", "text": "اسمك ايش؟", "behavior": "B3", "intent": "name", "source": "mode_finetuning"}
+{"id": "mft_0368", "text": "ساعدني في كتابة سيرتي الذاتية.", "behavior": "B4", "intent": "scope_redirect", "source": "mode_finetuning"}
+{"id": "mft_0369", "text": "وش اسمك؟", "behavior": "B3", "intent": "name", "source": "mode_finetuning"}
+{"id": "mft_0370", "text": "ما تفسير سورة النبأ إجمالاً؟", "behavior": "B1", "intent": "tafsir_surah", "source": "mode_finetuning"}
+{"id": "mft_0371", "text": "أريد تفسير الآية رقم ثلاثة من الشرح.", "behavior": "B1", "intent": "tafsir_verse", "source": "mode_finetuning"}
+{"id": "mft_0372", "text": "اذكر لي نص الآية رقم واحد من سورة الإخلاص.", "behavior": "B2", "intent": "scripture_audio_guard", "source": "mode_finetuning"}
+{"id": "mft_0373", "text": "احسب لي قيمة الضريبة على راتبي.", "behavior": "B4", "intent": "scope_redirect", "source": "mode_finetuning"}
+{"id": "mft_0374", "text": "حدّثني عن فضل طلب العلم بحديثٍ صحيح.", "behavior": "B1", "intent": "search_hadith", "source": "mode_finetuning"}
+{"id": "mft_0375", "text": "هل يجوز الدعاء بغير العربية؟", "behavior": "B5", "intent": "ruling", "source": "mode_finetuning"}
+{"id": "mft_0376", "text": "أريد أن أستمع إلى الآية رقم ثلاثة من سورة الشرح. بصوت المنشاوي", "behavior": "B1", "intent": "play_ayah", "source": "mode_finetuning"}
+{"id": "mft_0377", "text": "ما تفسير سورة الملك إجمالاً؟", "behavior": "B1", "intent": "tafsir_surah", "source": "mode_finetuning"}
+{"id": "mft_0378", "text": "ما اسمك؟", "behavior": "B3", "intent": "persona", "source": "mode_finetuning"}
+{"id": "mft_0379", "text": "أريد تفسير سورة النور.", "behavior": "B1", "intent": "tafsir_surah", "source": "mode_finetuning"}
+{"id": "mft_0380", "text": "ما معنى قوله تعالى في الآية رقم خمسة وعشرون من سورة الإنشقاق؟", "behavior": "B1", "intent": "tafsir_verse", "source": "mode_finetuning"}
+{"id": "mft_0381", "text": "ما معنى قوله تعالى في الآية رقم خمسة وأربعون من سورة العنكبوت؟", "behavior": "B1", "intent": "tafsir_verse", "source": "mode_finetuning"}
+{"id": "mft_0382", "text": "ما معنى قوله تعالى في الآية رقم ستة عشر من سورة الليل؟", "behavior": "B1", "intent": "tafsir_verse", "source": "mode_finetuning"}
+{"id": "mft_0383", "text": "ما معنى قوله تعالى في الآية رقم مئة وتسعة وخمسون من سورة آل عمران؟", "behavior": "B1", "intent": "tafsir_verse", "source": "mode_finetuning"}
+{"id": "mft_0384", "text": "ممكن تلاوة الآية خمسة وعشرون من سورة النبأ؟ بصوت السديس", "behavior": "B1", "intent": "play_ayah", "source": "mode_finetuning"}
+{"id": "mft_0385", "text": "وش تقدر تسوي؟", "behavior": "B3", "intent": "persona", "source": "mode_finetuning"}
+{"id": "mft_0386", "text": "ممكن تفسير الآية أحد عشر من سورة الإنفطار باختصار؟", "behavior": "B1", "intent": "tafsir_verse", "source": "mode_finetuning"}
+{"id": "mft_0387", "text": "راجع تلاوتي: إياك نعبد وإياك نستعين", "behavior": "B1", "intent": "validate_recitation", "source": "mode_finetuning"}
+{"id": "mft_0388", "text": "حدثني عن سورة مريم.", "behavior": "B1", "intent": "surah_info", "source": "mode_finetuning"}
+{"id": "mft_0389", "text": "اقرأ لي الآية رقم عشرون من سورة البلد.", "behavior": "B1", "intent": "play_ayah", "source": "mode_finetuning"}
+{"id": "mft_0390", "text": "كيف يمكنك مساعدتي؟", "behavior": "B3", "intent": "capability", "source": "mode_finetuning"}
+{"id": "mft_0391", "text": "ما رأيك في مباراة الأمس؟", "behavior": "B4", "intent": "scope_redirect", "source": "mode_finetuning"}
+{"id": "mft_0392", "text": "حدثني عن سورة طه.", "behavior": "B1", "intent": "surah_info", "source": "mode_finetuning"}
+{"id": "mft_0393", "text": "ما حكم من يستهزئ بالدين؟", "behavior": "B5", "intent": "ruling_v2", "source": "mode_finetuning"}

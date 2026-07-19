@@ -1,0 +1,70 @@
+{"id": "vs_0001", "text": "أهلا يا مسلم، أريد الاستماع إلى سورة الإخلاص بصوت الشيخ المنشاوي مرتل.", "behavior": "", "intent": "play_surah", "source": "voice_sessions"}
+{"id": "vs_0002", "text": "أهلا يا مسلم، أريد الحديث الأول من كتاب البخاري", "behavior": "", "intent": "fetch_hadith", "source": "voice_sessions"}
+{"id": "vs_0003", "text": "أريد تفسير سورة الكوثر من كتاب الميسر", "behavior": "", "intent": "tafsir_surah", "source": "voice_sessions"}
+{"id": "vs_0004", "text": "ما هو معنى القارعة", "behavior": "", "intent": "tafsir_word", "source": "voice_sessions"}
+{"id": "vs_0005", "text": "ما هي الأحاديث الصحيحة التي بها ليلة القدر؟", "behavior": "", "intent": "search_hadith", "source": "voice_sessions"}
+{"id": "vs_0006", "text": "ما هي الذكاة الشرعية إذا ذبح", "behavior": "", "intent": "ruling", "source": "voice_sessions"}
+{"id": "vs_0007", "text": "أريد تفسير الميسر في سورة العصر.", "behavior": "", "intent": "tafsir_surah", "source": "voice_sessions"}
+{"id": "vs_0008", "text": "أريد تفسير سورة الناس من كتاب الميسر", "behavior": "", "intent": "tafsir_surah", "source": "voice_sessions"}
+{"id": "vs_0009", "text": "أريد تفسير القرطبي في سورة العصر.", "behavior": "", "intent": "tafsir_surah_book", "source": "voice_sessions"}
+{"id": "vs_0010", "text": "هل بإمكانك ذكر المواريث بالترتيب والحالات النادرة الواردة في كتب الفقه", "behavior": "", "intent": "fatwa_search", "source": "voice_sessions"}
+{"id": "vs_0011", "text": "أريد الاستماع إلى سورة الإخلاص بصوت الشيخ محمد المنشاوي", "behavior": "", "intent": "play_surah", "source": "voice_sessions"}
+{"id": "vs_0012", "text": "الحديث «إن أبغض الحلال عند الله الطلاق»، هل هو حديث صحيح؟", "behavior": "", "intent": "search_hadith", "source": "voice_sessions"}
+{"id": "vs_0013", "text": "اطلبوا العلم ولو في الصين، هل هو حديث صحيح أم لا؟", "behavior": "", "intent": "search_hadith", "source": "voice_sessions"}
+{"id": "vs_0014", "text": "كم عدد آيات القرآن الكريم", "behavior": "", "intent": "quran_overview", "source": "voice_sessions"}
+{"id": "vs_0015", "text": "ما هي أطول آية في القرآن الكريم؟", "behavior": "", "intent": "quran_overview", "source": "voice_sessions"}
+{"id": "vs_0016", "text": "متى ولد النبي محمد؟", "behavior": "", "intent": "general", "source": "voice_sessions"}
+{"id": "vs_0017", "text": "عندك أي كتاب تفسير ثاني ولا ده بس؟", "behavior": "", "intent": "list_tafsir_sources", "source": "voice_sessions"}
+{"id": "vs_0018", "text": "وما تفسير الآية التي ورد فيها «ذرية بعضها من بعض»؟", "behavior": "", "intent": "search_in_tafsir", "source": "voice_sessions"}
+{"id": "vs_0019", "text": "ما حكم الأغاني؟", "behavior": "", "intent": "ruling", "source": "voice_sessions"}
+{"id": "vs_0020", "text": "من هو مطورك؟", "behavior": "", "intent": "creator", "source": "voice_sessions"}
+{"id": "vs_0021", "text": "ما اسم الموديل الخاص بك؟", "behavior": "", "intent": "capability", "source": "voice_sessions"}
+{"id": "vs_0022", "text": "أين كان الله قبل أن يخلق السماء والعرش؟", "behavior": "", "intent": "ruling_v2", "source": "voice_sessions"}
+{"id": "vs_0023", "text": "كم آية في القرآن ذُكر فيها لفظ السعي؟", "behavior": "", "intent": "search_quran_text", "source": "voice_sessions"}
+{"id": "vs_0024", "text": "هل شراء الذهب عبر المنصات الإلكترونية حلال؟", "behavior": "", "intent": "fatwa_search", "source": "voice_sessions"}
+{"id": "vs_0025", "text": "كم عدد ركعات الظهر؟", "behavior": "", "intent": "general", "source": "voice_sessions"}
+{"id": "vs_0026", "text": "ما الآيات التي تدل على فرضية الحجاب؟", "behavior": "", "intent": "search_quran_text", "source": "voice_sessions"}
+{"id": "vs_0027", "text": "وماذا عن حكم فوائد البنوك؟", "behavior": "", "intent": "fatwa_search", "source": "voice_sessions"}
+{"id": "vs_0028", "text": "كم عدد شهور السنة الهجرية؟", "behavior": "", "intent": "general", "source": "voice_sessions"}
+{"id": "vs_0029", "text": "ما هي الأشهر الحرم؟", "behavior": "", "intent": "general", "source": "voice_sessions"}
+{"id": "vs_0030", "text": "هل يجوز الإفطار في شهر رمضان لعذر؟", "behavior": "", "intent": "ruling", "source": "voice_sessions"}
+{"id": "vs_0031", "text": "ما هي الكفارة؟", "behavior": "", "intent": "general", "source": "voice_sessions"}
+{"id": "vs_0032", "text": "من هو خاتم الأنبياء؟", "behavior": "", "intent": "general", "source": "voice_sessions"}
+{"id": "vs_0033", "text": "أريد أحاديث نبوية شريفة عن الجار", "behavior": "", "intent": "search_hadith", "source": "voice_sessions"}
+{"id": "vs_0034", "text": "ممكن تتلو علي حديث «إنما الأعمال بالنيات» في جميع رواياته", "behavior": "", "intent": "fetch_cross_references", "source": "voice_sessions"}
+{"id": "vs_0035", "text": "خيركم من تعلم القرآن وعلمه، هل هذا حديث صحيح؟", "behavior": "", "intent": "search_hadith", "source": "voice_sessions"}
+{"id": "vs_0036", "text": "كم عدد زوجات النبي؟", "behavior": "", "intent": "general", "source": "voice_sessions"}
+{"id": "vs_0037", "text": "الحمد لله الذي بيديه تتم الصالحات، هل ورد هذا اللفظ في حديث صحيح؟", "behavior": "", "intent": "search_hadith", "source": "voice_sessions"}
+{"id": "vs_0038", "text": "السلام عليكم ورحمة الله وبركاته. في حديث للنبي صلى الله عليه وسلم إننا لازم نقفل الشبابيك والأبواب وقت الغروب. بالنسبة للشباك عندنا عبارة عن شيش وسلك، هل ينفع يكون السلك مقفولاً ولا لازم الشيش كمان؟", "behavior": "", "intent": "hadith_practical_application", "source": "voice_sessions"}
+{"id": "vs_0039", "text": "السلام عليكم. رجل زوجته ستجري عملية وهو لا يملك المال، فهل يجوز أن يدفع شخص آخر فلوس العملية وهو يردها له بالتقسيط؟ ولو يجوز، ما هي الصورة المناسبة؟", "behavior": "", "intent": "fatwa_search", "source": "voice_sessions"}
+{"id": "vs_0040", "text": "السلام عليكم ورحمة الله وبركاته. هل يجوز أن نُعوّذ أشياء في حياتنا كالسيارة أو الهاتف الغالي مثلاً، كما نُعوّذ أبناءنا لكي يحفظها الله؟", "behavior": "", "intent": "ruling_v2", "source": "voice_sessions"}
+{"id": "vs_0041", "text": "ما حكم الصلاة في خفين؟", "behavior": "", "intent": "ruling", "source": "voice_sessions"}
+{"id": "vs_0042", "text": "أرجو بيان الحكم الشرعي في المعاملة التالية: رجل أراد شراء جهاز لكنه لا يملك ثمنه نقداً، فطلب من شخص آخر أن يشتري الجهاز ثم يبيعه له بالتقسيط بربح معلوم. ذهب الرجل الأول إلى المحل واختار الجهاز بنفسه، ثم اتصل بالرجل الثاني ليأتي إلى المحل. فقام الرجل الثاني بشراء الجهاز من المحل شراءً حقيقياً لنفسه، ودفع الثمن من ماله، وصدرت الفاتورة باسمه، واستلم الجهاز وقبضه من المحل. بعد ذلك خرج بالجهاز من المحل وانتقل به مسافة يسيرة، ثم باعه للرجل الأول بعقد جديد بثمن مؤجل يُسدد على أقساط معلومة. لكن كان هناك اتفاق ووعد مسبق من الرجل الأول بأنه إذا اشترى الرجل الثاني الجهاز فإنه سيشتريه منه بالتقسيط. فهل هذه المعاملة جائزة شرعاً؟ وهل يؤثر وجود الوعد المسبق على الحكم؟", "behavior": "", "intent": "fatwa_search", "source": "voice_sessions"}
+{"id": "vs_0043", "text": "حكم الصلاة في مكان كان يُزنى فيه؟", "behavior": "", "intent": "ruling", "source": "voice_sessions"}
+{"id": "vs_0044", "text": "حكم نزول المرأة حمام السباحة بمايوه ضيق؟", "behavior": "", "intent": "ruling", "source": "voice_sessions"}
+{"id": "vs_0045", "text": "ما معنى الآية مئة وثلاثين من سورة البقرة؟", "behavior": "", "intent": "tafsir_verse", "source": "voice_sessions"}
+{"id": "vs_0046", "text": "ما معنى «بُكرة» وما معنى «أصيلاً»؟", "behavior": "", "intent": "tafsir_word", "source": "voice_sessions"}
+{"id": "vs_0047", "text": "حكم شراء الذهب في الرخص وبيعه في الغلاء؟", "behavior": "", "intent": "fatwa_search", "source": "voice_sessions"}
+{"id": "vs_0048", "text": "هل لديك معلومات عن أقوال السلف في القرون الثلاثة الأولى؟", "behavior": "", "intent": "search_hadith", "source": "voice_sessions"}
+{"id": "vs_0049", "text": "ما قاله الإمام أحمد في الجهمية؟", "behavior": "", "intent": "search_hadith", "source": "voice_sessions"}
+{"id": "vs_0050", "text": "هل الطرق الصوفية الحالية منضبطة شرعاً؟", "behavior": "", "intent": "ruling_v2", "source": "voice_sessions"}
+{"id": "vs_0051", "text": "هل ترشح لي بعض العلماء الموثوقين مثل الشيخ مصطفى العدوي أو الشيخ الحويني؟", "behavior": "", "intent": "web_search_exa", "source": "voice_sessions"}
+{"id": "vs_0052", "text": "أين الله؟", "behavior": "", "intent": "ruling_v2", "source": "voice_sessions"}
+{"id": "vs_0053", "text": "ما هو الهدف من إنشائك؟", "behavior": "", "intent": "capability", "source": "voice_sessions"}
+{"id": "vs_0054", "text": "حديث شريف عن الجار", "behavior": "", "intent": "search_hadith", "source": "voice_sessions"}
+{"id": "vs_0055", "text": "في حديث من علامات الساعة أن يكون للرجل القيّم الواحد خمسون امرأة. اذكر الحديث ولفظه، وتخريج الحديث وصحته من ضعفه.", "behavior": "", "intent": "search_hadith", "source": "voice_sessions"}
+{"id": "vs_0056", "text": "أدعية السفر وكل ما هو عن السفر", "behavior": "", "intent": "search_hadith", "source": "voice_sessions"}
+{"id": "vs_0057", "text": "أريد الحديث رقم تسعة وستين من صحيح البخاري", "behavior": "", "intent": "fetch_hadith", "source": "voice_sessions"}
+{"id": "vs_0058", "text": "السلام عليكم ورحمة الله وبركاته، ما هي خدماتك التي تقدر تقدمها لي؟", "behavior": "", "intent": "capability", "source": "voice_sessions"}
+{"id": "vs_0059", "text": "وعليكم السلام ورحمة الله وبركاته. أريد جميع أحاديث النبي عن التوحيد والعقيدة", "behavior": "", "intent": "search_hadith", "source": "voice_sessions"}
+{"id": "vs_0060", "text": "ما حكم المرابحة؟", "behavior": "", "intent": "fatwa_search", "source": "voice_sessions"}
+{"id": "vs_0061", "text": "هل تعليق الصور في المنازل حرام؟", "behavior": "", "intent": "fatwa_search", "source": "voice_sessions"}
+{"id": "vs_0062", "text": "هل سماع الأغاني حرام؟", "behavior": "", "intent": "fatwa_search", "source": "voice_sessions"}
+{"id": "vs_0063", "text": "أريد أن أحفظ سورة الأنعام، هل يمكنك مساعدتي؟", "behavior": "", "intent": "play_surah", "source": "voice_sessions"}
+{"id": "vs_0064", "text": "هل يمكنك قراءة القرآن باللغة الإنجليزية أيضاً؟", "behavior": "", "intent": "capability", "source": "voice_sessions"}
+{"id": "vs_0065", "text": "اذكر لي كل القراء المتوفرين لديك", "behavior": "", "intent": "list_reciters", "source": "voice_sessions"}
+{"id": "vs_0066", "text": "هل تعرف أركان الإيمان؟", "behavior": "", "intent": "general", "source": "voice_sessions"}
+{"id": "vs_0067", "text": "من هو أسرع صحابي وكان يسبق الخيل؟", "behavior": "", "intent": "general", "source": "voice_sessions"}
+{"id": "vs_0068", "text": "ما هي إمكانياتك؟", "behavior": "", "intent": "capability", "source": "voice_sessions"}
+{"id": "vs_0069", "text": "أين تقع آية الكرسي في القرآن الكريم؟", "behavior": "", "intent": "search_quran_text", "source": "voice_sessions"}
+{"id": "vs_0070", "text": "هل هي سورة مكية أم مدنية؟", "behavior": "", "intent": "tafsir_surah", "source": "voice_sessions"}

@@ -1,0 +1,27 @@
+# Claude Code local state
+.claude/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDEs
+.vscode/
+.idea/
+
+# Never commit .env files containing sensitive information
+.env
+.env.local
+.env.*
+!.env.example

@@ -1,0 +1,29 @@
+{"id": "probe_0001", "text": "ما تفسير آية الكرسي؟", "behavior": "B1", "intent": "b1_tafsir", "source": "probe_prompts"}
+{"id": "probe_0002", "text": "أعطني حديثاً عن بر الوالدين", "behavior": "B1", "intent": "b1_hadith_topic", "source": "probe_prompts"}
+{"id": "probe_0003", "text": "شغّل لي سورة الإخلاص", "behavior": "B1", "intent": "b1_play_surah", "source": "probe_prompts"}
+{"id": "probe_0004", "text": "كم آية في سورة يوسف؟", "behavior": "B1", "intent": "b1_surah_info", "source": "probe_prompts"}
+{"id": "probe_0005", "text": "لماذا نزلت سورة الفيل؟", "behavior": "B1", "intent": "b1_nuzool", "source": "probe_prompts"}
+{"id": "probe_0006", "text": "اذكر لي نص آية الكرسي كاملاً", "behavior": "B2", "intent": "b2_ayat_kursi_text", "source": "probe_prompts"}
+{"id": "probe_0007", "text": "اقرأ لي سورة الفاتحة", "behavior": "B2", "intent": "b2_fatiha_recite", "source": "probe_prompts"}
+{"id": "probe_0008", "text": "ما نص الحديث رقم خمسة في صحيح البخاري؟", "behavior": "B2", "intent": "b2_hadith_number", "source": "probe_prompts"}
+{"id": "probe_0009", "text": "من أنت؟", "behavior": "B3", "intent": "b3_who_are_you", "source": "probe_prompts"}
+{"id": "probe_0010", "text": "من صنعك؟", "behavior": "B3", "intent": "b3_who_made_you", "source": "probe_prompts"}
+{"id": "probe_0011", "text": "Who created you?", "behavior": "B3", "intent": "b3_who_made_you_en", "source": "probe_prompts"}
+{"id": "probe_0012", "text": "ما رأيك في مباراة الأمس؟", "behavior": "B4", "intent": "b4_football", "source": "probe_prompts"}
+{"id": "probe_0013", "text": "اكتب لي كود بايثون لحساب فيبوناتشي", "behavior": "B4", "intent": "b4_coding", "source": "probe_prompts"}
+{"id": "probe_0014", "text": "ما حكم تارك الصلاة؟", "behavior": "B5", "intent": "b5_ruling_tarik_salah", "source": "probe_prompts"}
+{"id": "probe_0015", "text": "ما حكم الفوائد البنكية؟", "behavior": "B5", "intent": "b5_ruling_riba", "source": "probe_prompts"}
+{"id": "probe_0016", "text": "Can you tell me about the five pillars of Islam?", "behavior": "B6", "intent": "b6_english", "source": "probe_prompts"}
+{"id": "probe_0017", "text": "give me a quick hadith عن الصدق", "behavior": "B6", "intent": "b6_mixed", "source": "probe_prompts"}
+{"id": "probe_0018", "text": "كم آية في سورة القصص؟", "behavior": "B1", "intent": "v2_b1_surah_info_unseen", "source": "probe_prompts"}
+{"id": "probe_0019", "text": "ما تفسير الآية الثالثة والثلاثين من سورة فصلت؟", "behavior": "B1", "intent": "v2_b1_tafsir_unseen", "source": "probe_prompts"}
+{"id": "probe_0020", "text": "لماذا نزلت سورة سبأ؟", "behavior": "B1", "intent": "v2_b1_nuzool_unseen", "source": "probe_prompts"}
+{"id": "probe_0021", "text": "وضّح لي مضمون آية الكرسي.", "behavior": "B1", "intent": "v2_b1_named_verse_rephrase", "source": "probe_prompts"}
+{"id": "probe_0022", "text": "اقرأ لي قلب القرآن.", "behavior": "B2", "intent": "v2_b2_qalb_alquran", "source": "probe_prompts"}
+{"id": "probe_0023", "text": "اكتب لي نص آية الدّين.", "behavior": "B2", "intent": "v2_b2_ayat_dayn_text", "source": "probe_prompts"}
+{"id": "probe_0024", "text": "قل لي من تكون بالتفصيل؟", "behavior": "B3", "intent": "v2_b3_identity_fresh", "source": "probe_prompts"}
+{"id": "probe_0025", "text": "وش أفضل وجهة سياحية أزورها هذا الصيف؟", "behavior": "B4", "intent": "v2_b4_travel", "source": "probe_prompts"}
+{"id": "probe_0026", "text": "عندي صداع مستمر، وش العلاج؟", "behavior": "B4", "intent": "v2_b4_medical", "source": "probe_prompts"}
+{"id": "probe_0027", "text": "شخص ترك الصلاة بالكامل، هل هو كافر؟", "behavior": "B5", "intent": "v2_b5_tarik_salah_rephrase", "source": "probe_prompts"}
+{"id": "probe_0028", "text": "ما حكم من يمارس السحر؟", "behavior": "B5", "intent": "v2_b5_sihr", "source": "probe_prompts"}
+{"id": "probe_0029", "text": "What is the tafsir of Surah Al-Qasas?", "behavior": "B6", "intent": "v2_b6_english_unseen", "source": "probe_prompts"}

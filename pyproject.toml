@@ -1,0 +1,10 @@
+[project]
+name = "dspark-muslim-model"
+version = "0.1.0"
+description = "Domain-specific DSpark speculative-decoding draft model for Muslim-6B-v3"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "ipykernel>=7.3.0",
+    "vllm>=0.25.1",
+]
