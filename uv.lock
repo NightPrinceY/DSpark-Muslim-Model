@@ -887,7 +887,7 @@ wheels = [
 ]
 
 [[package]]
-name = "dspark"
+name = "dspark-muslim-model"
 version = "0.1.0"
 source = { virtual = "." }
 dependencies = [
